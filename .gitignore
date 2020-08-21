@@ -1,0 +1,11 @@
+# IDEs
+.idea/
+.vscode
+
+# Hugo
+resources/
+public/
+
+.*
+!.gitignore
+themes/
