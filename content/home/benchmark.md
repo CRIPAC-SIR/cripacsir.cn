@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = '<a href="/benchmark" >Benchmarks</a>'
@@ -30,13 +30,13 @@ subtitle = ""
     tag = "Iris Recognition"
   
   [[content.filter_button]]
+    name = "Light Field Photography"
+    tag = "Light Field Photography"
+
+  [[content.filter_button]]
     name = "Ocular Recognition"
     tag = "Ocular Recognition"
   
-
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

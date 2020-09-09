@@ -33,10 +33,10 @@
   url = "/dataset"
   weight = 60
 
-[[main]]
-  name = "Benchmark"
-  url = "#benchmark"
-  weight = 50
+# [[main]]
+#   name = "Benchmark"
+#   url = "#benchmark"
+#   weight = 50
 
 [[main]]
   name = "Contact"

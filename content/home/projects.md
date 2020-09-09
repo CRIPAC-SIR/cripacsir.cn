@@ -28,15 +28,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "Iris Recognition"
     tag = "Iris Recognition"
-  
+
+  [[content.filter_button]]
+    name = "Light Field Photography"
+    tag = "Light Field Photography"
+
   [[content.filter_button]]
     name = "Ocular Recognition"
     tag = "Ocular Recognition"
-  
-
-  [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

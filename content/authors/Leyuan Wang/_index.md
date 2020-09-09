@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Students
+role: M.Sc. candidate
 
 # Organizations/Affiliations
 organizations:
@@ -27,12 +27,9 @@ interests:
 
 education:
   courses:
-  - course: M.E. in Artificial Intelligence
-    institution: School of Artificial Intelligence, University of Chinese Academy of Sciences
-    year: 2018-
-  - course: B.E. in Forensic Audio and Video Technology
-    institution: Massachusetts Institute of Technology
-    year: 2014-2018
+  - course: B.E. degree in Forensic Audio and Video Technology
+    institution: Criminal Investigation Police University of China
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,7 +51,7 @@ email: "leyuan.wang@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Students
+- Graduate Students
 #- Grad Students
 ---
-Leyuan Wang, master student, received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
+Leyuan Wang is currently pursuing the Master degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
