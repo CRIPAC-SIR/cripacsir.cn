@@ -9,4 +9,5 @@
   - 已发表论文在 content\publication
 
 **新增内容请按照同类型模板编写markdown文件** 撰写markdown文件推荐使用VSCode+Markdown_all_in_one插件
+
 请在本地检查显示效果后再请求merge
