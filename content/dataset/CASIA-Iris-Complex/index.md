@@ -34,27 +34,31 @@ CASIA-Iris-Complex contains totally 22,932 images from 292 Asian subjects. It in
 |        Distance        |             0\.75m              |           1m,3m,5m           |
 |         Object         |          Partial face           |             Eye              |
 
-<!-- ### CASIA-Iris-CX1
+### CASIA-Iris-CX1
 
-CASIA-Iris-CX1 was designed to research destortion caused by subject such as pupil dilation, strabismus, and occlusion. Partial face images were captured with a modified Canon EOS 1300D camera which Infrared cut-off filters was changed by Infrared passing filters. All collection work was finished indoors, and both visible light source and near-infrared light source are used for illumination.
+CASIA-Iris-CX1 is designed to explore quality degrade caused by subject such as pupil dilation, strabismus, and occlusion. Partial face images were captured with a modified Canon EOS 1300D camera which Infrared cut-off filters was replaced by Infrared passing filters. All collection work was finished indoors, and both visible light source and near-infrared light source are used for illumination.
 ![environment and equipment](./cx1camera.png)
 
-For pupil dilation, we change the brightness of ambient light (within safe range) to stimulate pupil variety. Visible light changes can not recorded by modified cameras, so the brightness of the image is constant. In addition, we also collected images of natural light sources. Due to the long continent period, the environment includes noon, dusk, sunny and cloudy.
+For pupil dilation, we changed the intensity of visible light to stimulate pupil variety while keeping the intensity of infrared light unchanged. In addition, we also collected images under natural light, such as noon, dusk, sunny and cloudy.
+![pupil dilation](./cx1brightness.png)
 
 For strabismus, we placed five targets behind the camera, respectively at the left, top left, top, top right, and right positions. Looking at these targets will cause a squint of about 45 degrees.
+![off-angle](./cx1offangle.jpg)
 
-For occlusion, we require volunteers to wear glasses. During the acquisition process, the near-infrared light source is randomly moved to generate light spot. Meanwhile some glasses also have stains on the surface to occlude iris. Another type of occlusion comes from the person being collected. We asked the person to actively squint or close their eyes and take images of these states. We noticed a more interesting problem is that for some elderly people, their eyelids will naturally sag, resulting in very serious occlusion, which is a huge challenge that has to be faced.
+For occlusion, Volunteers were required to wear glasses, mask and using hand to cover mouth. During this section, the near-infrared light source is randomly moved to generate light spot. Meanwhile some glasses also have stains on the surface to occlude iris. Another type of occlusion comes from the person being collected. Volunteers were required to squint or close their eyes. We noticed a more interesting problem is that for some elderly volunteers, their eyelids will naturally sag, resulting in very serious occlusion.
+![occlusion](./cx1occlusion.jpg)
 
-In addition, both defocus and motion blur are inevitable during the acquisition process, and we retain these images for research on related issues.
+Furthermore, both defocus and motion blur are inevitable during the acquisition process, and we retain these images for research on related issues.
 
 ### CASIA-Iris-CX2
 
-Distant mainly explores the problems of iris recognition in long distance situations. We use our own long-range iris acquisition device, which can collect high-resolution iris images at a distance of 1-6m. The acquisition environment and acquisition equipment are shown below.
+CASIA-Iris-CX2 is a **small-scale experimental** dataset used to explore the problems in long-distance iris recognition. We use a self-developed iris imaging system, which can obtain iris images with sufficient resolution (diameter greater than 60 pixels) in the range of 1-6m.
 ![environment and equipment](./cx2camera.png)
 
-This device includes a lens that can quickly zoom within a certain range, so it can take continuous zoom images, that is, a sequence of images from blurred to clear to blurred, which can be used for research on the determination and enhancement of blurred images.
-We note that one of the difficulties in long-range iris recognition is near-infrared illumination. The position of the target in long-distant iris recognition is uncertain, and it is difficult for the near-infrared light source placed adjacent to the camera to make the target accurately exposed. To this end, we have taken some over-exposed and under-exposed images, hoping to solve this practical problem. Specifically, we did not really adjust the intensity of the light source, but simulated the problem by changing the camera exposure time (8ms ~ 35ms), so that the exposure time can be used to quantitatively describe the degree of exposure.
-In addition, considering that the target has a lower degree of cooperation in long-range iris recognition, we also require the subject to achieve the effect of squinting by moving the head and rotating the eyeball. -->
+In the case of a long distance, the image may be defocus blurred due to the error of distance perception. Therefore, we collected a continuous zoom image sequence which is changed as "blur-clear-blur“.
+
+Another problem is near-infrared lighting. The illuminance of a light source with a fixed power and a fixed position is different at different distances. In order to ensure the image consistency of the entire subdataset, we moved the near-infrared light source during the acquisition process and ensured that the brightness of the image was basically equal. At the same time, we also obtained a series of over-exposed/under-exposed images by varying the exposure time (8ms ~ 35ms).
+![eyes](./cx2imgs.png)
 
 ## Database Organization
 
@@ -68,6 +72,7 @@ The file name of each image in CASIA-Iris-Complex is unique to each other and de
     - '3x' represents the direction of thr person looks at, where x is between 1-4,  means left-up, right-up, right-down, left-down.
     - '40' and '41' represents squinting and closing eyes.
     - '5x' represents occlusion, where x is the occlusion type, and the value is between 1-3, which in turn means that the hand covers the face, wears a mask, and wears glasses
+    - *Note: Unless otherwise specified, the brightness of the image is "medium", the subject is required to look directly at the camera and not wear obstructions such as glasses.*
   - DDD: the index of the image in the same scenarios
 
 - The images of CASIA-Iris-CX1 are stored as: AAAA_B_CD_TTTTTTTTTT.jpg
@@ -84,4 +89,6 @@ The file name of each image in CASIA-Iris-Complex is unique to each other and de
 
 ## Copyright Note and Contacts
 
-The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as “Portions of the research in this paper use the CASIA-Iris-Complex-V1.0 collected by the Chinese Academy of Sciences' Institute of Automation (CASIA)”.
+The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as "Portions of the research in this paper use the CASIA-Iris-Complex-V1.0 collected by the Chinese Academy of Sciences' Institute of Automation (CASIA)".
+
+To download this dataset, plase contact [sir@cripac.ia.ac.cn](mailto://sir@cripac.ia.ac.cn)
