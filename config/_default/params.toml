@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "sir@casia.ia.ac.cn"
+email = "sir@cripac.ia.ac.cn"
 # phone = "+86 135 1105 7902"
 
 # Address
