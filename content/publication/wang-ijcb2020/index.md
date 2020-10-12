@@ -36,11 +36,11 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://arxiv.org/pdf/2009.00294"
-# url_code:
-# url_dataset:
+url_code: https://github.com/Debatrix/DFSNet
+url_dataset: dataset/casia-iris-complex
 # url_poster:
 # url_project:
-# url_slides:
+url_slides: slide.pdf
 # url_source:
 # url_video:
 
