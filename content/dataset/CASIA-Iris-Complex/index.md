@@ -16,11 +16,11 @@ image:
 
 ## Introduction
 
-Iris is considered one of the most accurate and reliable biometric modality. Iris is more stable and distinctive compared with fingerprint, face, voice, etc, and difficult to be replicated for spoof attacks. Although an iris pattern is naturally an ideal identifier, the development of a high-performance iris recognition algorithm and transferring it from research lab to practical applications is still a challenging task. In practical applications, the iris recognition system must face various unpredictable iris image degraded. For example, recognition of low-quality iris images, non-cooperative iris images, long-range iris images, and moving iris images are all huge problems in iris recognition. We believe that the first step in solving these problems is to design and develop a database of iris images that includes all of these degraded.
+Iris is considered one of the most accurate and reliable biometric modality. Iris is more stable and distinctive compared with fingerprint, face, voice, etc, and difficult to be replicated for spoof attacks. Although an iris pattern is naturally an ideal identifier, the development of a high-performance iris recognition algorithm and transferring it from laboratory to field application is still a challenging task. In practical applications, the iris recognition system must face various unpredictable iris image degraded. For example, recognition of low-quality iris images, non-cooperative iris images, long-range iris images, and moving iris images are all huge problems in iris recognition. We believe that the first step in solving these problems is to design and develop a database of iris images that includes all of these degraded.
 
 ## Brief Descriptions and Statistics of the Database
 
-CASIA-Iris-Complex contains totally 22,932 images from 292 Asian subjects. It includes two subsets: CASIA-Iris-CX1 and CASIA-Iris-CX2. All images were collected under NIR illumination and two eyes were captured simultaneously. Detailed information of each subset is shown below.
+CASIA-Iris-Complex contains 22,932 images from 292 Asian subjects. It includes two subsets: CASIA-Iris-CX1 and CASIA-Iris-CX2. All images were collected under NIR illumination and two eyes were captured simultaneously. Detailed information of each subset is shown below.
 
 | Subset Characteristics |         CASIA-Iris-CX1          |        CASIA-Iris-CX2        |
 | :--------------------: | :-----------------------------: | :--------------------------: |
@@ -69,7 +69,7 @@ The file name of each image in CASIA-Iris-Complex is unique to each other and de
   - B: '1' denotes left eye and '2' denotes right eye.
   - CC: represent the acquisition conditions.
     - '2x' represents brightness, where x is between 0-4, means 'natural light', 'dark', 'weak', 'medium', and 'strong' brightness.
-    - '3x' represents the direction of thr person looks at, where x is between 1-4,  means left-up, right-up, right-down, left-down.
+    - '3x' represents the direction of the person looks at, where x is between 1-4,  means left-up, right-up, right-down, left-down.
     - '40' and '41' represents squinting and closing eyes.
     - '5x' represents occlusion, where x is the occlusion type, and the value is between 1-3, which in turn means that the hand covers the face, wears a mask, and wears glasses
     - *Note: Unless otherwise specified, the brightness of the image is "medium", the subject is required to look directly at the camera and not wear obstructions such as glasses.*
@@ -91,4 +91,4 @@ The file name of each image in CASIA-Iris-Complex is unique to each other and de
 
 The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as "Portions of the research in this paper use the CASIA-Iris-Complex-V1.0 collected by the Chinese Academy of Sciences' Institute of Automation (CASIA)".
 
-To download this dataset, plase contact [sir@cripac.ia.ac.cn](mailto://sir@cripac.ia.ac.cn)
+To receive a copy of the database, a **non-student researcher** must **manually sign** the [License Agreement](license_agreement.pdf) and agree to **observe the restrictions**. The signed document should be **digitized** and **sent through** email to:[sir@cripac.ia.ac.cn](mailto://sir@cripac.ia.ac.cn)
