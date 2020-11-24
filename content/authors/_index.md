@@ -44,6 +44,6 @@ and intelligent manufacturing.
 <i class="fas fa-user-graduate"></i> **&emsp;Tianhao Lu**  
 <i class="fas fa-user-graduate"></i> **&emsp;Hongda Liu**  
 
-## **Alumni(毕业校友)/Former PhD Students**
+## **Alumni/Former PhD Students**
 <i class="fas fa-user-graduate"></i> **&emsp;Caiyong Wang** 
 <div align=center><strong><font size='10'>All Contributor for Our Team</font></strong></center>
