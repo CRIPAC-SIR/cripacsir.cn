@@ -1,6 +1,6 @@
 ---
-title: An Evaluation Benchmark for Preprocessing and Recognition of Spatially Variant Blurred Iris Images
-summary: There does not exist a publicly available database containing a large number of defocused or motion-blurred NIR iris images with labeled identities and annotated segmentation masks. We announce the availability of a long-range captured dataset containing 3,756 iris images of varying blur levels from 98 subjects. An evaluation benchmark is built upon the dataset for a comparative study on preprocessing and recognition of spatially variant blurred NIR iris images. 
+title: An Evaluation Benchmark for Preprocessing and Recognition of Spatially Variant Blurred Iris Images
+summary: We announce the availability of a long-range captured dataset containing 3,756 iris images of varying blur levels from 98 subjects. An evaluation benchmark is built upon the dataset for a comparative study on preprocessing and recognition of spatially variant blurred NIR iris images. 
 tags:
 - Dataset
 date: "2021-04-13T00:00:00Z"
@@ -25,7 +25,7 @@ The schematic and setup of blur-varying iris image collection of this database a
 
 ![Schematic and setup of spatially variant blurred iris image collection at a distance.](./capture_setting.png "Image Collection")
 
-The next generation of CASIA-LR-Cam bundled with NIR illumination at a wavelength of 830 nm was employed as the capturing device. Its standoff distance is approximately 1.2 meters with a DoF of over 20 centimeters. The field of view (FoV) is approximately 20 degrees. The device was placed in an indoor environment under no extra lighting sources. During the process of image collection, the subjects were obliged to move freely in the restricted square area 1.0~1.4 meters away from the device. Specifically, they could casually step forward and backward, left and right.
+The next generation of CASIA-LR-Cam bundled with NIR illumination at a wavelength of 830 nm was employed as the capturing device. Its standoff distance is approximately 1.2 meters with a DoF of over 20 centimeters. The field of view (FoV) is approximately 20 degrees. The device was placed in an indoor environment under no extra lighting sources. During the process of image collection, the subjects were obliged to move freely in the restricted square area 1.0~1.4 meters away from the device. Specifically, they could casually step forward and backward, left and right.
 
 While moving inside the restricted area, the subjects were guided by the signal on the screen to look directly into the imaging device for approximately 30 seconds in a single session. Two separate sessions were launched in the daytime under the same conditions, and the interval was one week. If the subject was wearing glasses, he or she needed to take them off in either of the two sessions (`play the video and see`). 
 
