@@ -117,6 +117,8 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "github", icon_pack = "fab", name = "GitHub Page", link = "https://cripac-sir.github.io/"},
+  {icon = "git-alt", icon_pack = "fab", name = "Code sharing", link = "https://github.com/CRIPAC-SIR"},
   ]
 
 ############################
