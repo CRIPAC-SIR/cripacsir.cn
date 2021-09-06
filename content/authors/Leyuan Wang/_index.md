@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Sc. candidate
+role: engineer
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Leyuan Wang, master student, received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
+bio: Leyuan Wang, engineer, received the M.S. degree from the School of Artificial Intelligence, Chinese Academy of Sciences, China, in 2020. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
 
 interests:
 - Artificial Intelligence
@@ -30,6 +30,9 @@ education:
   - course: B.E. degree in Forensic Audio and Video Technology
     institution: Criminal Investigation Police University of China
     year: 2018
+  - course: M.S. degree in Computer Technology
+    institution: University of Chinese Academy of Sciences
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -54,4 +57,4 @@ user_groups:
 - Graduate Students
 #- Grad Students
 ---
-Leyuan Wang is currently pursuing the Master degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
+Leyuan Wang is currently an Engineer at Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018, and the M.S. degree from the School of Artificial Intelligence, Chinese Academy of Sciences, China, in 2020. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
