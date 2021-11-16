@@ -53,7 +53,7 @@ email: "tao.qin@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 #- Administration
 ---
 Tao Qin is currently pursuing the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Automation from the School of Mechanical and Electrical Engineering at Zhoukou Normal University. His research focuses on pattern recognition.

@@ -60,7 +60,7 @@ email: "wanting.zhou@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Post Doctoral
+- Alumni
 #- Administration
 ---
 Wanting Zhou is currently a postdoc with the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. She received the B.E. degree in Automation Technology, the M.S. degree in Control Engineering and the Ph.D. degree in Detection Technology and Automation Devices from North China Electric Power University, Beijing, China in 2014, 2016 and 2019. She was funded by the China Scholarship Council and did some research as a joint PhD. student in the University of Cambridge in 2018. She received the National Postdoctoral Program for Innovative Talents from China Postdoctoral Science Foundation in 2019. Her current research interests include biometrics, computer vision, and deep leaning.

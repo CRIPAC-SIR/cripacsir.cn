@@ -56,7 +56,7 @@ email: "yu.tian@ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Staff
 #- Administration
 ---
-Yu Tian is currently an Engineer at the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA). He received the B.E. degree in Information Counter Technology and the M.S. degree in Information and Communication Engineering from North University of China, China in 2016 and 2019. His research focuses on computational photography, pattern recognition and biometrics.
+Yu Tian is is currently an Engineer at the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA). He received the B.E. degree in Information Counter Technology and the M.S. degree in Information and Communication Engineering from North University of China, China in 2016 and 2019. His research focuses on computational photography, pattern recognition and biometrics.

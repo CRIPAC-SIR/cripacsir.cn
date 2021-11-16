@@ -18,6 +18,7 @@ subtitle = ""
                  "Researchers",
                  "Director",
                  "Faculty",
+                 "Staff",
                  "Post Doctoral",
                  "Graduate Students",
                  "Alumni"]

@@ -53,7 +53,7 @@ email: "yong.he@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Staff
 #- Administration
 ---
 Yong He is is currently an Engineer with Artificial Intelligence, University of Chinese Academy of Sciences, China, and the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA). He received his M.D. degree in Computer Architect from Hunan University of Technology, China, in 2020. His research focuses on pattern recognition and biometrics.
