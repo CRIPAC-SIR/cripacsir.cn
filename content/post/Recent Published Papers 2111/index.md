@@ -1,6 +1,6 @@
 ---
 title: Overview of Recent Published Papers  
-summary: Congratulations to them!.
+summary: Congratulations to them!
 tags: ["smart iris recognition"]
 date: "2021-11-15T00:00:00Z"
 
@@ -8,7 +8,7 @@ date: "2021-11-15T00:00:00Z"
 external_link: ""
 
 image:
-  caption: All Paper has been published in 2021
+  caption: All papers has been published in 2021
   focal_point: Smart
 
 ---
