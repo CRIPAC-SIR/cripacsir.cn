@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -63,5 +63,4 @@ user_groups:
 - Faculty
 #- Administration
 ---
-Yunlong Wang is currently an Assistant Professor with CRIPAC, NLPR, CASIA, China. He received the B.E. degree and the 
-M.S. degree in Department of Automation, University of Science and Technology of China. His reserach focuses on pattern recognition, machine learning, light field photography, and biometrics.
+Yunlong Wang is currently an Assistant Professor with CRIPAC, NLPR, CASIA, China. He received the B.E. degree and the M.S. degree in Department of Automation, University of Science and Technology of China. His reserach focuses on pattern recognition, machine learning, light field photography, and biometrics.

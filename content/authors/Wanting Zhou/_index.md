@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Post-doctoral
+role: Associate Professor @ BUPT
 
 # Organizations/Affiliations
 organizations:

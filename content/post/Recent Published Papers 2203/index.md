@@ -7,13 +7,15 @@ date: "2022-03-15T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors
-  focal_point: Smart
+# image:
+#   caption: Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors
+#   focal_point: Smart
 
 ---
 
 ## Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors
+
+![](uncertainty.jpg)
 
 > Jianze Wei, Huaibo Huang, Yunlong Wang, Ran He and Zhenan Sun, "Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors," in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2022.3154240.
 

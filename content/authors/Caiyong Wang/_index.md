@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Former PhD Student
+role: Lecturer @ BUCEA
 
 # Organizations/Affiliations
 organizations:
