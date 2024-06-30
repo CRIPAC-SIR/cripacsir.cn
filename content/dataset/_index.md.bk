@@ -1,0 +1,61 @@
+---
+#title: Databases for Download
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#view: 2
+
+# Optional header image (relative to `static/media/` folder).
+#header:
+#  caption: ""
+#  image: ""
+---
+
+<div style="WIDTH:100%; HEIGHT:130%"><font color=#000000 size = 7 style="background:#1E90FF"><strong>Databases for Download</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</font></div>  
+<div style="WIDTH:100%; HEIGHT:100%"><div STYLE="border-right: red 4pt double; border-top: red 4pt double; border-left: red 4pt double; border-bottom: red 4pt double">
+<font color=#FF0000 size = 6 style="background:#00FFFF"><strong>CASIA Iris Subject Ageing Version 1.0</strong>&emsp;&emsp;&emsp;&emsp;<font color=#000000 size = 5><strong>Download counts: 3,345&nbsp;&nbsp;</strong></font></font>  
+<i class="far fa-file-pdf far-9x" style="font-size:30px; font-weigth:bold; color:red"></i><a href="http://biometrics.idealtest.org/downloadDesc.do?id=14"><font color=#0000FF size = 5>&nbsp;<strong>Download the description document</strong></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<i class="fas fa-download" style="font-size:25px; font-weigth:bold; color:#708090"></i><a href="http://biometrics.idealtest.org/downloadDB.do?id=14"><font color=#0000FF size = 5>&nbsp;<strong>Download the whole database</strong></font></a>
+
+<div align=left><img src="http://biometrics.idealtest.org/download/14/Iris%20Ageing.jpg" width="1000px" height="425px" alt="show" /></div></div>  
+
+<div STYLE="border-right: red 4pt double; border-top: red 4pt double; border-left: red 4pt double; border-bottom: red 4pt double">
+<font color=#FF0000 size = 6 style="background:#00FFFF"><strong>CASIA-Iris-Mobile-V1.0 Version 1.0<strong> &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;<font color=#000000 size = 5>Download counts: 2,413&nbsp;&nbsp;</font></font>
+<i class="far fa-file-pdf far-9x" style="font-size:30px; font-weigth:bold; color:red"></i><a href="http://biometrics.idealtest.org/downloadDesc.do?id=13"><font color=#0000FF size = 5>&nbsp;<strong>Download the description document</strong></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<i class="fas fa-download" style="font-size:25px; font-weigth:bold; color:#708090"></i><a href="http://biometrics.idealtest.org/downloadDB.do?id=13"><font color=#0000FF size = 5>&nbsp;<strong>Download the whole database</strong></font></a>    
+<div align=center><img src="http://biometrics.idealtest.org/download/13/CASIA-Iris-Mobile-V1.0.jpg" width="1000px" height="525px "alt="show" /></div></div>  
+
+<div STYLE="border-right: red 4pt double; border-top: red 4pt double; border-left: red 4pt double; border-bottom: red 4pt double">
+<font color=#FF0000 size = 6 style="background:#00FFFF"><strong>CASIA Iris Image Database Version 4.0</strong>&emsp;&emsp;&nbsp;&nbsp;&nbsp;<font color=#000000 size = 5>Download counts: 118,391&nbsp;&nbsp;</font></font>   
+<i class="far fa-file-pdf far-9x" style="font-size:30px; font-weigth:bold; color:red"></i><a href="http://biometrics.idealtest.org/downloadDesc.do?id=4"><font color=#0000FF size = 5>&nbsp;<strong>Download the description document</strong></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<i class="fas fa-download" style="font-size:25px; font-weigth:bold; color:#708090"></i><a href="http://biometrics.idealtest.org/downloadDB.do?id=4"><font color=#0000FF size = 5>&nbsp;<strong>Download the whole database</strong></font></a>   
+<div align=center><img src="http://biometrics.idealtest.org/download/4/CASIA%204.0.jpg" width="1000px" height="525px "alt="show" /></div></div>  
+
+<div STYLE="border-right: red 4pt double; border-top: red 4pt double; border-left: red 4pt double; border-bottom: red 4pt double">
+<font color=#FF0000 size = 6 style="background:#00FFFF"><strong>CASIA Iris Image Database Version 3.0</strong> &emsp;&emsp;&nbsp;&nbsp;&nbsp;<font color=#000000 size = 5>Download counts: 22,310&nbsp;&nbsp;</font></font>
+<i class="far fa-file-pdf far-9x" style="font-size:30px; font-weigth:bold; color:red"></i><a href="http://biometrics.idealtest.org/downloadDesc.do?id=3"><font color=#0000FF size = 5>&nbsp;<strong>Download the description document</strong></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<i class="fas fa-download" style="font-size:25px; font-weigth:bold; color:#708090"></i><a href="http://biometrics.idealtest.org/downloadDB.do?id=3"><font color=#0000FF size = 5>&nbsp;<strong>Download the whole database</strong></font></a>  
+<div align=center><img src="http://biometrics.idealtest.org/download/3/CASIA%203.0.jpg" width="1000px" height="525px "alt="show" /></div></div>  
+
+<div STYLE="border-right: red 4pt double; border-top: red 4pt double; border-left: red 4pt double; border-bottom: red 4pt double">
+<font color=#FF0000 size = 6 style="background:#00FFFF"><strong>CASIA Iris Image Database Version 2.0</strong> &emsp;&emsp;&nbsp;&nbsp;&nbsp;<font color=#000000 size = 5>Download counts: 12,939&nbsp;&nbsp;</font></font>
+<i class="far fa-file-pdf far-9x" style="font-size:30px; font-weigth:bold; color:red"></i><a href="http://biometrics.idealtest.org/downloadDesc.do?id=2"><font color=#0000FF size = 5>&nbsp;<strong>Download the description document</strong></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<i class="fas fa-download" style="font-size:25px; font-weigth:bold; color:#708090"></i><a href="http://biometrics.idealtest.org/downloadDB.do?id=2"><font color=#0000FF size = 5>&nbsp;<strong>Download the whole database</strong></font></a>  
+<div align=center><img src="http://biometrics.idealtest.org/download/2/CASIA%202.0.jpg" width="1000px" height="525px "alt="show" /></div></div>  
+
+<div STYLE="border-right: red 4pt double; border-top: red 4pt double; border-left: red 4pt double; border-bottom: red 4pt double">
+<font color=#FF0000 size = 6 style="background:#00FFFF"><strong>CASIA Iris Image Database Version 1.0</strong> &emsp;&emsp;&nbsp;&nbsp;&nbsp;<font color=#000000 size = 5>Download counts: 17,258&nbsp;&nbsp;</font></font>
+<i class="far fa-file-pdf far-9x" style="font-size:30px; font-weigth:bold; color:red"></i><a href="http://biometrics.idealtest.org/downloadDesc.do?id=1"><font color=#0000FF size = 5>&nbsp;<strong>Download the description document</strong></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<i class="fas fa-download" style="font-size:25px; font-weigth:bold; color:#708090"></i><a href="http://biometrics.idealtest.org/downloadDB.do?id=1"><font color=#0000FF size = 5>&nbsp;<strong>Download the whole database</strong></font></a>    
+<div align=center><img src="http://biometrics.idealtest.org/download/1/CASIA%201.0.jpg" width="1000px" height="525px "alt="show" /></div></div>  
+
+<div style="WIDTH:100%; HEIGHT:130%">
+<font color=#000000 size = 7 style="background:#1E90FF"><strong>Databases for Test</strong>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;</font></div>  
+<div STYLE="border-right: red 4pt double; border-top: red 4pt double; border-left: red 4pt double; border-bottom: red 4pt double">
+<font color=#FF0000 size = 6 style="background:#00FFFF"><strong>CASIA Iris Image Database for Testing Version 1.0</strong> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;</font>  
+<i class="far fa-file-pdf far-9x" style="font-size:30px; font-weigth:bold; color:red"></i><a href="http://biometrics.idealtest.org/downloadTestDbDesc.do?id=1"><font color=#0000FF size = 5>&nbsp;<strong>Download the description document</strong></font></a>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;  
+<font color=#000000 size = 5>Number of images: 10,000&emsp;</font></font>  
+<font color=#000000 size = 5>Number of classes: 2,000&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</font></font><font color=#000000 size = 5>Number of subjects: 1,000&nbsp;&nbsp;</font>
+<div align=center><img src="http://biometrics.idealtest.org/database/1/testirisv1.jpg" width="1000px" height="525px "alt="show" /></div></div>
