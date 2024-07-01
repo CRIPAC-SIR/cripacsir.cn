@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lingxiao He | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/author/lingxiao-he/</link>
+      <atom:link href="http://localhost:1313/author/lingxiao-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lingxiao He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Lingxiao He</title>
+      <link>http://localhost:1313/author/lingxiao-he/</link>
+    </image>
+    
+    <item>
+      <title>Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation</title>
+      <link>http://localhost:1313/publication/yan-mir-2024-1/</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yan-mir-2024-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Instance-level Spatial-Temporal Patterns for Person Re-identification</title>
+      <link>http://localhost:1313/publication/ren-iccv-2021/</link>
+      <pubDate>Fri, 15 Oct 2021 08:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/ren-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible Iris Matching Based on Spatial Feature Reconstruction</title>
+      <link>http://localhost:1313/publication/zihui-yan-tbiom-2021/</link>
+      <pubDate>Mon, 30 Aug 2021 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/zihui-yan-tbiom-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Multi-class Iris Classification for Liveness Detection</title>
+      <link>http://localhost:1313/publication/yan-2018-liveness/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/yan-2018-liveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Partial Person Re-Identification Based on Similarity-Guided Sparse Representation</title>
+      <link>http://localhost:1313/publication/ren-ccbr-2017/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ren-ccbr-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

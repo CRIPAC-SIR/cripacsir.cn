@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iris Segmentation | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/tag/iris-segmentation/</link>
+      <atom:link href="http://localhost:1313/tag/iris-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iris Segmentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 17 Feb 2022 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Iris Segmentation</title>
+      <link>http://localhost:1313/tag/iris-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>Multitask deep active contour-based iris segmentation for off-angle iris images</title>
+      <link>http://localhost:1313/publication/lu-jei-2022/</link>
+      <pubDate>Thu, 17 Feb 2022 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/lu-jei-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
+      <link>http://localhost:1313/publication/caiyong-ijcb-2021/</link>
+      <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/caiyong-ijcb-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
+      <link>http://localhost:1313/publication/wang-tifs-2020/</link>
+      <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/wang-tifs-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
+      <link>http://localhost:1313/publication/wang-tifs-2021/</link>
+      <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/wang-tifs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seg-Edge Bilateral Constraint Network for Iris Segmentation</title>
+      <link>http://localhost:1313/publication/hu-2019-icb/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hu-2019-icb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

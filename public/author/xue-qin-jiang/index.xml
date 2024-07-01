@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xue-Qin Jiang | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/author/xue-qin-jiang/</link>
+      <atom:link href="http://localhost:1313/author/xue-qin-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xue-Qin Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Xue-Qin Jiang</title>
+      <link>http://localhost:1313/author/xue-qin-jiang/</link>
+    </image>
+    
+    <item>
+      <title>AIF-LFNet: All-in-Focus Light Field Super-Resolution Method Considering the Depth-Varying Defocus</title>
+      <link>http://localhost:1313/publication/zhow-tcsvt-2023/</link>
+      <pubDate>Mon, 16 Jan 2023 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/zhow-tcsvt-2023/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

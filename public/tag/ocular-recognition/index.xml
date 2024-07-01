@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ocular Recognition | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/tag/ocular-recognition/</link>
+      <atom:link href="http://localhost:1313/tag/ocular-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ocular Recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Ocular Recognition</title>
+      <link>http://localhost:1313/tag/ocular-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Periocular Recognition</title>
+      <link>http://localhost:1313/benchmark/periocular-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/benchmark/periocular-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Periocular Recognition</title>
+      <link>http://localhost:1313/project/periocular-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/periocular-recognition/</guid>
+      <description>&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 7 &gt;&lt;strong&gt;To be updated.....&lt;/strong&gt;&lt;/font&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sclera Recognition</title>
+      <link>http://localhost:1313/benchmark/sclera-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/benchmark/sclera-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sclera Recognition</title>
+      <link>http://localhost:1313/project/sclera-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/sclera-recognition/</guid>
+      <description>&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 7 &gt;&lt;strong&gt;To be updated.....&lt;/strong&gt;&lt;/font&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

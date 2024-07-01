@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LFNet | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/tag/lfnet/</link>
+      <atom:link href="http://localhost:1313/tag/lfnet/index.xml" rel="self" type="application/rss+xml" />
+    <description>LFNet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>LFNet</title>
+      <link>http://localhost:1313/tag/lfnet/</link>
+    </image>
+    
+    <item>
+      <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
+      <link>http://localhost:1313/publication/wang-tip-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-tip-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

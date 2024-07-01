@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Light Field Image Processing | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/tag/light-field-image-processing/</link>
+      <atom:link href="http://localhost:1313/tag/light-field-image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Light Field Image Processing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Light Field Image Processing</title>
+      <link>http://localhost:1313/tag/light-field-image-processing/</link>
+    </image>
+    
+    <item>
+      <title>A simple and robust super resolution method for light field images</title>
+      <link>http://localhost:1313/publication/wang-icip-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-icip-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internal | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/tag/internal/</link>
+      <atom:link href="http://localhost:1313/tag/internal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Internal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Internal</title>
+      <link>http://localhost:1313/tag/internal/</link>
+    </image>
+    
+    <item>
+      <title>How does iris recognize identity successfully?</title>
+      <link>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</guid>
+      <description>&lt;p&gt;  8月5日晚芒果台，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师带你探索虹膜识别的奥秘&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;https://www.mgtv.com/s/9538853.html&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academician introduces you to iris recognition</title>
+      <link>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</guid>
+      <description>&lt;p&gt;  7月13日播出的CCTV-1《生活圈》节目中，谭铁牛院士现身为观众介绍了虹膜识别技术。谭铁牛院士介绍到：“虹膜识别是一种相对比较新颖的生物特征识别技术，下一步虹膜识别技术会进一步朝着移动化、便捷化以及和其他的相关的生物特征识别技术，比如人脸识别技术，相融合的方向发展，具有非常广阔的发展空间。”&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;20200713_17347661f3d_r29_800k.mp4&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&amp;emsp;&amp;emsp;自动化所孙哲南研究员也携团队相关成果做客节目，具体讲解了虹膜识别技术的优势与应用。
+&lt;div&gt;  
+&lt;div align=&#39;center&#39;&gt;
+&lt;font color=#0099ff size=6 face=&#34;黑体&#34;&gt;虹膜识别技术的优势&lt;/font&gt;
+&lt;/div&gt;
+&amp;emsp;&amp;emsp;虹膜识别是利用人眼表面黑色瞳孔和白色巩膜之间圆环状的区域进行身份识别的技术。虹膜识别的优势在于： 
+&lt;p&gt;  第一，虹膜先天具有非常高的唯一性。虹膜中可以发现证明至少244个独立变量来决定其唯一性，而指纹和人脸大概只有十几个或者几十个这样的变量。&lt;br&gt;
+  第二，虹膜终身不变。年龄的增长、化妆或者整容可以改变人的容貌，却无法改变虹膜&lt;/p&gt;
+&lt;div&gt;
+&lt;div align=&#39;center&#39;&gt;
+&lt;font color=#0099ff size=6 face=&#34;黑体&#34;&gt;虹膜识别的应用&lt;/font&gt; 
+&lt;/div&gt;  
+&lt;p&gt;&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;1. 虹膜识别应用于手机&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  孙哲南研究员在节目中展示了团队研发的虹膜识别解锁手机，在手机终端装载虹膜识别模块，直接刷眼就可以解锁手机。防护镜、墨镜甚至黑暗的环境都不会成为虹膜识别的阻碍。&lt;br&gt;
+&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;2. 虹膜识别应用于电脑&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  使用虹膜解锁电脑，刷眼后一瞬间即可安全登陆，省去了总是忘记密码与密码被盗的烦恼。&lt;br&gt;
+&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;3. 虹膜识别防盗门锁&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  只需对准虹膜采集框，即可解锁开门。团队展示的虹膜锁采用近红外主动光源成像，即使在光线很暗的楼道内，虹膜锁也可以正常工作。&lt;br&gt;
+&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;4. 虹膜识别收费闸机&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  想象一下，当我们驾车通过收费闸机时，只需要刷一下眼睛，就可以自动收费抬杆，这是一种什么样的感觉呢？将来，这一系统也可以应用于高速公路ETC中，驾驶员就可以直接通过眼神识别进行缴费。&lt;br&gt;
+  &lt;strong&gt;其实，虹膜识别的应用远不止这些，并且在不远的将来，它还可以在更多地方得以运用，为人们的生活提供超乎想象的便利！&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CASIA-IrisV4</title>
+      <link>http://localhost:1313/dataset/casia-irisv4/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dataset/casia-irisv4/</guid>
+      <description>&lt;h2 id=&#34;download-the-whole-database-186gbhttpbiometricsidealtestorgdownloaddbdoid4&#34;&gt;
+&lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the whole database (1.86GB)&lt;/a&gt;&lt;/h2&gt;
+&lt;p style=&#34;text-align: center&#34;&gt;
+OR&lt;br&gt;
+Download the separated subsets below&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&amp;amp;subset=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download CASIA-Iris-Interval (30.9MB)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&amp;amp;subset=2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download CASIA-Iris-Lamp (390MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&amp;amp;subset=3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download CASIA-Iris-Twins (60MB)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&amp;amp;subset=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download CASIA-Iris-Distance(767MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&amp;amp;subset=5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download CASIA-Iris-Thousand (490MB)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;
+&lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&amp;amp;subset=6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download CASIA-Iris-Syn (171MB)&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;
+&lt;p&gt;With the pronounced need for reliable personal identification, iris recognition has become an important enabling technology in our society. Although an iris pattern is naturally an ideal identifier, the development of a high-performance iris recognition algorithm and transferring it from research lab to practical applications is still a challenging task. Automatic iris recognition has to face unpredictable variations of iris images in real-world applications. For example, recognition of iris images of poor quality, nonlinearly deformed iris images, iris images at a distance, iris images on the move, and faked iris images all are open problems in iris recognition. A basic work to solve the problems is to design and develop a high quality iris image database including all these variations. Moreover, a novel iris image database may help identify some frontier problems in iris recognition and leads to a new generation of iris recognition technology.&lt;/p&gt;
+&lt;p&gt;CASIA Iris Image Database (CASIA-Iris) developed by our research group has been released to the international biometrics community and updated from CASIA-IrisV1 to CASIA-IrisV3 since 2002. More than 3,000 users from 70 countries or regions have downloaded CASIA-Iris and much excellent work on iris recognition has been done based on these iris image databases. Although great progress of iris recognition has been achieved since 1990s, the rapid growth of iris recognition applications has clearly highlighted two challenges, i.e. usability and scalability.&lt;/p&gt;
+&lt;p&gt;Usability is the largest bottleneck of current iris recognition. It is a trend to develop long-range iris image acquisition systems for friendly user authentication. However, iris images captured at a distance are more challenging than traditional close-up iris images. Lack of long-range iris image data in the public domain has hindered the research and development of next-generation iris recognition systems.&lt;/p&gt;
+&lt;p&gt;Most current iris recognition methods have been typically evaluated on medium sized iris image databases with a few hundreds of subjects. However, more and more large-scale iris recognition systems are deployed in real-world applications. Many new problems are met in classification and indexing of large-scale iris image databases. So scalability is another challenging issue in iris recognition.&lt;/p&gt;
+&lt;p&gt;In order to promote research on long-range and large-scale iris recognition systems,  we are pleased to release to the public domain CASIA Iris Image Database V4.0 (or CASIA-IrisV4 for short).&lt;/p&gt;
+&lt;h2 id=&#34;2-brief-descriptions-and-statistics-of-the-database&#34;&gt;2. Brief Descriptions and Statistics of the Database&lt;/h2&gt;
+&lt;p&gt;CASIA-IrisV4 is an extension of CASIA-IrisV3 and contains six subsets. The three subsets from CASIA-IrisV3 are CASIA-Iris-Interval, CASIA-Iris-Lamp, and CASIA-Iris-Twins respectively. The three new subsets are CASIA-Iris-Distance, CASIA-Iris-Thousand, and CASIA-Iris-Syn.&lt;/p&gt;
+&lt;p&gt;CASIA-IrisV4 contains a total of 54,601 iris images from more than 1,800 genuine subjects and 1,000 virtual subjects. All iris images are 8 bit gray-level JPEG files, collected under near infrared illumination or synthesized. Some statistics and features of each subset are given in Table 1. The six data sets were collected or synthesized at different times and CASIA-Iris-Interval, CASIA-Iris-Lamp, CASIA-Iris-Distance, CASIA-Iris-Thousand may have a small inter-subset overlap in subjects.&lt;/p&gt;
+&lt;h3 id=&#34;21--casia-iris-interval&#34;&gt;2.1  CASIA-Iris-Interval&lt;/h3&gt;
+&lt;p&gt;Iris images of CASIA-Iris-Interval were captured with our self-developed close-up iris camera (Fig.1). The most compelling feature of our iris camera is that we have designed a circular NIR LED array, with suitable luminous flux for iris imaging. Because of this novel design, our iris camera can capture very clear iris images (see Fig.2). CASIA-Iris-Interval is well-suited for studying the detailed texture features of iris images.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
+Fig.1 The self-developed iris camera used for collection of CASIA-Iris-Interval
+&lt;img alt=&#34;Fig.2&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
+Fig.2 Example iris images in CASIA-Iris-Interval&lt;/p&gt;
+&lt;h3 id=&#34;22--casia-iris-lamp&#34;&gt;2.2  CASIA-Iris-Lamp&lt;/h3&gt;
+&lt;p&gt;CASIA-Iris-Lamp was collected using a hand-held iris sensor produced by OKI (Fig.3). A lamp was turned on/off close to the subject to introduce more intra-class variations when we collected CASIA-Iris-Lamp. Elastic deformation of iris texture (Fig.4) due to pupil expansion and contraction under different illumination conditions is one of the most common and challenging issues in iris recognition. So CASIA-Iris-Lamp is good for studying problems of non-linear iris normalization and robust iris feature representation.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
+Fig.3 The hand-held iris camera used for collection of CASIA-Iris-Lamp
+&lt;img alt=&#34;Fig.4&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
+Fig.4 Example iris images in CASIA-Iris-Lamp&lt;/p&gt;
+&lt;h3 id=&#34;23--casia-iris-twins&#34;&gt;2.3  CASIA-Iris-Twins&lt;/h3&gt;
+&lt;p&gt;CASIA-Iris-Twins contains iris images of 100 pairs of twins, which were collected during Annual Twins Festival in Beijing using OKI&amp;rsquo;s IRISPASS-h camera (Fig.5). Although iris is usually regarded as a kind of phenotypic biometric characteristics and even twins have their unique iris patterns, it is interesting to study the dissimilarity and similarity between iris images of twins.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
+Fig.5 Example iris images in CASIA-Iris-Twins&lt;/p&gt;
+&lt;h3 id=&#34;24--casia-iris-distance&#34;&gt;2.4  CASIA-Iris-Distance&lt;/h3&gt;
+&lt;p&gt;CASIA-Iris-Distance contains iris images captured using our self-developed long-range multi-modal biometric image acquisition and recognition system (LMBS, Fig.6). The advanced biometric sensor can recognize users from 3 meters away by actively searching iris, face or palmprint patterns in the visual field via an intelligent multi-camera imaging system. The LMBS is human-oriented by fusing computer vision, human computer interaction and multi-camera coordination technologies and improves greatly the usability of current biometric systems. The iris images of CASIA-Iris-Distance were captured by a high resolution camera so both dual-eye iris and face patterns are included in the image region of interest (Fig. 7). And detailed facial features such as skin pattern are also visible for multi-modal biometric information fusion.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.6&#34; src=&#34;./V4Fig.6.jpg&#34;&gt;
+Fig.6  The biometric sensor used for collection of CASIA-Iris-Distance
+&lt;img alt=&#34;Fig.7&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
+Fig.7  An example image in CASIA-Iris-Distance&lt;/p&gt;
+&lt;h3 id=&#34;25--casia-iris-thousand&#34;&gt;2.5  CASIA-Iris-Thousand&lt;/h3&gt;
+&lt;p&gt;CASIA-Iris-Thousand contains 20,000 iris images from 1,000 subjects, which were collected using IKEMB-100 camera (Fig. 8) produced by 
+&lt;a href=&#34;Http://www.irisking.com&#34;&gt;IrisKing&lt;/a&gt;. IKEMB-100 is a dual-eye iris camera with friendly visual feedback, realizing the effect of “What You See Is What You Get”. The bounding boxes shown in the frontal LCD help users adjust their pose for high-quality iris image acquisition. The main sources of intra-class variations in CASIA-Iris-Thousand are eyeglasses and specular reflections. Since CASIA-Iris-Thousand is the first publicly available iris dataset with one thousand subjects, it is well-suited for studying the uniqueness of iris features and develop novel iris classification and indexing methods.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
+Fig.8 The iris camera used for collection of CASIA-Iris-Thousand
+&lt;img alt=&#34;Fig.9&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
+Fig.9  An example image in CASIA-Iris-Thousand&lt;/p&gt;
+&lt;h3 id=&#34;26--casia-iris-syn&#34;&gt;2.6  CASIA-Iris-Syn&lt;/h3&gt;
+&lt;p&gt;CASIA-Iris-Syn contains 10,000 synthesized iris images of 1,000 classes. The iris textures of these images are synthesized automatically from a subset of CASIA-IrisV1 with the approach described in [1] (Fig. 10). Then the iris ring regions were embedded into the real iris images, which makes the artificial iris images more realistic. The intra-class variations introduced into the synthesized iris dataset include deformation, blurring, and rotation, which raise a challenge problem for iris feature representation and matching. We have demonstrated in [1] that the synthesized iris images are visually realistic and most subjects can not distinguish genuine and artificial iris images. More importantly, the performance results tested on the synthesized iris image database have similar statistical characteristics to genuine iris database. So users of CASIA-IrisV4 are encouraged to use CASIA-Iris-Syn for iris recognition research and any suggestions are welcome. If CASIA-Iris-Syn proves to be successful for most researchers of iris recognition, we will provide more and more synthesized iris images in the future.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
+Fig. 10  Flowchart of the iris texture synthesis method for generation of CASIA-Iris-Syn
+&lt;img alt=&#34;Fig.11&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
+Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
+&lt;h2 id=&#34;3-database-organization&#34;&gt;3. Database Organization&lt;/h2&gt;
+&lt;p&gt;The file name of each image in CASIA-IrisV4 is unique to each other and denotes some useful properties associated with the image such as subset category, left/right/double, subject ID, class ID, image ID etc. The file naming rules of all six subsets are listed as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The images of CASIA-Iris-Interval are stored as:&lt;/p&gt;
+&lt;p&gt;root_path/CASIA-Iris-Interval/YYY/S1YYYENN.jpg&lt;/p&gt;
+&lt;p&gt;YYY: the unique identifier of the subject in the subset&lt;/p&gt;
+&lt;p&gt;E: ‘L’ denotes left eye and ‘R’ denotes right eye&lt;/p&gt;
+&lt;p&gt;NN: the index of the image in the class&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The images of CASIA-Iris-Lamp are stored as:&lt;/p&gt;
+&lt;p&gt;root_path/CASIA-Iris-Lamp/YYY/E/S2YYYENN.jpg&lt;/p&gt;
+&lt;p&gt;YYY: the unique identifier of the subject in the subset&lt;/p&gt;
+&lt;p&gt;E: ‘L’ denotes left eye and ‘R’ denotes right eye&lt;/p&gt;
+&lt;p&gt;NN: the index of the image in the class&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The images of CASIA-Iris-Twins are stored as:&lt;/p&gt;
+&lt;p&gt;root_path/CASIA-Iris-Twins\XX\YE\S3XXYENN.jpg&lt;/p&gt;
+&lt;p&gt;XX: the index of family&lt;/p&gt;
+&lt;p&gt;Y: the identifier to one of the twins&lt;/p&gt;
+&lt;p&gt;E: ‘L’ denotes left eye and ‘R’ denotes right eye&lt;/p&gt;
+&lt;p&gt;NN: the index of the image in the class&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The images of CASIA-Iris-Distance are stored as:&lt;/p&gt;
+&lt;p&gt;root_path/CASIA-Iris-Distance/YYY/S4YYYENN.jpg&lt;/p&gt;
+&lt;p&gt;YYY: the unique identifier of the subject in the subset&lt;/p&gt;
+&lt;p&gt;E: ‘D’ denotes dual-eye iris image&lt;/p&gt;
+&lt;p&gt;NN: the index of the image in the class&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The images of CASIA-Iris-Thousand are stored as:&lt;/p&gt;
+&lt;p&gt;$ root path$ /CASIA-Iris-Thousand/YYY/E/S5YYYENN.jpg&lt;/p&gt;
+&lt;p&gt;YYY: the unique identifier of the subject in the subset&lt;/p&gt;
+&lt;p&gt;E: ‘L’ denotes left eye and ‘R’ denotes right eye&lt;/p&gt;
+&lt;p&gt;NN: the index of the image in the class&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The images of CASIA-Iris-Syn are stored as:&lt;/p&gt;
+&lt;p&gt;root_path/CASIA-Iris-Syn/YYY/S6YYYENN.jpg&lt;/p&gt;
+&lt;p&gt;YYY: the unique identifier of the subject in the subset&lt;/p&gt;
+&lt;p&gt;E: ‘S’ denotes it is a synthesized iris image&lt;/p&gt;
+&lt;p&gt;NN: the index of the image in the class&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;4-copyright-note-and-contacts&#34;&gt;4. Copyright Note and Contacts&lt;/h2&gt;
+&lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as “Portions of the research in this paper use the CASIA-IrisV4 collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)” and a reference to “CASIA Iris Image Database, 
+&lt;a href=&#34;http://biometrics.idealtest.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://biometrics.idealtest.org/&lt;/a&gt;” should be included. A copy of all reports and papers that are for public or general release that use the CASIA-IrisV4 should be forwarded upon release or publication to:&lt;/p&gt;
+&lt;p&gt;Professor Tieniu Tan&lt;/p&gt;
+&lt;p&gt;Center for Biometrics and Security Research&lt;/p&gt;
+&lt;p&gt;National Laboratory of Pattern Recognition&lt;/p&gt;
+&lt;p&gt;Institute of Automation, Chinese Academy of Sciences&lt;/p&gt;
+&lt;p&gt;P.O.Box 2728&lt;/p&gt;
+&lt;p&gt;Beijing 100190&lt;/p&gt;
+&lt;p&gt;China&lt;/p&gt;
+&lt;p&gt;or send electronic copies to 
+&lt;a href=&#34;mailto:znsun@nlpr.ia.ac.cn&#34;&gt;znsun@nlpr.ia.ac.cn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Questions regarding this database can be addressed to Dr. Zhenan Sun at&lt;/p&gt;
+&lt;p&gt;Dr. Zhenan Sun&lt;/p&gt;
+&lt;p&gt;Center for Biometrics and Security Research&lt;/p&gt;
+&lt;p&gt;National Laboratory of Pattern Recognition&lt;/p&gt;
+&lt;p&gt;Institute of Automation, Chinese Academy of Sciences&lt;/p&gt;
+&lt;p&gt;P.O.Box 2728&lt;/p&gt;
+&lt;p&gt;Beijing 100190&lt;/p&gt;
+&lt;p&gt;China&lt;/p&gt;
+&lt;p&gt;Tel: +86 10 8261 0278&lt;/p&gt;
+&lt;p&gt;Fax: +86 10 6255 1993&lt;/p&gt;
+&lt;p&gt;Email: 
+&lt;a href=&#34;mailto:znsun@nlpr.ia.ac.cn&#34;&gt;znsun@nlpr.ia.ac.cn&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Tieniu Tan, Zhaofeng He, Zhenan Sun, &amp;ldquo;Efficient and robust segmentation of noisy iris images for non-cooperative iris recognition&amp;rdquo;, Image and Vision Computing, Vol.28, No. 2, 2010, pp.223-230.&lt;/li&gt;
+&lt;li&gt;T. Tan and L. Ma, “Iris Recognition: Recent Progress and Remaining Challenges”, Proc. of SPIE, Vol. 5404, pp. 183-194, 12-13 Apr 2004, Orlando, USA.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Tieniu Tan, &amp;ldquo;Ordinal Measures for Iris Recognition,&amp;rdquo; IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 31, No. 12, 2009, pp. 2211 - 2226.&lt;/li&gt;
+&lt;li&gt;Zhaofeng He, Tieniu Tan, Zhenan Sun and Xianchao Qiu, &amp;ldquo;Towards Accurate and Fast Iris Segmentation for Iris Biometrics&amp;rdquo;, IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 31, No. 9, 2009, pp.1670 - 1684.&lt;/li&gt;
+&lt;li&gt;L. Ma, T. Tan, Y. Wang and D. Zhang, “Personal Identification Based on Iris Texture Analysis”, IEEE Trans. on Pattern Analysis and Machine Intelligence (PAMI), Vol. 25, No. 12, pp.1519-1533, 2003.&lt;/li&gt;
+&lt;li&gt;Li Ma, Tieniu Tan, Yunhong Wang and Dexin Zhang, “Efficient Iris Recognition by Characterizing Key Local Variations”, IEEE Trans. on Image Processing, Vol. 13, No.6, pp. 739- 750, 2004.&lt;/li&gt;
+&lt;li&gt;L. Ma, T. Tan, D. Zhang and Y. Wang, “Local Intensity Variation Analysis for Iris Recognition, Pattern Recognition”, Vol.37, No.6, pp. 1287-1298, 2004.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Yunhong Wang, Tieniu Tan, Jiali Cui, “Improving Iris Recognition Accuracy via Cascaded Classifiers”, IEEE Transactions on Systems, Man, and Cybernetics-Part Cï¼ŒVolume 35, Issue 3, 2005, pp.435 - 441.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Tieniu Tan, Yunhong Wang, “Robust Encoding of Local Ordinal Measures: A General Framework of Iris Recognition”, Proceedings of International Workshop on Biometric Authentication (BioAW), Lecture Notes in Computer Science, Vol.3087, 2004, pp. 270-282.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Yunhong Wang, Tieniu Tan, Jiali Cui, “Improving Iris Recognition Accuracy via Cascaded Classifiers”, Proceedings of the 1st International Conference on Biometric Authentication, Lecture Notes in Computer Science, Vol.3072, 2004, pp. 418-425.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Yunhong Wang, Tieniu Tan, Jiali Cui, “Robust Direction Estimation of Gradient Vector Field for Iris Recognition”, Proceedings of the 17th International Conference on Pattern Recognition, Vol.2, 2004, pp.783-786.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Yunhong Wang, Tieniu Tan, Jiali Cui, “Cascading Statistical And Structural Classifiers For Iris Recognition”, Proceedings of IEEE International Conference on Image Processing, 2004, pp.1261-1264.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Tieniu Tan, Yunhong Wang, “Iris Recognition Based on Non-local Comparisons”, Proceedings of the 5th Chinese Conference on Biometric Recognition, Lecture Notes in Computer Science, Vol.3338, 2004, pp. 67-77.&lt;/li&gt;
+&lt;li&gt;Zhenan Sun, Tieniu Tan, and Xianchao Qiu, &amp;ldquo;Graph Matching Iris Image Blocks with Local Binary Pattern&amp;rdquo;, Proceedings of International Conference on Biometrics, Lecture Notes in Computer Sciences, Vol. 3832, 2005, pp. 366-372.&lt;/li&gt;
+&lt;li&gt;Xianchao Qiu, Zhenan Sun, Tieniu Tan, “Global Texture Analysis of Iris Images for Ethnic Classification”, Proceedings of International Conference on Biometrics, Lecture Notes in Computer Sciences, Vol. 3832, 2005, pp. 411 - 418.&lt;/li&gt;
+&lt;li&gt;Zhuoshi Wei, Tieniu Tan, Zhenan Sun, Jiali Cui, “Robust and Fast Assessment of Iris Image Quality”, Proceedings of International Conference on Biometrics, Lecture Notes in Computer Sciences, Vol. 3832, 2005, pp. 464 - 471.&lt;/li&gt;
+&lt;li&gt;Jiali Cui, Li Ma, Yunhong Wang, Tieniu Tan and Zhenan Sun, “An Appearance-Based Method for Iris Detection”, Proc. of the 6th Asian Conference on Computer Vision (ACCV), Vol.2, pp.1091-1096, 2004, Korea.&lt;/li&gt;
+&lt;li&gt;Jiali Cui, Yunhong Wang, Junzhou Huang, Tieniu Tan, Zhenan Sun and Li Ma, “An Iris Image Synthesis Method Based on PCA and Super-Resolution”, Proc. of the 17th IAPR International Conference on Pattern Recognition (ICPR), Vol. 4, pp. 471-474, 23-26 August 2004, Cambridge, UK.&lt;/li&gt;
+&lt;li&gt;Jiali Cui, Li Ma, Yunhong Wang, Tieniu Tan and Zhenan Sun, “A Fast and Robust Iris Localization Method Based on Texture Segmentation”, Proc. of SPIE, Vol. 5404, pp. 401-408, 2004, USA.&lt;/li&gt;
+&lt;li&gt;Jiali Cui, Yunhong Wang, Li Ma, Tieniu Tan and Zhenan Sun, “An Iris Recognition Algorithm Using Local Extreme Points”, Proceedings of the 1st International Conference on Biometric Authentication, Lecture Notes in Computer Science, Vol.3072, 2004, pp. 442-449.&lt;/li&gt;
+&lt;li&gt;Jiali Cui, Yunhong Wang, Tieniu Tan and Zhenan Sun, “Fast Recursive Mathematical Morphological Transforms”, Proc. of the 3rd International Conference on Image and Graphics (ICIG), pp. 422-425, 2004, Hong Kong.&lt;/li&gt;
+&lt;li&gt;Junzhou Huang, Tieniu Tan, Li Ma, and Yunhong Wang, Phase Correlation Based Iris Image Registration Model, Journal of Computer Science and Technology, Vol.20, No.3, pp.419-425, May 2005.&lt;/li&gt;
+&lt;li&gt;L. Ma, Y. Wang and T. Tan, “Iris Recognition Based on Multichannel Gabor Filtering”, Proc. of the 5th Asian Conference on Computer Vision (ACCV), Vol. I, pp.279-283, Jan 22-25, 2002, Melbourne, Australia.&lt;/li&gt;
+&lt;li&gt;L. Ma, Y. Wang and T. Tan, “Iris Recognition Using Circular Symmetric Filters”, Proc. of IAPR International Conference on Pattern Recognitionï¼ˆICPRï¼‰, Vol. II, pp. 414-417, August 11-15, 2002, Quebec, Canada.&lt;/li&gt;
+&lt;li&gt;J. Z. Huang, L. Ma, T. N. Tan and Y. H. Wang, “Learning-Based Enhancement Model of Iris”, Proc. of British Machine Vision Conference (BMVC), pp. 153-162, 2003.&lt;/li&gt;
+&lt;li&gt;J. Z. Huang, L. Ma, and Y. H. Wang and T. N. Tan, “Iris Model Based on Local Orientation Description”, Proc. of the 6th Asian Conference on Computer Vision (ACCV), Vol.2, pp. 954-959, 2004, Korea.&lt;/li&gt;
+&lt;li&gt;J. Z. Huang, Y. H. Wang, T. N. Tan and J. L. Cui, “A New Iris Segmentation Model”, Proc. of the 17th IAPR International Conference on Pattern Recognition (ICPR), Vol. 3, pp. 554-557, 23-26 August 2004, Cambridge, UK.&lt;/li&gt;
+&lt;li&gt;J. Z. Huang, Y. H. Wang, J. L. Cui and T. N. Tan, “Noise Removal and Impainting Model for Iris Image”, Proc. of IEEE International Conference on Image Processing (ICIP), pp. 869-872, 2004, Singapore.&lt;/li&gt;
+&lt;li&gt;Yuqing He, Yangsheng Wang and Tieniu Tan, “Iris Image Capture System Design For Personal Identification”, Proceedings of the 5th Chinese Conference on Biometric Recognition, Lecture Notes in Computer Science, Vol.3338, 2004, pp. 546-552.&lt;/li&gt;
+&lt;li&gt;Zhuoshi Wei, Tieniu Tan, Zhenan Sun, Jiali Cui, &amp;ldquo;Robust and Fast Assessment of Iris Image quality&amp;rdquo;, Proc. of International Conference of Biometrics, pp. 464-471, 2006.&lt;/li&gt;
+&lt;li&gt;Zhuoshi Wei, Tieniu Tan and Zhenan Sun, &amp;ldquo;Nonlinear Iris Deformation Correction Based on Gaussian Model&amp;rdquo;, International Conference of Biometrics, pp 780-789, 2007.&lt;/li&gt;
+&lt;li&gt;Zhuoshi Wei, Yufei Han, Zhenan Sun and Tieniu Tan, Palmprint Image Synthesis: A Preliminary Study, Proc. of IEEE International Conference on Image Processing, 2008.&lt;/li&gt;
+&lt;li&gt;Zhuoshi Wei, Tieniu Tan and Zhenan Sun, Synthesis of Large Realistic Iris Databases Using Patch-based Sampling, Proc. of IEEE International Conference on Pattern Recognition (ICPR), 2008.&lt;/li&gt;
+&lt;li&gt;Zhuoshi Wei, Xianchao Qiu, Zhenan Sun and Tieniu Tan, Counterfeit Iris Detection Based on Texture Analysis, Proc. of IEEE International Conference on Pattern Recognition (ICPR), 2008.&lt;/li&gt;
+&lt;li&gt;Zhaofeng He, Tieniu Tan and Zhenan Sun, “Iris Localization via Pulling and Pushing”, Proc. of the 18th IEEE International Conference on Pattern Recognition (ICPR&#39;06), Vol.4, pp. 366-369, 2006, Hongkong.&lt;/li&gt;
+&lt;li&gt;Zhaofeng He, Tieniu Tan, Zhenan Sun, Xianchao Qiu, Cheng Zhong and Wenbo Dong, Boosting Ordinal Features for Iris Recognition, Proc. of the 26th IEEE International Conference on Computer Vision and Pattern Recognition (CVPR’08) , pp. 1-8, June 23-28, Alaska, USA&lt;/li&gt;
+&lt;li&gt;Zhaofeng He, Zhenan Sun, Tieniu Tan and Xianchao Qiu, Enhanced Usability of Iris Recognition via Efficient User Interface and Iris Image Restoration, Proc. of the 15th IEEE International Conference on Image Processing (ICIP’08), 2008, San Diego, California Accepted.&lt;/li&gt;
+&lt;li&gt;Zhaofeng He, Tieniu Tan, Zhenan Sun and Xianchao Qiu, Robust Eyelid, Eyelash and Shadow Localization for Iris Recognition”, Proc. of the 15th IEEE International Conference on Image Processing (ICIP’08), 2008, San Diego, California, Accepted.&lt;/li&gt;
+&lt;li&gt;Zhaofeng He, Tieniu Tan, Zhenan Sun and Zhuoshi Wei, “Efficient Iris Spoof Detection via Boosted Local Binary Patterns”, Proc. of the Third International Conference on Biometrics, Lecture Notes in Computer Science, Vol.5558, pp.1080-1090, 2009.&lt;/li&gt;
+&lt;li&gt;Xianchao Qiu, Zhenan Sun, Tieniu Tan, “Global Texture Analysis of Iris Images for Ethnic Classification”, Proceedings of International Conference on Biometrics, Lecture Notes in Computer Sciences, Vol. 3832, 2005, pp. 411 - 418.&lt;/li&gt;
+&lt;li&gt;Xianchao Qiu, Zhenan Sun, and Tieniu Tan, &amp;ldquo;Coarse Iris Classification by Learned Visual Dictionary&amp;rdquo;, In Proc. of The 2nd International Conference on Biometrics, pp. 770–779, Seoul, Korea, Aug. 2007.&lt;/li&gt;
+&lt;li&gt;Xianchao Qiu, Zhenan Sun, and Tieniu Tan, &amp;ldquo;Global Texture Analysis of Iris Images for Ethnic Classification&amp;rdquo;, In Proc. of The 1st International Conference on Biometrics, pp. 411–418, Hong Kong, China. Jan. 2006.&lt;/li&gt;
+&lt;li&gt;Wenbo Dong, Zhenan Sun, Tieniu Tan, Xianchao Qiu, Self-adaptive iris image acquisition system, Proc. SPIE vol. 6944, 1-9, 2008.&lt;/li&gt;
+&lt;li&gt;Wenbo Dong, Zhenan Sun, Tieniu Tan, How to make iris recognition easier?, Proc. of the 19th International Conference on Pattern Recognition, pp.1-4, 2008.&lt;/li&gt;
+&lt;li&gt;Wenbo Dong, Zhenan Sun, Tieniu Tan, Zhuoshi Wei, &amp;ldquo;Quality-based dynamic threshold for iris matching&amp;rdquo;, In Proceedings of IEEE International Conference on Image Processing, 2009.&lt;/li&gt;
+&lt;li&gt;Long Zhang, Zhenan Sun, Tieniu Tan and Shungeng Hu, &amp;ldquo;Robust Biometric Key Extraction Based on Iris Cryptosystem&amp;rdquo;, Proc. of the Third International Conference on Biometrics, Lecture Notes in Computer Science, Vol.5558, pp.1060-1069, 2009.&lt;/li&gt;
+&lt;li&gt;Hui Zhang, Zhenan Sun, and Tieniu Tan, Contact lens detection based on weighted LBP, The 20th IEEE International Conference on Pattern Recognition (ICPR2010), Istanbul, Turkey, 2010.&lt;/li&gt;
+&lt;li&gt;Hui Zhang, Zhenan Sun, and Tieniu Tan, Statistics of Local Surface Curvatures for Mis-Localized Iris Detection, The 17th IEEE International Conference on Image Processing (ICIP2010), Hong Kong, China, 2010.&lt;/li&gt;
+&lt;li&gt;Xiaobo Zhang, Zhenan Sun, and Tieniu Tan, &amp;ldquo;Texture Removal for Adaptive Level Set based Iris Segmentation&amp;rdquo;, The 17th IEEE International Conference on Image Processing (ICIP2010), Hong Kong, China, 2010.&lt;/li&gt;
+&lt;li&gt;Xiaobo Zhang, Zhenan Sun, and Tieniu Tan, &amp;ldquo;Hierarchical Fusion of Face and Iris for Personal Identification&amp;rdquo;, The 20th IEEE International Conference on Pattern Recognition (ICPR2010), Istanbul, Turkey, 2010.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Light Field Photography</title>
+      <link>http://localhost:1313/benchmark/light-field-photography/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/benchmark/light-field-photography/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

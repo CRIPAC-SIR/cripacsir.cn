@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iris Recognition | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/tag/iris-recognition/</link>
+      <atom:link href="http://localhost:1313/tag/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iris Recognition</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Iris Recognition</title>
+      <link>http://localhost:1313/tag/iris-recognition/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</title>
+      <link>http://localhost:1313/publication/ren-tpami-2023/</link>
+      <pubDate>Thu, 20 Jul 2023 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/ren-tpami-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iris Recognition</title>
+      <link>http://localhost:1313/project/iris-recognition/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/iris-recognition/</guid>
+      <description>&lt;div style=&#34;WIDTH:100%; HEIGHT:100%&#34;&gt;
+&lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;虹膜识别是进一步提升安全性、可靠性的必由之路&lt;/strong&gt; &amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;
+&lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;———谭铁牛院士&lt;/strong&gt;&lt;/font&gt;  
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;虹膜识别是最具潜力的生物识别方法之一，是识别率高、非接触性、防欺骗性好的识别方法。虹膜属于人眼的一部分，如下图所示。&lt;/font&gt;
+&lt;div style=&#34;float:right; clear: both;&#34; align=&#34;center&#34;&gt;&lt;img src=&#34;iris.png&#34; width=&#34;300&#34; alt=&#34;&#34; hspace=&#34;8&#34;&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;人眼的外观主要由巩膜、虹膜、瞳孔三部分组成，其中巩膜即眼球外围的白色部分，约占人眼总面积的30%，眼睛的中心为瞳孔部分，约占5%，虹膜位于巩膜和瞳孔之间，约占整个眼睛的65%，包含了最丰富的纹理信息，外观上看，虹膜由许多腺窝、褶皱、色素斑等构成，是人体中最独特的结构之一。因为瞳孔、虹膜和巩膜一般颜色不同，灰度值呈梯度变化，所以根据它们灰度不同，可以将它们明显分开。从几何形状可以看出，虹膜的内、外边界可以近似为圆形，这使它具有易检测性。临床观察发现：虹膜在人的一生当中几乎不发生变化，只有很少的虹膜纹理可能会由于年龄或者外伤导致纹理破坏。&lt;/font&gt;&lt;/div&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;作为表示个人身份的标识物，必须具备作为身份标识的重要特征。人脸、指纹等许多生物特征具有作为身份标识的特性，但是，虹膜在这些特性方面表现的更为突出，具有许多先天优势，是其他生物特征无法与之媲美的。&lt;/font&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&lt;ul type=&#39;circle&#39;&gt;&lt;li&gt;普遍性————虹膜是每个人天生都具有的。&lt;/li&gt;&lt;li&gt;唯一性————虹膜的纤维组织细节复杂而丰富，每个人错综复杂的虹膜独一无二，只与虹膜的形成过程有关。&lt;/li&gt;&lt;li&gt;稳定性————虹膜从婴儿胚胎发育的第三个月起开始发育，到第八个月虹膜的主要纹理结构已经成形。&lt;/li&gt;&lt;li&gt;非入侵检测————从一定距离即可获得虹膜数字图像，无需用户接触设备。&lt;/li&gt;&lt;li&gt;可接受程度好————虹膜识别以其认证准确度高、速度快、安全性高，被用户所接受。&lt;/li&gt;&lt;li&gt;可检测性————利用图像处理技术检测出虹膜边界，易于拟合分割和和归一化&lt;/li&gt;&lt;li&gt;防伪性高————虹膜的半径小，在可见光下中国人的虹膜图像呈现深褐色，看不到纹理信息，需要虹膜图像专业采集设备和用户的配合，所以一般情况下很难被盗取&lt;/li&gt;&lt;li&gt;防欺骗性好————虹膜的唯一性决定了不同人眼的虹膜很难被冒充模仿。&lt;/li&gt;&lt;/ul&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;生物特征识别通过捕获生物样本，然后采用数学方法把样本转化成相同大小的模板，提取有效的可区别性特征，就可以客观地和其他一个完整的虹膜身份识别系统主要由四个部分组成：虹膜图像获取、虹膜图像预处理、虹膜特征提取、模式比对。
+&lt;/font&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&lt;ol&gt;&lt;li&gt;虹膜图像获取&lt;/li&gt;  
+&amp;emsp;虹膜图像采集的目的是为了获取有效的虹膜图像，在传统的虹膜识别场景中，通常采用专业的成像装置在近红外光（波长700nm到900nm）照射和用户的配合下才能捕获清晰的高分辨率虹膜图像。近些年来，随着光学镜头、传感器和计算成像技术等的发展，虹膜识别的可用距离不断变大，相关装置也变得越来越轻巧实用，“远距离”、“行进中”、“移动端”和“可见光下”等少约束场景的虹膜识别对于用户使用时的约束越来越少，极大地提升了虹膜识别应用范围和用户友好性。
+&lt;li&gt;虹膜图像预处理&lt;/li&gt;
+虹膜图像除了必须的虹膜区域以外，也包含了诸如巩膜、睫毛、瞳孔等非虹膜区域，因此不能直接用于虹膜识别。其次，一些噪声茹照明变化、睫毛遮挡、镜面反射、瞳孔放缩等会明显增加虹膜的类内差异，降低虹膜的识别率。常规的虹膜预处理步骤包括：虹膜活体检测、虹膜图像质量评估、虹膜分割、虹膜归一化和虹膜图像增强。
+&lt;li&gt;虹膜图像特征分析&lt;/li&gt;
+虹膜图像特征分析主要包含两部分：特征提取和对比分类。虹膜特征提取是指从归一化的虹膜图像中提取紧凑有区分的虹膜特征，然后使用计算机可以存储和读取的格式进行编码。虹膜比对和分类(或者称为匹配)是指将提取的虹膜特征编码和事先在数据库注册过的虹膜特征编码通过某种相似性度量比如汉明距离、余弦距离进行对比，计算相似性分数，依次确定用户身份。
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MediaPipe Iris</title>
+      <link>http://localhost:1313/post/mediapipe-iris/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/mediapipe-iris/</guid>
+      <description>&lt;!--&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;10&#39;&gt;MediaPipe Iris 实时虹膜跟踪和深度估计&lt;/font&gt;&lt;/div&gt;    
+&lt;div style=&#39;display:none&#39;&gt;
+标题居中
+&lt;/div&gt;--&gt;
+ &lt;font size=&#39;5&#39;&gt;
+ &amp;emsp;&amp;emsp;包括计算摄影（例如，人像模式和闪光反射）和增强现实效果（例如，虚拟化身）在内的大量实际应用程序都依赖于通过跟踪虹膜来估计眼睛位置。一旦获得了准确的虹膜跟踪，我们就可以确定从相机到用户的距离，而无需使用专用的深度传感器。反过来，这可以改善各种用例，从计算摄影到适当大小的眼镜和帽子的虚拟试戴，到根据视听者的距离采用字体大小的可用性增强。
+ 由于有限的计算资源，可变的光照条件和遮挡物（例如头发或人斜视）的存在，虹膜跟踪是在移动设备上解决的一项艰巨任务。通常，会使用复杂的专用硬件，从而限制了可在其中应用该解决方案的设备范围。
+ &lt;/font&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;https://pic1.zhimg.com/v2-abc83ffe57801610f81c22845ec1a937_b.gif&#34; alt=&#34;show&#34; width=&#34;650&#34; height=&#34;230&#34; /&gt;
+&lt;/div&gt;
+&lt;div align=&#39;center&#39;&gt;由MediaPipe Iris实现的眼睛重新着色示例&lt;/div&gt; 
+&lt;/div&gt;
+ &lt;font size=&#39;5&#39;&gt;
+&amp;emsp;&amp;emsp;谷歌日前发布了用于精确虹膜估计的全新机器学习模型：MediaPipe Iris。所述模型以MediaPipe Face Mesh的研究作为基础，而它无需专用硬件就能够通过单个RGB摄像头实时追踪涉及虹膜，瞳孔和眼睛轮廓的界标。利用虹膜界标，模型同时能够在不使用深度传感器的情况下以相对误差小于10％的精度确定对象和摄像头之间的度量距离。请注意，虹膜追踪不会推断人们正在注视的位置，同时不能提供任何形式的身份识别。MediaPipe是一个旨在帮助研究人员和开发者构建世界级机器学习解决方案与应用程序的开源跨平台框架，所以在MediaPipe中实现的这一系统能够支持大多数现代智能手机，PC，笔记本电脑，甚至是Web。
+&lt;div&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p3.itc.cn/q_70/images03/20200808/b4ad6d1e27c5402c9f6752ce39d9a24a.gif&#34; alt=&#34;show&#34; width=&#34;240&#34; height=&#34;270&#34;&gt;
+&lt;/div&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定&lt;/div&gt; 
+&lt;!-- 用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定--&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;1. 用于虹膜追踪的机器学习管道&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#39;5&#39;&gt;  谷歌介绍道，开发系统的第一步利用了之前针对3D Face Meshes的研究，亦即通过高保真面部界标来生成近似面部几何形状的网格。根据所述网格，研究人员分离出原始图像中的眼睛区域以用于虹膜追踪模型。然后，谷歌将问题分为两个部分：眼睛轮廓估计和虹膜位置。他们设计了一个由一元化编码器组成的多任务模型，每个组件对应一个任务，这样就能够使用特定于任务的训练数据。&lt;/p&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p3.itc.cn/q_70/images03/20200808/462869a0c5844bc28f5c89f65479dd02.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;300&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定&lt;/div&gt; 
+&lt;/div&gt; 
+&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;为了将裁剪后的眼睛区域用于模型训练，团队手动注释了大约50万张图像。其中，图像涵盖了不同地理位置的各种照明条件和头部姿势，如下所示
+&lt;div align=center&gt;
+&lt;img src=&#34;d07b74a8b05a4721b72eb12c1a81f383.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;200&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定&lt;/div&gt; 
+&lt;div align=center&gt;
+&lt;img src=&#34;d9331ef1d8864e79a8288a210f869815.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;260&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;裁剪的眼睛区域形成模型的输入，而它将通过单独的组件预测界标&lt;/div&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;2. 虹膜深度：用单个图像进行深度估计&lt;/font&gt;&lt;/strong&gt;
+&lt;font size=&#39;5&#39;&gt;  无需任何专门的硬件，这个虹膜追踪模型能够以不到10％的误差确定对象到摄像头的度量距离。相关的原理事实是，人眼的水平直径虹膜基本恒定为11.7±0.5毫米。作为说明，请想象将针孔摄像头模型投影到正方形像素的传感器。你可以使用摄像头的焦距估计从面部界标到对象的距离，而这可以通过Camera Capture API或直接从捕获图像的EXIF元数据，以及其他摄像头固有参数进行获取。给定焦距，对象到摄像头的距离与对象眼睛的物理尺寸成正比，如下图所示&lt;/p&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;366c2353e9654a7998c87ac32c491daf.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;500&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;利用类似的三角形，我们可以根据焦距（f）和虹膜大小来计算对象的距离（d）&lt;/div&gt; 
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p7.itc.cn/q_70/images03/20200808/0ba5001e03ca4c42a17036b97ed0326b.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;260&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;左边：在Pixel 2运行的MediaPipe Iris正在以cm为单位估计度量距离，没有采用任何深度摄像头；右边：groud-truth深度&lt;/div&gt; 
+&lt;div align=&#39;left&#39;&gt;&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;为了量化所述方法的精确性，研究人员收集了200多位被试的正向同步视频和深度图像，并将其与iPhone 11的深度传感器进行比较。团队使用激光测距设备，通过实验确定iPhone 11的深度传感器在2米以内的误差小于2％。对于使用虹膜大小进行深度估算的方法，平均相对误差为4.3％，标准偏差是2.4％。谷歌对有眼镜被试和正常视力被试（不计入隐形眼镜情况）测试了所述方法，并发现眼镜会将平均相对误差略微提高到4.8％（标准偏差是3.1％）。另外，实验没有测试存在任何眼睛疾病的被试。考虑到MediaPipe Iris不需要专门的硬件，所述结果表明系统能够支持一系列成本范围的设备根据单张图像获取度量深度
+&lt;div align=center&gt;
+&lt;img src=&#34;f49af869c2c34877a244ab791ee17b27.png&#34; alt=&#34;show&#34; width=&#34;500&#34; height=&#34;420&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;估计误差的直方图（左边），以及实际和估计距离的比较（右边）&lt;/div&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;3. 发布MediaPipe Iris&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#39;left&#39;&gt;&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;这个虹膜和深度估计模型将作为支持PC，移动设备和Web的跨平台MediaPipe管道发布。正如谷歌在最近一篇关于MediaPipe的博文所述，团队利用WebAssembly和XNNPACK在浏览器中本地运行Iris ML管道，无需将任何数据发送到云端。
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p7.itc.cn/q_70/images03/20200808/6974ce3508e94a1c87418733ba3a3928.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;420&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;使用MediaPipe的WASM堆栈。你可以在浏览器种运行模型&lt;/div&gt; 
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p6.itc.cn/q_70/images03/20200808/ede608441d4141629bf58a576ed495ba.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;420&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;仅使用包含EXIF数据的单张图片计算虹膜深度&lt;/div&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;4. 未来方向&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#39;left&#39;&gt;&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;谷歌计划进一步扩展MediaPipe Iris模型，实现更稳定的追踪性能以降低误差，并将其部署用于无障碍用例。谷歌在相关文档和随附的Model Card中详细说明了预期的用途，限制和模型的公平性，从而确保模型的使用符合谷歌的AI原则。请注意，任何形式的监视监控都明显超出应用范围，故不予支持。团队表示：“我们希望的是，通过向广泛的研究与开发社区提供这种虹膜感知功能，从而促使创造性用例的出现，激发负责任的新应用和新研究途径。”</description>
+    </item>
+    
+    <item>
+      <title>Iris recognition is the general trend?</title>
+      <link>http://localhost:1313/post/iris-recognition-is-the-general-trend/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/iris-recognition-is-the-general-trend/</guid>
+      <description> &lt;font size=&#39;5&#39;&gt;
+ &amp;emsp;&amp;emsp;2017年4月27日，微软获得了一项虹膜识别技术的专利，未来该技术将纳入 Windows Hello ，用于微软旗下的智能手机、笔记本等设备中。
+ &lt;/font&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;https://blog-assets.oss-cn-shanghai.aliyuncs.com/530/4db4abc1a1c5a9ef9687e58441c419544ca22a98.gif&#34; alt=&#34;show&#34; /&gt;
+&lt;/div&gt;
+ &lt;font size=&#39;5&#39;&gt;
+&amp;emsp;&amp;emsp;虹膜识别是生物识别技术中的一种。其他的生物识别方法包括人脸、指纹、声音、视网膜、静脉识别等，而由于人类虹膜上拥有266个特征点，远高于其他生物识别技术的不到60个特征点，故被认为具有更高的精准性和安全性。
+&lt;div&gt;
+&lt;p&gt;&lt;font size=&#39;5&#39;&gt;  虹膜识别是通过数学算法对人眼虹膜特征进行编码和对比的身份识别方法。根据专利文件描述，微软的智能设备可以从两个或者三个方向照明中拍摄用户眼睛的多张照片。每个角度的眼睛照片都能检测虹膜特征并创建不同的数据点。&lt;/p&gt;
+ &lt;div align=center&gt;
+&lt;img src=&#34;15d24fe272954868ba8649893ea5ad34633d843f.jpeg&#34; alt=&#34;show&#34; /&gt;
+&lt;/div&gt;
+ &lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;微软在其专利申请中指出，人眼是部分透明的三维结构。当光通过瞳孔传递到眼睛的视网膜上。从不同的方向用光照射眼睛，就可以获得许多图像帧的图像数据，并对至少两个图像帧的数据进行对比，找到相似的地方，获得相关的数据，这些数据与关注的眼睛区域是一致的。然后系统根据数据自动确定假眼睛的验证特点，从而用来验证真正的眼睛。
+</description>
+    </item>
+    
+    <item>
+      <title>Iris Recognition</title>
+      <link>http://localhost:1313/benchmark/iris-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/benchmark/iris-recognition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

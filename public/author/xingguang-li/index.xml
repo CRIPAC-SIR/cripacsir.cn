@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xingguang Li | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/author/xingguang-li/</link>
+      <atom:link href="http://localhost:1313/author/xingguang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xingguang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Xingguang Li</title>
+      <link>http://localhost:1313/author/xingguang-li/</link>
+    </image>
+    
+    <item>
+      <title>Seg-Edge Bilateral Constraint Network for Iris Segmentation</title>
+      <link>http://localhost:1313/publication/hu-2019-icb/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hu-2019-icb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

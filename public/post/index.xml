@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>News</title>
+      <link>http://localhost:1313/post/</link>
+    </image>
+    
+    <item>
+      <title>Two paper were accepted to Mahcine Intelligence Research (MIR) and another one was accpeted to TIFS 2024</title>
+      <link>http://localhost:1313/post/recent-published-papers-24/</link>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/recent-published-papers-24/</guid>
+      <description>&lt;h2 id=&#34;1-boosting-multi-modal-ocular-recognition-via-spatial-feature-reconstruction-and-unsupervised-image-quality-estimation&#34;&gt;1. Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Zihui Yan, Lingxiao He, Yunlong Wang, Kunbo Zhang, Zhenan Sun, Tieniu Tan. &amp;ldquo;Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation&amp;rdquo;. Machine Intelligence Research (Volume: 21).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.1007/s11633-023-1415-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11633-023-1415-y&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;http://localhost:1313/post/recent-published-papers-24/MIR-2024-01-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In the daily application of an iris-recognition-at-a-distance (IAAD) system, many ocular images of low quality are acquired. As the iris part of these images is often not qualified for the recognition requirements, the more accessible periocular regions are a good complement for recognition. To further boost the performance of IAAD systems, a novel end-to-end framework for multi-modal ocular recognition is proposed. The proposed framework mainly consists of iris/periocular feature extraction and matching, unsupervised iris quality assessment, and a score-level adaptive weighted fusion strategy. First, ocular feature reconstruction (OFR) is proposed to sparsely reconstruct each probe image by high-quality gallery images based on proper feature maps. Next, a brand new unsupervised iris quality assessment method based on random multiscale embedding robustness is proposed. Different from the existing iris quality assessment methods, the quality of an iris image is measured by its robustness in the embedding space. At last, the fusion strategy exploits the iris quality score as the fusion weight to coalesce the complementary information from the iris and periocular regions. Extensive experimental results on ocular datasets prove that the proposed method is obviously better than unimodal biometrics, and the fusion strategy can significantly improve the recognition performance.&lt;/p&gt;
+&lt;h2 id=&#34;2-casia-iris-africa-a-large-scale-african-iris-image-database&#34;&gt;2. CASIA-Iris-Africa: A Large-scale African Iris Image Database&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jawad Muhammad, Yunlong Wang, Junxing Hu, Kunbo Zhang, Zhenan Sun. &amp;ldquo;CASIA-Iris-Africa: A Large-scale African Iris Image Database&amp;rdquo;. Machine Intelligence Research (Volume: 21).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.1007/s11633-022-1402-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11633-022-1402-8&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;http://localhost:1313/post/recent-published-papers-24/MIR-2024-01-pic2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Iris biometrics is a phenotypic biometric trait that has proven to be agnostic to human natural physiological changes. Research on iris biometrics has progressed tremendously, partly due to publicly available iris databases. Various databases have been available to researchers that address pressing iris biometric challenges such as constraint, mobile, multispectral, synthetics, long-distance, contact lenses, liveness detection, etc. However, these databases mostly contain subjects of Caucasian and Asian docents with very few Africans. Despite many investigative studies on racial bias in face biometrics, very few studies on iris biometrics have been published, mainly due to the lack of racially diverse large-scale databases containing sufficient iris samples of Africans in the public domain. Furthermore, most of these databases contain a relatively small number of subjects and labelled images. This paper proposes a large-scale African database named Chinese Academy of Sciences Institute of Automation (CASIA)-Iris-Africa that can be used as a complementary database for the iris recognition community to mediate the effect of racial biases on Africans. The database contains 28 717 images of 1 023 African subjects (2 046 iris classes) with age, gender, and ethnicity attributes that can be useful in demographically sensitive studies of Africans. Sets of specific application protocols are incorporated with the database to ensure the database’s variability and scalability. Performance results of some open-source state-of-the-art (SOTA) algorithms on the database are presented, which will serve as baseline performances. The relatively poor performances of the baseline algorithms on the proposed database despite better performance on other databases prove that racial biases exist in these iris recognition algorithms.&lt;/p&gt;
+&lt;h2 id=&#34;3-multi-faceted-knowledge-driven-graph-neural-network-for-iris-segmentation&#34;&gt;3. Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jianze Wei, Yunlong Wang, Xingyu Gao, Ran He, Zhenan Sun. &amp;ldquo;Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation&amp;rdquo;. IEEE Transactions on Information Forensics and Security ( Volume: 19).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://doi.org/10.1109/TIFS.2024.3407508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TIFS.2024.3407508&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&#34;TIFS-2024-06&#34; src=&#34;http://localhost:1313/post/recent-published-papers-24/TIFS-2024-06-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Accurate iris segmentation, especially around the iris inner and outer boundaries, is still a formidable challenge. Pixels within these areas are difficult to semantically distinguish since they have similar visual characteristics and close spatial positions. To tackle this problem, the paper proposes an iris segmentation graph neural network (ISeGraph) for accurate segmentation. ISeGraph regards individual pixels as nodes within the graph and constructs self-adaptive edges according to multi-faceted knowledge, including visual similarity, positional correlation, and semantic consistency for feature aggregation. Specifically, visual similarity strengthens the connections between nodes sharing similar visual characteristics, while positional correlation assigns weights according to the spatial distance between nodes. In contrast to the above knowledge, semantic consistency maps nodes into a semantic space and learns pseudo-labels to define relationships based on label consistency. ISeGraph leverages multi-faceted knowledge to generate self-adaptive relationships for accurate iris segmentation. Furthermore, a pixel-wise adaptive normalization module is developed to increase the feature discriminability. It takes informative features in the shallow layer as a reference to improve the segmentation features from a statistical perspective. Experimental results on three iris datasets illustrate that the proposed method achieves superior performance in iris segmentation, increasing the segmentation accuracy in areas near the iris boundaries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted to T-PAMI 2023 and another was accpeted to TIFS 2023</title>
+      <link>http://localhost:1313/post/recent-published-papers-23/</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/recent-published-papers-23/</guid>
+      <description>&lt;h2 id=&#34;1-multiscale-dynamic-graph-representation-for-biometric-recognition-with-occlusions&#34;&gt;1. Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Min Ren, Yunlong Wang, Yuhao Zhu, Kunbo Zhang, Zhenan Sun. &amp;ldquo;Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&amp;rdquo;. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (Volume: 45)&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://doi.org/10.1109/TPAMI.2023.3298836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1109/TPAMI.2023.3298836&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&#34;TPAMI-2023-07&#34; src=&#34;http://localhost:1313/post/recent-published-papers-23/TPAMI-2023-07-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Occlusion is a common problem with biometric recognition in the wild. The generalization ability of CNNs greatly decreases due to the adverse effects of various occlusions. To this end, we propose a novel unified framework integrating the merits of both CNNs and graph models to overcome occlusion problems in biometric recognition, called multiscale dynamic graph representation (MS-DGR). More specifically, a group of deep features reflected on certain subregions is recrafted into a feature graph (FG). Each node inside the FG is deemed to characterize a specific local region of the input sample, and the edges imply the co-occurrence of non-occluded regions. By analyzing the similarities of the node representations and measuring the topological structures stored in the adjacent matrix, the proposed framework leverages dynamic graph matching to judiciously discard the nodes corresponding to the occluded parts. The multiscale strategy is further incorporated to attain more diverse nodes representing regions of various sizes. Furthermore, the proposed framework exhibits a more illustrative and reasonable inference by showing the paired nodes. Extensive experiments demonstrate the superiority of the proposed framework, which boosts the accuracy in both natural and occlusion-simulated cases by a large margin compared with that of baseline methods.&lt;/p&gt;
+&lt;h2 id=&#34;2-iris-guidenet-guided-localisation-and-segmentation-network-for-unconstrained-iris-biometrics&#34;&gt;2. Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jawad Muhammad, Caiyong Wang, Yunlong Wang, Kunbo Zhang, Zhenan Sun. &amp;ldquo;Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics&amp;rdquo;. IEEE Transactions on Information Forensics and Security(Volume:18).&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://doi.org/10.1109/TIFS.2023.3268504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1109/TIFS.2023.3268504&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&#34;TIFS-2023-04&#34; src=&#34;http://localhost:1313/post/recent-published-papers-23/TIFS-2023-04-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, unconstrained iris biometrics has become more prevalent due to its wide range of user applications. However, it also presents numerous challenges to the Iris pre-processing task of Localization and Segmentation (ILS). Many ILS techniques have been proposed to address these challenges, among which the most effective is the CNN-based methods. Training the CNN is data-intensive, and most of the existing CNN-based ILS approaches do not incorporate iris-specific features that can reduce their data dependence, despite the limited labelled iris data in the available databases. These trained CNN models built upon these databases can be sub-optimal. Hence, this paper proposes a guided CNN-based ILS approach IrisGuideNet. IrisGuideNet involves incorporating novel iris-specific heuristics named Iris Regularization Term (IRT), deep supervision technique, and hybrid loss functions in the training pipeline, which guides the network and reduces the model data dependence. A novel Iris Infusion Module (IIM) that utilizes the geometrical relationships between the ILS outputs to refine the predicted outputs is introduced at network inference. The proposed model is trained and evaluated with various datasets. Experimental results show that IrisGuideNet has outperformed most models across all the database categories. The codes implementation of the proposed IrisGuideNet will be available at: 
+&lt;a href=&#34;https://github.com/mohdjawadi/IrisGuidenet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mohdjawadi/IrisGuidenet&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted to International Conference on Machine Learning (ICML 2022)</title>
+      <link>http://localhost:1313/post/recent-published-papers-2207/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/recent-published-papers-2207/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Zhengquan Luo, Yunlong Wang*, Zilei Wang, Zhenan Sun, Tieniu Tan. Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring. Thirty-ninth International Conference on Machine Learning (ICML), 2022. 
+&lt;a href=&#34;https://icml.cc/Conferences/2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://icml.cc/Conferences/2022&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Attributes skew hinders the current federated learning (FL) frameworks from consistent optimization directions among the clients, which inevitably leads to performance reduction and unstable convergence. The core problems lie in that: 1) Domain-specific attributes, which are non-causal and only locally valid, are indeliberately mixed into global aggregation. 2) The one-stage optimizations of entangled attributes cannot simultaneously satisfy two conflicting objectives, i.e., generalization and personalization. To cope with these, we proposed disentangled federated learning (DFL) to disentangle the domain-specific and cross-invariant attributes into two complementary branches, which are trained by the proposed alternating local-global optimization independently. Importantly, convergence analysis proves that the FL system can be stably converged even if incomplete client models participate in the global aggregation, which greatly expands the application scope of FL. Extensive experiments verify that DFL facilitates FL with higher performance, better interpretability, and faster convergence rate, compared with SOTA FL methods on both manually synthesized and realistic attributes skew datasets.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://mp.weixin.qq.com/s/xU_Rvbofvwveekq41SCpZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;人工智能前沿讲习公众号：【源头活水】ICML 2022 | 共识表征提取和多样性传播的解构联邦学习框架&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;ICML2022&#34; src=&#34;http://localhost:1313/post/recent-published-papers-2207/ICML2022-pic1.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted to Mahcine Intelligence Research (MIR) and another one was accpeted to CVPRW 2022</title>
+      <link>http://localhost:1313/post/recent-published-papers-2204/</link>
+      <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/recent-published-papers-2204/</guid>
+      <description>&lt;h2 id=&#34;1-towards-interpretable-defense-against-adversarial-attacks-via-causal-inference&#34;&gt;1. Towards Interpretable Defense Against Adversarial Attacks via Causal Inference&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Min Ren, Yunlong Wang*, Zhaofeng He. Towards interpretable defense against adversarial attacks via causal inference. Machine Intelligence Research.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://doi.org/10.1007/s11633-022-1330-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1007/s11633-022-1330-7&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&#34;MIR-2022-05&#34; src=&#34;http://localhost:1313/post/recent-published-papers-2204/MIR-2022-05-pic1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Deep learning-based models are vulnerable to adversarial attacks. Defense against adversarial attacks is essential for sensitive and safety-critical scenarios. However, deep learning methods still lack effective and efficient defense mechanisms against adversari-al attacks. Most of the existing methods are just stopgaps for specific adversarial samples. The main obstacle is that how adversarial samples fool the deep learning models is still unclear. The underlying working mechanism of adversarial samples has not been well explored, and it is the bottleneck of adversarial attack defense. In this paper, we build a causal model to interpret the generation and performance of adversarial samples. The self-attention/transformer is adopted as a powerful tool in this causal model. Compared to existing methods, causality enables us to analyze adversarial samples more naturally and intrinsically. Based on this causal model, the working mechanism of adversarial samples is revealed, and instructive analysis is provided. Then, we propose simple and effective adversarial sample detection and recognition methods according to the revealed working mechanism. The causal insights enable us to detect and recognize adversarial samples without any extra model or training. Extensive experiments are conducted to demonstrate the effectiveness of the proposed methods. Our methods outperform the state-of-the-art defense methods under various adversarial attacks.&lt;/p&gt;
+&lt;h2 id=&#34;2-fediris-towards-more-accurate-and-privacy-preserving-iris-recognition-via-federated-template-communication&#34;&gt;2. FedIris: Towards More Accurate and Privacy-preserving Iris Recognition via Federated Template Communication&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Zhengquan Luo, Yunlong Wang*, Zilei Wang, Zhenan Sun,Tieniu Tan. IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022, International Workshop on Federated Learning for Computer Vision.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sites.google.com/view/fedvision/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/fedvision/home?authuser=0&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt=&#34;CVPRW-2022-05&#34; src=&#34;http://localhost:1313/post/recent-published-papers-2204/CVPRW-2022-05-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;As biometric data undergo rapidly growing privacy concerns, building large-scale datasets has become more difficult. Unfortunately, current iris databases are mostly in small scale, e.g., thousands of iris images from hundreds of identities. What&amp;rsquo;s worse, the heterogeneity among decentralized iris datasets hinders the current deep learning (DL) frameworks from obtaining recognition performance with robust generalization. It motivates us to leverage the merits of federated learning (FL) to solve these problems. However, traditional FL algorithms often employ model sharing for knowledge transfer, wherein the simple averaging aggregation lacks interpretability, and divergent optimization directions of clients lead to performance degradation. To overcome this interference, we propose FedIris with solid theoretical foundations, which attempts to employ the iris template as the communication carrier and formulate federated triplet (Fed-Triplet) for knowledge transfer. Furthermore, the massive heterogeneity among iris datasets may induce negative transfer and unstable optimization. The modified Wasserstein distance is embedded into the FedTriplet loss to reweight global aggregation, which drives the clients with similar data distributions to contribute more mutually. Extensive experimental results demonstrate that the proposed FedIris outperforms SOLO training, model-sharing-based FL training, and even centralized training.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper was accepted to IEEE TIFS and another one was accpeted to Journal of Electronic Imaging</title>
+      <link>http://localhost:1313/post/recent-published-papers-2203/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/recent-published-papers-2203/</guid>
+      <description>&lt;h2 id=&#34;towards-more-discriminative-and-robust-iris-recognition-by-learning-uncertain-factors&#34;&gt;Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/recent-published-papers-2203/uncertainty.jpg&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Jianze Wei, Huaibo Huang, Yunlong Wang, Ran He and Zhenan Sun, &amp;ldquo;Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors,&amp;rdquo; in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2022.3154240.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The uncontrollable acquisition process limits the performance of iris recognition. In the acquisition process, various inevitable factors, including eyes, devices, and environment, hinder the iris recognition system from learning a discriminative identity representation. This leads to severe performance degradation. In this paper, we explore uncertain acquisition factors and propose uncertainty embedding (UE) and uncertainty-guided curriculum learning (UGCL) to mitigate the influence of acquisition factors. UE represents an iris image using a probabilistic distribution rather than a deterministic point (binary template or feature vector) that is widely adopted in iris recognition methods. Specifically, UE learns identity and uncertainty features from the input image, and encodes them as two independent components of the distribution, mean and variance. Based on this representation, an input image can be regarded as an instantiated feature sampled from the UE, and we can also generate various virtual features through sampling. UGCL is constructed by imitating the progressive learning process of newborns. Particularly, it selects virtual features to train the model in an easy-to-hard order at different training stages according to their uncertainty. In addition, an instance-level enhancement method is developed by utilizing local and global statistics to mitigate the data uncertainty from image noise and acquisition conditions in the pixel-level space. The experimental results on six benchmark iris datasets verify the effectiveness and generalization ability of the proposed method on same-sensor and cross-sensor recognition.&lt;/p&gt;
+&lt;p&gt;Github repository：
+&lt;a href=&#34;https://github.com/reborn20200813/uncertainty&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/reborn20200813/uncertainty&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;multitask-deep-active-contour-based-iris-segmentation-for-off-angle-iris-images&#34;&gt;Multitask deep active contour-based iris segmentation for off-angle iris images&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tianhao Lu, Caiyong Wang, Yunlong Wang, and Zhenan Sun &amp;ldquo;Multitask deep active contour-based iris segmentation for off-angle iris images,&amp;rdquo; Journal of Electronic Imaging 31(4), 041211 (26 February 2022).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Iris recognition has been considered as a secure and reliable biometric technology. However, iris images are prone to off-angle or are partially occluded when captured with fewer user cooperations. As a consequence, iris recognition especially iris segmentation suffers a serious performance drop. To solve this problem, we propose a multitask deep active contour model for off-angle iris image segmentation. Specifically, the proposed approach combines the coarse and fine localization results. The coarse localization detects the approximate position of the iris area and further initializes the iris contours through a series of robust preprocessing operations. Then, iris contours are represented by 40 ordered isometric sampling polar points and thus their corresponding offset vectors are regressed via a convolutional neural network for multiple times to obtain the precise inner and outer boundaries of the iris. Next, the predicted iris boundary results are regarded as a constraint to limit the segmentation range of noise-free iris mask. Besides, an efficient channel attention module is introduced in the mask prediction to make the network focus on the valid iris region. A differentiable, fast, and efficient SoftPool operation is also used in place of traditional pooling to keep more details for more accurate pixel classification. Finally, the proposed iris segmentation approach is combined with off-the-shelf iris feature extraction models including traditional OM and deep learning-based FeatNet for iris recognition. The experimental results on two NIR datasets CASIA-Iris-off-angle, CASIA-Iris-Africa, and a VIS dataset SBVPI show that the proposed approach achieves a significant performance improvement in the segmentation and recognition for both regular and off-angle iris images.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overview of Recent Published Papers</title>
+      <link>http://localhost:1313/post/recent-published-papers-2111/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/recent-published-papers-2111/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Min Ren, Lingxiao He, Xingyu Liao, Wu Liu, Yunlong Wang, Tieniu Tan; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 14930-14939&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;J. Muhammad, Y. Wang, C. Wang, K. Zhang and Z. Sun, &amp;ldquo;CASIA-Face-Africa: A Large-Scale African Face Image Database,&amp;rdquo; in IEEE Transactions on Information Forensics and Security, vol. 16, pp. 3634-3646, 2021, doi: 10.1109/TIFS.2021.3080496.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Z. Yan, L. He, Y. Wang, Z. Sun and T. Tan, &amp;ldquo;Flexible Iris Matching Based on Spatial Feature Reconstruction,&amp;rdquo; in IEEE Transactions on Biometrics, Behavior, and Identity Science, doi: 10.1109/TBIOM.2021.3108559.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;J. Wei, Y. Wang, Y. Li, R. He and Z. Sun, &amp;ldquo;Cross-spectral Iris Recognition by Learning Device-specific Band,&amp;rdquo; in IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2021.3117291.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;J. Hu, L. Wang, Z. Luo, Y. Wang and Z. Sun, &amp;ldquo;A Large-scale Database for Less Cooperative Iris Recognition,&amp;rdquo; 2021 IEEE International Joint Conference on Biometrics (IJCB), 2021, pp. 1-6, doi: 10.1109/IJCB52358.2021.9484357.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Y. Ru, W. Zhou, Y. Liu, J. Sun and Q. Li, &amp;ldquo;Bita-Net: Bi-temporal Attention Network for Facial Video Forgery Detection,&amp;rdquo; 2021 IEEE International Joint Conference on Biometrics (IJCB), 2021, pp. 1-8, doi: 10.1109/IJCB52358.2021.9484408.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;J. Wei, R. He and Z. Sun, &amp;ldquo;Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples,&amp;rdquo; 2021 IEEE International Joint Conference on Biometrics (IJCB), 2021, pp. 1-8, doi: 10.1109/IJCB52358.2021.9484388.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;L. Wang, K. Zhang, Y. Wang and Z. Sun, &amp;ldquo;An End-to-End Autofocus Camera for Iris on the Move,&amp;rdquo; 2021 IEEE International Joint Conference on Biometrics (IJCB), 2021, pp. 1-8, doi: 10.1109/IJCB52358.2021.9484340.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Y. Tian, K. Zhang, L. Wang and C. Zhang, &amp;ldquo;Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method,&amp;rdquo; 2021 IEEE International Joint Conference on Biometrics (IJCB), 2021, pp. 1-8, doi: 10.1109/IJCB52358.2021.9484402.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sun Z N, He R, Wang L, Kan M N, Feng J J, Zheng F, Zheng W S, Zuo W M, Kang W X, Deng W H, Zhang J, Han H, Shan SG, Wang Y L, Ru Y W, Zhu Y H, Liu Y F and He Y. 2021. Overview of biometrics research. Journal of Image and Graphics,26(06):1254-1329.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Luo Z., Li H., Wang Y., Wang Z., Sun Z. (2021) Iris Normalization Beyond Appr-Circular Parameter Estimation. In: Feng J., Zhang J., Liu M., Fang Y. (eds) Biometric Recognition. CCBR 2021. Lecture Notes in Computer Science, vol 12878. Springer, Cham. 
+&lt;a href=&#34;https://doi.org/10.1007/978-3-030-86608-2_35&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/978-3-030-86608-2_35&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5 papers were accepted by IJCB2021</title>
+      <link>http://localhost:1313/post/ijcb2021accept/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ijcb2021accept/</guid>
+      <description>&lt;p&gt;Over the past few months, the Program Committee and Area Chairs worked very hard to review each of the 164 papers submitted to IJCB 2021. The reviewers were carefully selected and assigned papers for review in their areas of expertise. A double-blind review policy was adopted. The review process resulted in the selection of the following 66 (40.2%) highly qualified papers to be included in the Technical Program.&lt;/p&gt;
+&lt;p&gt;42: &lt;strong&gt;A Large-scale Database for Less Cooperative Iris Recognition&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;44: &lt;strong&gt;Bita-Net: Bi-temporal Attention Network for Facial Video Forgery Detection&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;87: &lt;strong&gt;Contrastive Uncertainty Learning for Iris Recognition With Insufficient Labeled Samples&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;76: &lt;strong&gt;An End-to-End Autofocus Camera for Iris on the Move&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;117: &lt;strong&gt;Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization (NIR-ISL 2021)</title>
+      <link>http://localhost:1313/post/nir-isl2021/</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/nir-isl2021/</guid>
+      <description>&lt;p&gt;For iris recognition in non-cooperative environments, iris segmentation has been regarded as the first most important challenge still open to the biometric community, affecting all downstream tasks from normalization to recognition. In recent years, deep learning technologies have gained significant popularity among various computer vision tasks and have also affected the iris biometrics, especially iris segmentation. To investigate recent developments and attract more interests of researchers in the iris segmentation method, we are planning to host the challenge competition. In this challenge, we aim to benchmark the performance of iris segmentation on NIR iris images from Asian and African people captured in non-cooperative environments. Moreover, we specially split the general iris segmentation task in the conventional iris recognition pipeline into the segmentation of noise-free iris mask and the localization of inner and outer boundaries of the iris, which are narrowly referred to as iris segmentation and iris localization. Therefore, the challenge encourages the submission of a complete solution taking the iris segmentation and iris localization into consideration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organisers&lt;/strong&gt;: Dr. Caiyong Wang, Dr. Yunlong Wang, Dr. Kunbo Zhang, Jawad Muhammad, Tianhao Lu, Prof. Qichuan Tian, Prof. Zhaofeng He, Prof. Zhenan Sun&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Preferred contact person&lt;/strong&gt;: Dr. Caiyong Wang, &lt;em&gt;wangcaiyong at bucea.edu.cn&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: 
+&lt;a href=&#34;https://sites.google.com/view/nir-isl2021/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/nir-isl2021/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Schedule&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Registration closes: April 20, 2021
+Prediction results and technical reports submission deadline: April 20, 2021
+Results announcement: April 30, 2021
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;More Competition&lt;/strong&gt;:
+&lt;a href=&#34;http://ijcb2021.iapr-tc4.org/competitions/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://ijcb2021.iapr-tc4.org/competitions/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;p&gt;ll together 30 research groups registered for NIR-ISL 2021, out of which 14 took part in the final round and submitted a total of 27 valid models for scoring.&lt;/p&gt;
+&lt;p&gt;According to our ranking rules, each submitted entry was assigned one ranking score per evaluation metric and set of testing data. The final ranking was then obtained by adding all 4(evaluation metrics)x5(datasets)(=20) ranking scores (rank sum). The entry with the smallest sum was placed top in the final ranking.&lt;/p&gt;
+&lt;p&gt;The top-3 winning solutions of NIR-ISL 2021 are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1st place: Lao Yang Sprint Team (Yiwen Zhang, Tianbao Liu, and Wei Yang, from School of Biomedical Engineering, Southern Medical University)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2nd place: SUEP-Pixsur (Dongliang Wu, Yingfeng Liu, Ruiye Zhou, and Huihai Wu, from Shanghai University of Electric Power)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;3rd place: EyeCool (Hao Zhang, Junbao Wang, Jiayi Wang, and Wantong Xiong, from College of Science, Northeastern University)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations to them!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Following are the team details and results. More details can be found in the future IJCB 2021 summary paper.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;details&#34; src=&#34;http://localhost:1313/post/nir-isl2021/result.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kunbo Zhang Wins IJCB 2020 Best Paper Award Runner-Up</title>
+      <link>http://localhost:1313/post/ijcb2020award/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/ijcb2020award/</guid>
+      <description>&lt;p&gt;Zhang published paper, 
+&lt;a href=&#34;../../publication/zhang-ijcb2020&#34;&gt;All-in-Focus Iris Camera With a Great Capture Volume&lt;/a&gt;, wins the PC chairs choice best paper award runner-Up at 
+&lt;a href=&#34;https://ieee-biometrics.org/ijcb2020/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the 2020 International Joint Conference on Biometrics (IJCB 2020)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;All-in-Focus Iris Camera With a Great Capture Volume&#34; src=&#34;http://localhost:1313/post/ijcb2020award/paper.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The 2020 International Joint Conference on Biometrics (IJCB 2020) combines two major biometrics research conferences, the Biometrics Theory, Applications and Systems (BTAS) conference and the International Conference on Biometrics (ICB). The blending of these two conferences in 2020 is through a special agreement between the IEEE Biometrics Council and the IAPR TC-4, and should present an exciting event for the entire worldwide biometrics research community.&lt;/p&gt;
+&lt;p&gt;In this work, a novel all-in-focus iris imaging system is developed. It using a focus-tunable lens and a 2D steering mirror to greatly extend capture volume by spatiotemporal multiplexing method. Our iris imaging depth offield extension system requires no mechanical motion and is capable to adjust the focal plane at extremely high speed.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;all-in-focus iris imaging system&#34; src=&#34;http://localhost:1313/post/ijcb2020award/camera.png&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MediaPipe Iris</title>
+      <link>http://localhost:1313/post/mediapipe-iris/</link>
+      <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/mediapipe-iris/</guid>
+      <description>&lt;!--&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;10&#39;&gt;MediaPipe Iris 实时虹膜跟踪和深度估计&lt;/font&gt;&lt;/div&gt;    
+&lt;div style=&#39;display:none&#39;&gt;
+标题居中
+&lt;/div&gt;--&gt;
+ &lt;font size=&#39;5&#39;&gt;
+ &amp;emsp;&amp;emsp;包括计算摄影（例如，人像模式和闪光反射）和增强现实效果（例如，虚拟化身）在内的大量实际应用程序都依赖于通过跟踪虹膜来估计眼睛位置。一旦获得了准确的虹膜跟踪，我们就可以确定从相机到用户的距离，而无需使用专用的深度传感器。反过来，这可以改善各种用例，从计算摄影到适当大小的眼镜和帽子的虚拟试戴，到根据视听者的距离采用字体大小的可用性增强。
+ 由于有限的计算资源，可变的光照条件和遮挡物（例如头发或人斜视）的存在，虹膜跟踪是在移动设备上解决的一项艰巨任务。通常，会使用复杂的专用硬件，从而限制了可在其中应用该解决方案的设备范围。
+ &lt;/font&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;https://pic1.zhimg.com/v2-abc83ffe57801610f81c22845ec1a937_b.gif&#34; alt=&#34;show&#34; width=&#34;650&#34; height=&#34;230&#34; /&gt;
+&lt;/div&gt;
+&lt;div align=&#39;center&#39;&gt;由MediaPipe Iris实现的眼睛重新着色示例&lt;/div&gt; 
+&lt;/div&gt;
+ &lt;font size=&#39;5&#39;&gt;
+&amp;emsp;&amp;emsp;谷歌日前发布了用于精确虹膜估计的全新机器学习模型：MediaPipe Iris。所述模型以MediaPipe Face Mesh的研究作为基础，而它无需专用硬件就能够通过单个RGB摄像头实时追踪涉及虹膜，瞳孔和眼睛轮廓的界标。利用虹膜界标，模型同时能够在不使用深度传感器的情况下以相对误差小于10％的精度确定对象和摄像头之间的度量距离。请注意，虹膜追踪不会推断人们正在注视的位置，同时不能提供任何形式的身份识别。MediaPipe是一个旨在帮助研究人员和开发者构建世界级机器学习解决方案与应用程序的开源跨平台框架，所以在MediaPipe中实现的这一系统能够支持大多数现代智能手机，PC，笔记本电脑，甚至是Web。
+&lt;div&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p3.itc.cn/q_70/images03/20200808/b4ad6d1e27c5402c9f6752ce39d9a24a.gif&#34; alt=&#34;show&#34; width=&#34;240&#34; height=&#34;270&#34;&gt;
+&lt;/div&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定&lt;/div&gt; 
+&lt;!-- 用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定--&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;1. 用于虹膜追踪的机器学习管道&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#39;5&#39;&gt;  谷歌介绍道，开发系统的第一步利用了之前针对3D Face Meshes的研究，亦即通过高保真面部界标来生成近似面部几何形状的网格。根据所述网格，研究人员分离出原始图像中的眼睛区域以用于虹膜追踪模型。然后，谷歌将问题分为两个部分：眼睛轮廓估计和虹膜位置。他们设计了一个由一元化编码器组成的多任务模型，每个组件对应一个任务，这样就能够使用特定于任务的训练数据。&lt;/p&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p3.itc.cn/q_70/images03/20200808/462869a0c5844bc28f5c89f65479dd02.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;300&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定&lt;/div&gt; 
+&lt;/div&gt; 
+&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;为了将裁剪后的眼睛区域用于模型训练，团队手动注释了大约50万张图像。其中，图像涵盖了不同地理位置的各种照明条件和头部姿势，如下所示
+&lt;div align=center&gt;
+&lt;img src=&#34;d07b74a8b05a4721b72eb12c1a81f383.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;200&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定&lt;/div&gt; 
+&lt;div align=center&gt;
+&lt;img src=&#34;d9331ef1d8864e79a8288a210f869815.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;260&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;裁剪的眼睛区域形成模型的输入，而它将通过单独的组件预测界标&lt;/div&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;2. 虹膜深度：用单个图像进行深度估计&lt;/font&gt;&lt;/strong&gt;
+&lt;font size=&#39;5&#39;&gt;  无需任何专门的硬件，这个虹膜追踪模型能够以不到10％的误差确定对象到摄像头的度量距离。相关的原理事实是，人眼的水平直径虹膜基本恒定为11.7±0.5毫米。作为说明，请想象将针孔摄像头模型投影到正方形像素的传感器。你可以使用摄像头的焦距估计从面部界标到对象的距离，而这可以通过Camera Capture API或直接从捕获图像的EXIF元数据，以及其他摄像头固有参数进行获取。给定焦距，对象到摄像头的距离与对象眼睛的物理尺寸成正比，如下图所示&lt;/p&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;366c2353e9654a7998c87ac32c491daf.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;500&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;利用类似的三角形，我们可以根据焦距（f）和虹膜大小来计算对象的距离（d）&lt;/div&gt; 
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p7.itc.cn/q_70/images03/20200808/0ba5001e03ca4c42a17036b97ed0326b.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;260&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;左边：在Pixel 2运行的MediaPipe Iris正在以cm为单位估计度量距离，没有采用任何深度摄像头；右边：groud-truth深度&lt;/div&gt; 
+&lt;div align=&#39;left&#39;&gt;&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;为了量化所述方法的精确性，研究人员收集了200多位被试的正向同步视频和深度图像，并将其与iPhone 11的深度传感器进行比较。团队使用激光测距设备，通过实验确定iPhone 11的深度传感器在2米以内的误差小于2％。对于使用虹膜大小进行深度估算的方法，平均相对误差为4.3％，标准偏差是2.4％。谷歌对有眼镜被试和正常视力被试（不计入隐形眼镜情况）测试了所述方法，并发现眼镜会将平均相对误差略微提高到4.8％（标准偏差是3.1％）。另外，实验没有测试存在任何眼睛疾病的被试。考虑到MediaPipe Iris不需要专门的硬件，所述结果表明系统能够支持一系列成本范围的设备根据单张图像获取度量深度
+&lt;div align=center&gt;
+&lt;img src=&#34;f49af869c2c34877a244ab791ee17b27.png&#34; alt=&#34;show&#34; width=&#34;500&#34; height=&#34;420&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;估计误差的直方图（左边），以及实际和估计距离的比较（右边）&lt;/div&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;3. 发布MediaPipe Iris&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#39;left&#39;&gt;&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;这个虹膜和深度估计模型将作为支持PC，移动设备和Web的跨平台MediaPipe管道发布。正如谷歌在最近一篇关于MediaPipe的博文所述，团队利用WebAssembly和XNNPACK在浏览器中本地运行Iris ML管道，无需将任何数据发送到云端。
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p7.itc.cn/q_70/images03/20200808/6974ce3508e94a1c87418733ba3a3928.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;420&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;使用MediaPipe的WASM堆栈。你可以在浏览器种运行模型&lt;/div&gt; 
+&lt;div align=center&gt;
+&lt;img src=&#34;http://p6.itc.cn/q_70/images03/20200808/ede608441d4141629bf58a576ed495ba.gif&#34; alt=&#34;show&#34; width=&#34;300&#34; height=&#34;420&#34;，&gt;
+&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;仅使用包含EXIF数据的单张图片计算虹膜深度&lt;/div&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;4. 未来方向&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;div align=&#39;left&#39;&gt;&lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;谷歌计划进一步扩展MediaPipe Iris模型，实现更稳定的追踪性能以降低误差，并将其部署用于无障碍用例。谷歌在相关文档和随附的Model Card中详细说明了预期的用途，限制和模型的公平性，从而确保模型的使用符合谷歌的AI原则。请注意，任何形式的监视监控都明显超出应用范围，故不予支持。团队表示：“我们希望的是，通过向广泛的研究与开发社区提供这种虹膜感知功能，从而促使创造性用例的出现，激发负责任的新应用和新研究途径。”</description>
+    </item>
+    
+    <item>
+      <title>How does iris recognize identity successfully?</title>
+      <link>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</guid>
+      <description>&lt;p&gt;  8月5日晚芒果台，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师带你探索虹膜识别的奥秘&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;https://www.mgtv.com/s/9538853.html&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academician introduces you to iris recognition</title>
+      <link>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</guid>
+      <description>&lt;p&gt;  7月13日播出的CCTV-1《生活圈》节目中，谭铁牛院士现身为观众介绍了虹膜识别技术。谭铁牛院士介绍到：“虹膜识别是一种相对比较新颖的生物特征识别技术，下一步虹膜识别技术会进一步朝着移动化、便捷化以及和其他的相关的生物特征识别技术，比如人脸识别技术，相融合的方向发展，具有非常广阔的发展空间。”&lt;/p&gt;
+&lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;20200713_17347661f3d_r29_800k.mp4&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&amp;emsp;&amp;emsp;自动化所孙哲南研究员也携团队相关成果做客节目，具体讲解了虹膜识别技术的优势与应用。
+&lt;div&gt;  
+&lt;div align=&#39;center&#39;&gt;
+&lt;font color=#0099ff size=6 face=&#34;黑体&#34;&gt;虹膜识别技术的优势&lt;/font&gt;
+&lt;/div&gt;
+&amp;emsp;&amp;emsp;虹膜识别是利用人眼表面黑色瞳孔和白色巩膜之间圆环状的区域进行身份识别的技术。虹膜识别的优势在于： 
+&lt;p&gt;  第一，虹膜先天具有非常高的唯一性。虹膜中可以发现证明至少244个独立变量来决定其唯一性，而指纹和人脸大概只有十几个或者几十个这样的变量。&lt;br&gt;
+  第二，虹膜终身不变。年龄的增长、化妆或者整容可以改变人的容貌，却无法改变虹膜&lt;/p&gt;
+&lt;div&gt;
+&lt;div align=&#39;center&#39;&gt;
+&lt;font color=#0099ff size=6 face=&#34;黑体&#34;&gt;虹膜识别的应用&lt;/font&gt; 
+&lt;/div&gt;  
+&lt;p&gt;&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;1. 虹膜识别应用于手机&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  孙哲南研究员在节目中展示了团队研发的虹膜识别解锁手机，在手机终端装载虹膜识别模块，直接刷眼就可以解锁手机。防护镜、墨镜甚至黑暗的环境都不会成为虹膜识别的阻碍。&lt;br&gt;
+&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;2. 虹膜识别应用于电脑&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  使用虹膜解锁电脑，刷眼后一瞬间即可安全登陆，省去了总是忘记密码与密码被盗的烦恼。&lt;br&gt;
+&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;3. 虹膜识别防盗门锁&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  只需对准虹膜采集框，即可解锁开门。团队展示的虹膜锁采用近红外主动光源成像，即使在光线很暗的楼道内，虹膜锁也可以正常工作。&lt;br&gt;
+&lt;strong&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;4. 虹膜识别收费闸机&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;
+  想象一下，当我们驾车通过收费闸机时，只需要刷一下眼睛，就可以自动收费抬杆，这是一种什么样的感觉呢？将来，这一系统也可以应用于高速公路ETC中，驾驶员就可以直接通过眼神识别进行缴费。&lt;br&gt;
+  &lt;strong&gt;其实，虹膜识别的应用远不止这些，并且在不远的将来，它还可以在更多地方得以运用，为人们的生活提供超乎想象的便利！&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Iris recognition is the general trend?</title>
+      <link>http://localhost:1313/post/iris-recognition-is-the-general-trend/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/iris-recognition-is-the-general-trend/</guid>
+      <description> &lt;font size=&#39;5&#39;&gt;
+ &amp;emsp;&amp;emsp;2017年4月27日，微软获得了一项虹膜识别技术的专利，未来该技术将纳入 Windows Hello ，用于微软旗下的智能手机、笔记本等设备中。
+ &lt;/font&gt;
+&lt;div align=center&gt;
+&lt;img src=&#34;https://blog-assets.oss-cn-shanghai.aliyuncs.com/530/4db4abc1a1c5a9ef9687e58441c419544ca22a98.gif&#34; alt=&#34;show&#34; /&gt;
+&lt;/div&gt;
+ &lt;font size=&#39;5&#39;&gt;
+&amp;emsp;&amp;emsp;虹膜识别是生物识别技术中的一种。其他的生物识别方法包括人脸、指纹、声音、视网膜、静脉识别等，而由于人类虹膜上拥有266个特征点，远高于其他生物识别技术的不到60个特征点，故被认为具有更高的精准性和安全性。
+&lt;div&gt;
+&lt;p&gt;&lt;font size=&#39;5&#39;&gt;  虹膜识别是通过数学算法对人眼虹膜特征进行编码和对比的身份识别方法。根据专利文件描述，微软的智能设备可以从两个或者三个方向照明中拍摄用户眼睛的多张照片。每个角度的眼睛照片都能检测虹膜特征并创建不同的数据点。&lt;/p&gt;
+ &lt;div align=center&gt;
+&lt;img src=&#34;15d24fe272954868ba8649893ea5ad34633d843f.jpeg&#34; alt=&#34;show&#34; /&gt;
+&lt;/div&gt;
+ &lt;font size=&#39;5&#39;&gt;&amp;emsp;&amp;emsp;微软在其专利申请中指出，人眼是部分透明的三维结构。当光通过瞳孔传递到眼睛的视网膜上。从不同的方向用光照射眼睛，就可以获得许多图像帧的图像数据，并对至少两个图像帧的数据进行对比，找到相似的地方，获得相关的数据，这些数据与关注的眼睛区域是一致的。然后系统根据数据自动确定假眼睛的验证特点，从而用来验证真正的眼睛。
+</description>
+    </item>
+    
+  </channel>
+</rss>

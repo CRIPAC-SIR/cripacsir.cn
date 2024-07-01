@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>He Yong | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/author/he-yong/</link>
+      <atom:link href="http://localhost:1313/author/he-yong/index.xml" rel="self" type="application/rss+xml" />
+    <description>He Yong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Mar 2021 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>He Yong</title>
+      <link>http://localhost:1313/author/he-yong/</link>
+    </image>
+    
+    <item>
+      <title>Overview of biometrics research</title>
+      <link>http://localhost:1313/publication/sun-jig-2021/</link>
+      <pubDate>Thu, 11 Mar 2021 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/sun-jig-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sclera Segmentation | SIR-Smart Iris Recognition</title>
+    <link>http://localhost:1313/tag/sclera-segmentation/</link>
+      <atom:link href="http://localhost:1313/tag/sclera-segmentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sclera Segmentation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <title>Sclera Segmentation</title>
+      <link>http://localhost:1313/tag/sclera-segmentation/</link>
+    </image>
+    
+    <item>
+      <title>Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition</title>
+      <link>http://localhost:1313/publication/wang-tbiom-2024-1/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-tbiom-2024-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Bias in Sclera Segmentation Models: A Group Evaluation Approach</title>
+      <link>http://localhost:1313/publication/matej-tifs-2022/</link>
+      <pubDate>Fri, 21 Oct 2022 08:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/matej-tifs-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSBC 2020: Sclera Segmentation Benchmarking Competition in the Mobile Environment</title>
+      <link>http://localhost:1313/publication/vitek-ijcb-2020/</link>
+      <pubDate>Mon, 28 Sep 2020 16:12:05 +0800</pubDate>
+      <guid>http://localhost:1313/publication/vitek-ijcb-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScleraSegNet: An Attention Assisted U-Net Model for Accurate Sclera Segmentation</title>
+      <link>http://localhost:1313/publication/wang-tbiom-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-tbiom-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

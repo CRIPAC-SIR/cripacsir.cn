@@ -1,0 +1,1131 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Real time iris tracking and depth estimation">
+
+  
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/mediapipe-iris/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+    
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+  
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="http://localhost:1313/post/mediapipe-iris/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="og:site_name" content="SIR-Smart Iris Recognition">
+  <meta property="og:url" content="http://localhost:1313/post/mediapipe-iris/">
+  <meta property="og:title" content="MediaPipe Iris | SIR-Smart Iris Recognition">
+  <meta property="og:description" content="Real time iris tracking and depth estimation"><meta property="og:image" content="http://localhost:1313/post/mediapipe-iris/featured.gif">
+  <meta property="twitter:image" content="http://localhost:1313/post/mediapipe-iris/featured.gif"><meta property="og:locale" content="en-us">
+  
+    
+      <meta property="article:published_time" content="2020-08-08T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-08-08T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/post/mediapipe-iris/"
+  },
+  "headline": "MediaPipe Iris",
+  
+  "image": [
+    "http://localhost:1313/post/mediapipe-iris/featured.gif"
+  ],
+  
+  "datePublished": "2020-08-08T00:00:00Z",
+  "dateModified": "2020-08-08T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Members"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "CASIA-SIR",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Real time iris tracking and depth estimation"
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>MediaPipe Iris | SIR-Smart Iris Recognition</title>
+
+</head>
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">SIR-Smart Iris Recognition</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">SIR-Smart Iris Recognition</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#head"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/dataset"><span>Datasets</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>Member</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>MediaPipe Iris</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    2020-08-08
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    1 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 640px; max-height: 252px;">
+  <div style="position: relative">
+    <img src="/post/mediapipe-iris/featured.gif" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <!--<div align='center'><font size='10'>MediaPipe Iris 实时虹膜跟踪和深度估计</font></div>    
+<div style='display:none'>
+标题居中
+</div>-->
+ <font size='5'>
+ &emsp;&emsp;包括计算摄影（例如，人像模式和闪光反射）和增强现实效果（例如，虚拟化身）在内的大量实际应用程序都依赖于通过跟踪虹膜来估计眼睛位置。一旦获得了准确的虹膜跟踪，我们就可以确定从相机到用户的距离，而无需使用专用的深度传感器。反过来，这可以改善各种用例，从计算摄影到适当大小的眼镜和帽子的虚拟试戴，到根据视听者的距离采用字体大小的可用性增强。
+ 由于有限的计算资源，可变的光照条件和遮挡物（例如头发或人斜视）的存在，虹膜跟踪是在移动设备上解决的一项艰巨任务。通常，会使用复杂的专用硬件，从而限制了可在其中应用该解决方案的设备范围。
+ </font>
+<div align=center>
+<img src="https://pic1.zhimg.com/v2-abc83ffe57801610f81c22845ec1a937_b.gif" alt="show" width="650" height="230" />
+</div>
+<div align='center'>由MediaPipe Iris实现的眼睛重新着色示例</div> 
+</div>
+ <font size='5'>
+&emsp;&emsp;谷歌日前发布了用于精确虹膜估计的全新机器学习模型：MediaPipe Iris。所述模型以MediaPipe Face Mesh的研究作为基础，而它无需专用硬件就能够通过单个RGB摄像头实时追踪涉及虹膜，瞳孔和眼睛轮廓的界标。利用虹膜界标，模型同时能够在不使用深度传感器的情况下以相对误差小于10％的精度确定对象和摄像头之间的度量距离。请注意，虹膜追踪不会推断人们正在注视的位置，同时不能提供任何形式的身份识别。MediaPipe是一个旨在帮助研究人员和开发者构建世界级机器学习解决方案与应用程序的开源跨平台框架，所以在MediaPipe中实现的这一系统能够支持大多数现代智能手机，PC，笔记本电脑，甚至是Web。
+<div>
+<div align=center>
+<img src="http://p3.itc.cn/q_70/images03/20200808/b4ad6d1e27c5402c9f6752ce39d9a24a.gif" alt="show" width="240" height="270">
+</div>
+<div align='center'><font size='3'>用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定</div> 
+<!-- 用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定--> 
+<p><strong><font color=#000000 size=5 face="黑体">1. 用于虹膜追踪的机器学习管道</font></strong></p>
+<p><font size='5'>  谷歌介绍道，开发系统的第一步利用了之前针对3D Face Meshes的研究，亦即通过高保真面部界标来生成近似面部几何形状的网格。根据所述网格，研究人员分离出原始图像中的眼睛区域以用于虹膜追踪模型。然后，谷歌将问题分为两个部分：眼睛轮廓估计和虹膜位置。他们设计了一个由一元化编码器组成的多任务模型，每个组件对应一个任务，这样就能够使用特定于任务的训练数据。</p>
+<div align=center>
+<img src="http://p3.itc.cn/q_70/images03/20200808/462869a0c5844bc28f5c89f65479dd02.gif" alt="show" width="300" height="300"，>
+<div align='center'><font size='3'>用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定</div> 
+</div> 
+<font size='5'>&emsp;&emsp;为了将裁剪后的眼睛区域用于模型训练，团队手动注释了大约50万张图像。其中，图像涵盖了不同地理位置的各种照明条件和头部姿势，如下所示
+<div align=center>
+<img src="d07b74a8b05a4721b72eb12c1a81f383.png" alt="show" width="700" height="200"，>
+<div align='center'><font size='3'>用于远视用户的可用性原型：无论距离如何、字体大小能够保持恒定</div> 
+<div align=center>
+<img src="d9331ef1d8864e79a8288a210f869815.png" alt="show" width="700" height="260"，>
+<div align='center'><font size='3'>裁剪的眼睛区域形成模型的输入，而它将通过单独的组件预测界标</div> 
+<p><strong><div align=left><font color=#000000 size=5 face="黑体">2. 虹膜深度：用单个图像进行深度估计</font></strong>
+<font size='5'>  无需任何专门的硬件，这个虹膜追踪模型能够以不到10％的误差确定对象到摄像头的度量距离。相关的原理事实是，人眼的水平直径虹膜基本恒定为11.7±0.5毫米。作为说明，请想象将针孔摄像头模型投影到正方形像素的传感器。你可以使用摄像头的焦距估计从面部界标到对象的距离，而这可以通过Camera Capture API或直接从捕获图像的EXIF元数据，以及其他摄像头固有参数进行获取。给定焦距，对象到摄像头的距离与对象眼睛的物理尺寸成正比，如下图所示</p>
+<div align=center>
+<img src="366c2353e9654a7998c87ac32c491daf.png" alt="show" width="700" height="500"，>
+<div align='center'><font size='3'>利用类似的三角形，我们可以根据焦距（f）和虹膜大小来计算对象的距离（d）</div> 
+<div align=center>
+<img src="http://p7.itc.cn/q_70/images03/20200808/0ba5001e03ca4c42a17036b97ed0326b.gif" alt="show" width="300" height="260"，>
+<div align='center'><font size='3'>左边：在Pixel 2运行的MediaPipe Iris正在以cm为单位估计度量距离，没有采用任何深度摄像头；右边：groud-truth深度</div> 
+<div align='left'><font size='5'>&emsp;&emsp;为了量化所述方法的精确性，研究人员收集了200多位被试的正向同步视频和深度图像，并将其与iPhone 11的深度传感器进行比较。团队使用激光测距设备，通过实验确定iPhone 11的深度传感器在2米以内的误差小于2％。对于使用虹膜大小进行深度估算的方法，平均相对误差为4.3％，标准偏差是2.4％。谷歌对有眼镜被试和正常视力被试（不计入隐形眼镜情况）测试了所述方法，并发现眼镜会将平均相对误差略微提高到4.8％（标准偏差是3.1％）。另外，实验没有测试存在任何眼睛疾病的被试。考虑到MediaPipe Iris不需要专门的硬件，所述结果表明系统能够支持一系列成本范围的设备根据单张图像获取度量深度
+<div align=center>
+<img src="f49af869c2c34877a244ab791ee17b27.png" alt="show" width="500" height="420"，>
+<div align='center'><font size='3'>估计误差的直方图（左边），以及实际和估计距离的比较（右边）</div> 
+<p><strong><div align=left><font color=#000000 size=5 face="黑体">3. 发布MediaPipe Iris</font></strong></p>
+<div align='left'><font size='5'>&emsp;&emsp;这个虹膜和深度估计模型将作为支持PC，移动设备和Web的跨平台MediaPipe管道发布。正如谷歌在最近一篇关于MediaPipe的博文所述，团队利用WebAssembly和XNNPACK在浏览器中本地运行Iris ML管道，无需将任何数据发送到云端。
+<div align=center>
+<img src="http://p7.itc.cn/q_70/images03/20200808/6974ce3508e94a1c87418733ba3a3928.gif" alt="show" width="300" height="420"，>
+<div align='center'><font size='3'>使用MediaPipe的WASM堆栈。你可以在浏览器种运行模型</div> 
+<div align=center>
+<img src="http://p6.itc.cn/q_70/images03/20200808/ede608441d4141629bf58a576ed495ba.gif" alt="show" width="300" height="420"，>
+<div align='center'><font size='3'>仅使用包含EXIF数据的单张图片计算虹膜深度</div> 
+<p><strong><div align=left><font color=#000000 size=5 face="黑体">4. 未来方向</font></strong></p>
+<div align='left'><font size='5'>&emsp;&emsp;谷歌计划进一步扩展MediaPipe Iris模型，实现更稳定的追踪性能以降低误差，并将其部署用于无障碍用例。谷歌在相关文档和随附的Model Card中详细说明了预期的用途，限制和模型的公平性，从而确保模型的使用符合谷歌的AI原则。请注意，任何形式的监视监控都明显超出应用范围，故不予支持。团队表示：“我们希望的是，通过向广泛的研究与开发社区提供这种虹膜感知功能，从而促使创造性用例的出现，激发负责任的新应用和新研究途径。”
+    </div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/iris-recognition/">Iris Recognition</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:1313/post/mediapipe-iris/&amp;text=MediaPipe%20Iris" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:1313/post/mediapipe-iris/&amp;t=MediaPipe%20Iris" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=MediaPipe%20Iris&amp;body=http://localhost:1313/post/mediapipe-iris/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:1313/post/mediapipe-iris/&amp;title=MediaPipe%20Iris" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=MediaPipe%20Iris%20http://localhost:1313/post/mediapipe-iris/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:1313/post/mediapipe-iris/&amp;title=MediaPipe%20Iris" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/ren-tpami-2023/">Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</a></li>
+      
+      <li><a href="/project/iris-recognition/">Iris Recognition</a></li>
+      
+      <li><a href="/post/iris-recognition-is-the-general-trend/">Iris recognition is the general trend?</a></li>
+      
+      <li><a href="/benchmark/iris-recognition/">Iris Recognition</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</article>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.4.8/mermaid.min.js" integrity="sha256-lyWCDMnMeZiXRi7Zl54sZGKYmgQs4izcT7+tKc+KUBk=" crossorigin="anonymous" title="mermaid"></script>
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks",
+        'slides' : "Slides"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.0d53a7f39b7d6770128a54b39dad2f22.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+  <p class="powered-by">
+    
+    <a href="/privacy/">Privacy Policy</a>
+    
+    
+     &middot; 
+    <a href="/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    Published with
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic Website Builder</a>
+    
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+
+  <p class="powered-by">
+    Welcome visitors
+    <a href=" " target="_blank">
+      <img src="https://counter.digits.net/?counter={bd8be506-bb7a-bac4-35b6-69103d06bd08}&template=simple"
+        alt="Hit Counter by Digits" style="margin: 0 auto;" />
+    </a>
+  </p>
+</footer>
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
