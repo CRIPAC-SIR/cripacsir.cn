@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhengquan Luo | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/zhengquan-luo/</link>
-      <atom:link href="http://localhost:1313/author/zhengquan-luo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/zhengquan-luo/</link>
+      <atom:link href="https://hycasia.github.io/author/zhengquan-luo/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhengquan Luo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 13 Oct 2022 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Zhengquan Luo</title>
-      <link>http://localhost:1313/author/zhengquan-luo/</link>
+      <link>https://hycasia.github.io/author/zhengquan-luo/</link>
     </image>
     
     <item>
       <title>PDVN: A Patch-based Dual-view Network for Face Liveness Detection using Light Field Focal Stack</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2022/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2022/</link>
       <pubDate>Thu, 13 Oct 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2022/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhengquan Luo</title>
-      <link>http://localhost:1313/author/zhengquan-luo/</link>
+      <link>https://hycasia.github.io/author/zhengquan-luo/</link>
       <pubDate>Thu, 13 Oct 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/zhengquan-luo/</guid>
+      <guid>https://hycasia.github.io/author/zhengquan-luo/</guid>
       <description>&lt;p&gt;Zhengquan Luo is currently a Ph.D. candidate with Department of Automation, University of Science and Technology of China(USTC), and also with Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree majoring in automation, University of Science and Technology of China(USTC), China in 2018.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Combining 2D texture and 3D geometry features for Reliable iris presentation attack detection using light field focal stack</title>
-      <link>http://localhost:1313/publication/luo-iet-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-iet-2022/</link>
       <pubDate>Sat, 27 Aug 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-iet-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-iet-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FedIris: Towards More Accurate and Privacy-Preserving Iris Recognition via Federated Template Communication</title>
-      <link>http://localhost:1313/publication/luo-cvprw-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-cvprw-2022/</link>
       <pubDate>Mon, 20 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-cvprw-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-cvprw-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring</title>
-      <link>http://localhost:1313/publication/luo-icml-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-icml-2022/</link>
       <pubDate>Tue, 14 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-icml-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-icml-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Normalization Beyond Appr-Circular Parameter Estimation</title>
-      <link>http://localhost:1313/publication/luo-ccbr-2021/</link>
+      <link>https://hycasia.github.io/publication/luo-ccbr-2021/</link>
       <pubDate>Wed, 08 Sep 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-ccbr-2021/</guid>
+      <guid>https://hycasia.github.io/publication/luo-ccbr-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Large-scale Database for Less Cooperative Iris Recognition</title>
-      <link>http://localhost:1313/publication/hu-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/hu-ijcb-2021/</link>
       <pubDate>Sat, 07 Aug 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/hu-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/hu-ijcb-2021/</guid>
       <description></description>
     </item>
     

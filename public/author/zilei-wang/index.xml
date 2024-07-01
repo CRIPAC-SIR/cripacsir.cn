@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zilei Wang | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/zilei-wang/</link>
-      <atom:link href="http://localhost:1313/author/zilei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/zilei-wang/</link>
+      <atom:link href="https://hycasia.github.io/author/zilei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zilei Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Zilei Wang</title>
-      <link>http://localhost:1313/author/zilei-wang/</link>
+      <link>https://hycasia.github.io/author/zilei-wang/</link>
     </image>
     
     <item>
       <title>Combining 2D texture and 3D geometry features for Reliable iris presentation attack detection using light field focal stack</title>
-      <link>http://localhost:1313/publication/luo-iet-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-iet-2022/</link>
       <pubDate>Sat, 27 Aug 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-iet-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-iet-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FedIris: Towards More Accurate and Privacy-Preserving Iris Recognition via Federated Template Communication</title>
-      <link>http://localhost:1313/publication/luo-cvprw-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-cvprw-2022/</link>
       <pubDate>Mon, 20 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-cvprw-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-cvprw-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring</title>
-      <link>http://localhost:1313/publication/luo-icml-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-icml-2022/</link>
       <pubDate>Tue, 14 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-icml-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-icml-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Normalization Beyond Appr-Circular Parameter Estimation</title>
-      <link>http://localhost:1313/publication/luo-ccbr-2021/</link>
+      <link>https://hycasia.github.io/publication/luo-ccbr-2021/</link>
       <pubDate>Wed, 08 Sep 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-ccbr-2021/</guid>
+      <guid>https://hycasia.github.io/publication/luo-ccbr-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-fidelity View Synthesis for Light Field Imaging with Extended Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-tci-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-tci-2020/</link>
       <pubDate>Thu, 02 Jul 2020 21:36:56 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-tci-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tci-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End View Synthesis for Light Field Imaging with Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-eccv-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-eccv-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-eccv-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-eccv-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simple and robust super resolution method for light field images</title>
-      <link>http://localhost:1313/publication/wang-icip-2016/</link>
+      <link>https://hycasia.github.io/publication/wang-icip-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-icip-2016/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icip-2016/</guid>
       <description></description>
     </item>
     

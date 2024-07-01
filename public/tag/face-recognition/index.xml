@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Face Recognition | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/tag/face-recognition/</link>
-      <atom:link href="http://localhost:1313/tag/face-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/tag/face-recognition/</link>
+      <atom:link href="https://hycasia.github.io/tag/face-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Face Recognition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Face Recognition</title>
-      <link>http://localhost:1313/tag/face-recognition/</link>
+      <link>https://hycasia.github.io/tag/face-recognition/</link>
     </image>
     
     <item>
       <title>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</title>
-      <link>http://localhost:1313/publication/ren-tpami-2023/</link>
+      <link>https://hycasia.github.io/publication/ren-tpami-2023/</link>
       <pubDate>Thu, 20 Jul 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-tpami-2023/</guid>
+      <guid>https://hycasia.github.io/publication/ren-tpami-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perturbation Inactivation Based Adversarial Defense for Face Recognition</title>
-      <link>http://localhost:1313/publication/ren-tifs-2022/</link>
+      <link>https://hycasia.github.io/publication/ren-tifs-2022/</link>
       <pubDate>Mon, 01 Aug 2022 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-tifs-2022/</guid>
+      <guid>https://hycasia.github.io/publication/ren-tifs-2022/</guid>
       <description></description>
     </item>
     

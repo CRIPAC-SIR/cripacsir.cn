@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yong He | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/yong-he/</link>
-      <atom:link href="http://localhost:1313/author/yong-he/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/yong-he/</link>
+      <atom:link href="https://hycasia.github.io/author/yong-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong He</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jun 2022 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Yong He</title>
-      <link>http://localhost:1313/author/yong-he/</link>
+      <link>https://hycasia.github.io/author/yong-he/</link>
     </image>
     
     <item>
       <title>EYE LOCATION AND STATE ESTIMATION BASED ON LANDMARKS</title>
-      <link>http://localhost:1313/publication/he-cas-2022/</link>
+      <link>https://hycasia.github.io/publication/he-cas-2022/</link>
       <pubDate>Fri, 17 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/he-cas-2022/</guid>
+      <guid>https://hycasia.github.io/publication/he-cas-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yong He</title>
-      <link>http://localhost:1313/author/yong-he/</link>
+      <link>https://hycasia.github.io/author/yong-he/</link>
       <pubDate>Fri, 17 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/yong-he/</guid>
+      <guid>https://hycasia.github.io/author/yong-he/</guid>
       <description>&lt;p&gt;Yong He is is currently an Engineer with Artificial Intelligence, University of Chinese Academy of Sciences, China, and the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA). He received his M.D. degree in Computer Architect from Hunan University of Technology, China, in 2020. His research focuses on pattern recognition and biometrics.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Lightweight Multi-Label Segmentation Network for Mobile Iris Biometrics</title>
-      <link>http://localhost:1313/publication/wang-icassp-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-icassp-2020/</link>
       <pubDate>Thu, 09 Apr 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-icassp-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icassp-2020/</guid>
       <description></description>
     </item>
     

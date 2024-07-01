@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kunbo Zhang | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/kunbo-zhang/</link>
-      <atom:link href="http://localhost:1313/author/kunbo-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/kunbo-zhang/</link>
+      <atom:link href="https://hycasia.github.io/author/kunbo-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kunbo Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Kunbo Zhang</title>
-      <link>http://localhost:1313/author/kunbo-zhang/</link>
+      <link>https://hycasia.github.io/author/kunbo-zhang/</link>
     </image>
     
     <item>
       <title>Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation</title>
-      <link>http://localhost:1313/publication/yan-mir-2024-1/</link>
+      <link>https://hycasia.github.io/publication/yan-mir-2024-1/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yan-mir-2024-1/</guid>
+      <guid>https://hycasia.github.io/publication/yan-mir-2024-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kunbo Zhang</title>
-      <link>http://localhost:1313/author/kunbo-zhang/</link>
+      <link>https://hycasia.github.io/author/kunbo-zhang/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/kunbo-zhang/</guid>
+      <guid>https://hycasia.github.io/author/kunbo-zhang/</guid>
       <description>&lt;p&gt;Kunbo Zhang is currnetly an Assistant Professor at CRIPAC, NLPR, CASIA, China. He received the B.E.
 degree in Automation from Beijing Institute of Technology in 2006, and the M.Sc. and Ph.D. degrees in Mechanical
 Engineering from State University of New York at Stony Brook, U.S., in 2008 and 2011, repectively. Between 2011 and 2016 he worked as a machine vision engineer of Advanced Manufacturing Engineering group in Nexteer Automotive, Michigan, U.S..
@@ -35,114 +35,114 @@ and intelligent manufacturing.&lt;/p&gt;
     
     <item>
       <title>CASIA-Iris-Africa: A Large-scale African Iris Image Database</title>
-      <link>http://localhost:1313/publication/jawad-mir-2024-2/</link>
+      <link>https://hycasia.github.io/publication/jawad-mir-2024-2/</link>
       <pubDate>Fri, 12 Jan 2024 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-mir-2024-2/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-mir-2024-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</title>
-      <link>http://localhost:1313/publication/ren-tpami-2023/</link>
+      <link>https://hycasia.github.io/publication/ren-tpami-2023/</link>
       <pubDate>Thu, 20 Jul 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-tpami-2023/</guid>
+      <guid>https://hycasia.github.io/publication/ren-tpami-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics</title>
-      <link>http://localhost:1313/publication/jawad-tifs-2023-1/</link>
+      <link>https://hycasia.github.io/publication/jawad-tifs-2023-1/</link>
       <pubDate>Wed, 19 Apr 2023 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-tifs-2023-1/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-tifs-2023-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AIF-LFNet: All-in-Focus Light Field Super-Resolution Method Considering the Depth-Varying Defocus</title>
-      <link>http://localhost:1313/publication/zhow-tcsvt-2023/</link>
+      <link>https://hycasia.github.io/publication/zhow-tcsvt-2023/</link>
       <pubDate>Mon, 16 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zhow-tcsvt-2023/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
+      <guid>https://hycasia.github.io/publication/zhow-tcsvt-2023/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://hycasia.github.io/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>An Empirical Comparative Analysis of Africans with Asians Using DCNN Facial Biometric Models</title>
-      <link>http://localhost:1313/publication/jawad-ccbr-2022/</link>
+      <link>https://hycasia.github.io/publication/jawad-ccbr-2022/</link>
       <pubDate>Thu, 03 Nov 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-ccbr-2022/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-ccbr-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/caiyong-ijcb-2021/</link>
       <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/caiyong-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CASIA-Face-Africa: A Large-Scale African Face Image Database</title>
-      <link>http://localhost:1313/publication/jawad-tifs-2021/</link>
+      <link>https://hycasia.github.io/publication/jawad-tifs-2021/</link>
       <pubDate>Wed, 16 Jun 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-tifs-2021/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-tifs-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Autofocus Camera for Iris on the Move</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2021/</link>
       <pubDate>Tue, 15 Jun 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method</title>
-      <link>http://localhost:1313/publication/yu-tian-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yu-tian-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Deep-learning Pipeline for Light Field Image Based Material Recognition</title>
-      <link>http://localhost:1313/publication/wang-icpr-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-icpr-2020/</link>
       <pubDate>Thu, 02 Jul 2020 21:57:47 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-icpr-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icpr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-fidelity View Synthesis for Light Field Imaging with Extended Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-tci-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-tci-2020/</link>
       <pubDate>Thu, 02 Jul 2020 21:36:56 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-tci-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tci-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All-in-Focus Iris Camera With a Great Capture Volume</title>
-      <link>http://localhost:1313/publication/zhang-ijcb2020/</link>
+      <link>https://hycasia.github.io/publication/zhang-ijcb2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zhang-ijcb2020/</guid>
+      <guid>https://hycasia.github.io/publication/zhang-ijcb2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recognition Oriented Iris Image Quality Assessment in the Feature Space</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/wang-tip-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-tip-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tip-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tip-2018/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chi Zhang | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/chi-zhang/</link>
-      <atom:link href="http://localhost:1313/author/chi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/chi-zhang/</link>
+      <atom:link href="https://hycasia.github.io/author/chi-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Chi Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Chi Zhang</title>
-      <link>http://localhost:1313/author/chi-zhang/</link>
+      <link>https://hycasia.github.io/author/chi-zhang/</link>
     </image>
     
     <item>
       <title>4D light-field sensing system for people counting</title>
-      <link>http://localhost:1313/publication/hou-spie-2016/</link>
+      <link>https://hycasia.github.io/publication/hou-spie-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hou-spie-2016/</guid>
+      <guid>https://hycasia.github.io/publication/hou-spie-2016/</guid>
       <description></description>
     </item>
     

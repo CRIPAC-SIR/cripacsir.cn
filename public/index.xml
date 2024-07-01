@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/</link>
+      <atom:link href="https://hycasia.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SIR-Smart Iris Recognition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>SIR-Smart Iris Recognition</title>
-      <link>http://localhost:1313/</link>
+      <link>https://hycasia.github.io/</link>
     </image>
     
     <item>
       <title>Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition</title>
-      <link>http://localhost:1313/publication/wang-tbiom-2024-1/</link>
+      <link>https://hycasia.github.io/publication/wang-tbiom-2024-1/</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tbiom-2024-1/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tbiom-2024-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation</title>
-      <link>http://localhost:1313/publication/wei-tifs-2024_1/</link>
+      <link>https://hycasia.github.io/publication/wei-tifs-2024_1/</link>
       <pubDate>Fri, 14 Jun 2024 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tifs-2024_1/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tifs-2024_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Two paper were accepted to Mahcine Intelligence Research (MIR) and another one was accpeted to TIFS 2024</title>
-      <link>http://localhost:1313/post/recent-published-papers-24/</link>
+      <link>https://hycasia.github.io/post/recent-published-papers-24/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/recent-published-papers-24/</guid>
+      <guid>https://hycasia.github.io/post/recent-published-papers-24/</guid>
       <description>&lt;h2 id=&#34;1-boosting-multi-modal-ocular-recognition-via-spatial-feature-reconstruction-and-unsupervised-image-quality-estimation&#34;&gt;1. Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Zihui Yan, Lingxiao He, Yunlong Wang, Kunbo Zhang, Zhenan Sun, Tieniu Tan. &amp;ldquo;Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation&amp;rdquo;. Machine Intelligence Research (Volume: 21).&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://doi.org/10.1007/s11633-023-1415-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11633-023-1415-y&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;http://localhost:1313/post/recent-published-papers-24/MIR-2024-01-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-24/MIR-2024-01-pic1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the daily application of an iris-recognition-at-a-distance (IAAD) system, many ocular images of low quality are acquired. As the iris part of these images is often not qualified for the recognition requirements, the more accessible periocular regions are a good complement for recognition. To further boost the performance of IAAD systems, a novel end-to-end framework for multi-modal ocular recognition is proposed. The proposed framework mainly consists of iris/periocular feature extraction and matching, unsupervised iris quality assessment, and a score-level adaptive weighted fusion strategy. First, ocular feature reconstruction (OFR) is proposed to sparsely reconstruct each probe image by high-quality gallery images based on proper feature maps. Next, a brand new unsupervised iris quality assessment method based on random multiscale embedding robustness is proposed. Different from the existing iris quality assessment methods, the quality of an iris image is measured by its robustness in the embedding space. At last, the fusion strategy exploits the iris quality score as the fusion weight to coalesce the complementary information from the iris and periocular regions. Extensive experimental results on ocular datasets prove that the proposed method is obviously better than unimodal biometrics, and the fusion strategy can significantly improve the recognition performance.&lt;/p&gt;
 &lt;h2 id=&#34;2-casia-iris-africa-a-large-scale-african-iris-image-database&#34;&gt;2. CASIA-Iris-Africa: A Large-scale African Iris Image Database&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -47,7 +47,7 @@
 &lt;p&gt;
 &lt;a href=&#34;https://doi.org/10.1007/s11633-022-1402-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11633-022-1402-8&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;http://localhost:1313/post/recent-published-papers-24/MIR-2024-01-pic2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-24/MIR-2024-01-pic2.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Iris biometrics is a phenotypic biometric trait that has proven to be agnostic to human natural physiological changes. Research on iris biometrics has progressed tremendously, partly due to publicly available iris databases. Various databases have been available to researchers that address pressing iris biometric challenges such as constraint, mobile, multispectral, synthetics, long-distance, contact lenses, liveness detection, etc. However, these databases mostly contain subjects of Caucasian and Asian docents with very few Africans. Despite many investigative studies on racial bias in face biometrics, very few studies on iris biometrics have been published, mainly due to the lack of racially diverse large-scale databases containing sufficient iris samples of Africans in the public domain. Furthermore, most of these databases contain a relatively small number of subjects and labelled images. This paper proposes a large-scale African database named Chinese Academy of Sciences Institute of Automation (CASIA)-Iris-Africa that can be used as a complementary database for the iris recognition community to mediate the effect of racial biases on Africans. The database contains 28 717 images of 1 023 African subjects (2 046 iris classes) with age, gender, and ethnicity attributes that can be useful in demographically sensitive studies of Africans. Sets of specific application protocols are incorporated with the database to ensure the database’s variability and scalability. Performance results of some open-source state-of-the-art (SOTA) algorithms on the database are presented, which will serve as baseline performances. The relatively poor performances of the baseline algorithms on the proposed database despite better performance on other databases prove that racial biases exist in these iris recognition algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;3-multi-faceted-knowledge-driven-graph-neural-network-for-iris-segmentation&#34;&gt;3. Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -55,55 +55,55 @@
 &lt;p&gt;
 &lt;a href=&#34;https://doi.org/10.1109/TIFS.2024.3407508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TIFS.2024.3407508&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;TIFS-2024-06&#34; src=&#34;http://localhost:1313/post/recent-published-papers-24/TIFS-2024-06-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;TIFS-2024-06&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-24/TIFS-2024-06-pic1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Accurate iris segmentation, especially around the iris inner and outer boundaries, is still a formidable challenge. Pixels within these areas are difficult to semantically distinguish since they have similar visual characteristics and close spatial positions. To tackle this problem, the paper proposes an iris segmentation graph neural network (ISeGraph) for accurate segmentation. ISeGraph regards individual pixels as nodes within the graph and constructs self-adaptive edges according to multi-faceted knowledge, including visual similarity, positional correlation, and semantic consistency for feature aggregation. Specifically, visual similarity strengthens the connections between nodes sharing similar visual characteristics, while positional correlation assigns weights according to the spatial distance between nodes. In contrast to the above knowledge, semantic consistency maps nodes into a semantic space and learns pseudo-labels to define relationships based on label consistency. ISeGraph leverages multi-faceted knowledge to generate self-adaptive relationships for accurate iris segmentation. Furthermore, a pixel-wise adaptive normalization module is developed to increase the feature discriminability. It takes informative features in the shallow layer as a reference to improve the segmentation features from a statistical perspective. Experimental results on three iris datasets illustrate that the proposed method achieves superior performance in iris segmentation, increasing the segmentation accuracy in areas near the iris boundaries.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation</title>
-      <link>http://localhost:1313/publication/yan-mir-2024-1/</link>
+      <link>https://hycasia.github.io/publication/yan-mir-2024-1/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yan-mir-2024-1/</guid>
+      <guid>https://hycasia.github.io/publication/yan-mir-2024-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CASIA-Iris-Africa: A Large-scale African Iris Image Database</title>
-      <link>http://localhost:1313/publication/jawad-mir-2024-2/</link>
+      <link>https://hycasia.github.io/publication/jawad-mir-2024-2/</link>
       <pubDate>Fri, 12 Jan 2024 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-mir-2024-2/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-mir-2024-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalized Graph Generation for Monocular 3D Human Pose and Shape Estimation</title>
-      <link>http://localhost:1313/publication/hu-tcsvt-2023-2/</link>
+      <link>https://hycasia.github.io/publication/hu-tcsvt-2023-2/</link>
       <pubDate>Thu, 31 Aug 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/hu-tcsvt-2023-2/</guid>
+      <guid>https://hycasia.github.io/publication/hu-tcsvt-2023-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</title>
-      <link>http://localhost:1313/publication/ren-tpami-2023/</link>
+      <link>https://hycasia.github.io/publication/ren-tpami-2023/</link>
       <pubDate>Thu, 20 Jul 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-tpami-2023/</guid>
+      <guid>https://hycasia.github.io/publication/ren-tpami-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted to T-PAMI 2023 and another was accpeted to TIFS 2023</title>
-      <link>http://localhost:1313/post/recent-published-papers-23/</link>
+      <link>https://hycasia.github.io/post/recent-published-papers-23/</link>
       <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/recent-published-papers-23/</guid>
+      <guid>https://hycasia.github.io/post/recent-published-papers-23/</guid>
       <description>&lt;h2 id=&#34;1-multiscale-dynamic-graph-representation-for-biometric-recognition-with-occlusions&#34;&gt;1. Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Min Ren, Yunlong Wang, Yuhao Zhu, Kunbo Zhang, Zhenan Sun. &amp;ldquo;Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&amp;rdquo;. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (Volume: 45)&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://doi.org/10.1109/TPAMI.2023.3298836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1109/TPAMI.2023.3298836&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;TPAMI-2023-07&#34; src=&#34;http://localhost:1313/post/recent-published-papers-23/TPAMI-2023-07-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;TPAMI-2023-07&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-23/TPAMI-2023-07-pic1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Occlusion is a common problem with biometric recognition in the wild. The generalization ability of CNNs greatly decreases due to the adverse effects of various occlusions. To this end, we propose a novel unified framework integrating the merits of both CNNs and graph models to overcome occlusion problems in biometric recognition, called multiscale dynamic graph representation (MS-DGR). More specifically, a group of deep features reflected on certain subregions is recrafted into a feature graph (FG). Each node inside the FG is deemed to characterize a specific local region of the input sample, and the edges imply the co-occurrence of non-occluded regions. By analyzing the similarities of the node representations and measuring the topological structures stored in the adjacent matrix, the proposed framework leverages dynamic graph matching to judiciously discard the nodes corresponding to the occluded parts. The multiscale strategy is further incorporated to attain more diverse nodes representing regions of various sizes. Furthermore, the proposed framework exhibits a more illustrative and reasonable inference by showing the paired nodes. Extensive experiments demonstrate the superiority of the proposed framework, which boosts the accuracy in both natural and occlusion-simulated cases by a large margin compared with that of baseline methods.&lt;/p&gt;
 &lt;h2 id=&#34;2-iris-guidenet-guided-localisation-and-segmentation-network-for-unconstrained-iris-biometrics&#34;&gt;2. Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -111,7 +111,7 @@
 &lt;p&gt;
 &lt;a href=&#34;http://doi.org/10.1109/TIFS.2023.3268504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1109/TIFS.2023.3268504&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;TIFS-2023-04&#34; src=&#34;http://localhost:1313/post/recent-published-papers-23/TIFS-2023-04-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;TIFS-2023-04&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-23/TIFS-2023-04-pic1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In recent years, unconstrained iris biometrics has become more prevalent due to its wide range of user applications. However, it also presents numerous challenges to the Iris pre-processing task of Localization and Segmentation (ILS). Many ILS techniques have been proposed to address these challenges, among which the most effective is the CNN-based methods. Training the CNN is data-intensive, and most of the existing CNN-based ILS approaches do not incorporate iris-specific features that can reduce their data dependence, despite the limited labelled iris data in the available databases. These trained CNN models built upon these databases can be sub-optimal. Hence, this paper proposes a guided CNN-based ILS approach IrisGuideNet. IrisGuideNet involves incorporating novel iris-specific heuristics named Iris Regularization Term (IRT), deep supervision technique, and hybrid loss functions in the training pipeline, which guides the network and reduces the model data dependence. A novel Iris Infusion Module (IIM) that utilizes the geometrical relationships between the ILS outputs to refine the predicted outputs is introduced at network inference. The proposed model is trained and evaluated with various datasets. Experimental results show that IrisGuideNet has outperformed most models across all the database categories. The codes implementation of the proposed IrisGuideNet will be available at: 
 &lt;a href=&#34;https://github.com/mohdjawadi/IrisGuidenet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mohdjawadi/IrisGuidenet&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -119,22 +119,22 @@
     
     <item>
       <title>Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics</title>
-      <link>http://localhost:1313/publication/jawad-tifs-2023-1/</link>
+      <link>https://hycasia.github.io/publication/jawad-tifs-2023-1/</link>
       <pubDate>Wed, 19 Apr 2023 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-tifs-2023-1/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-tifs-2023-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CASIA-Iris-Africa</title>
-      <link>http://localhost:1313/dataset/casia-iris-africa/</link>
+      <link>https://hycasia.github.io/dataset/casia-iris-africa/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-iris-africa/</guid>
+      <guid>https://hycasia.github.io/dataset/casia-iris-africa/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Various forms of iris databases had been published that address some specific research problems and are made available to the biometrics research community such as: constraint databases; mobile iris; multispectral; synthetics; iris at a distance; contact lenses; liveness detection; Aging, etc. However, even though these databases have addressed many of the problems mentioned above, most of them contain subjects of primarily Caucasian and Asian docents with very few Africans and many times zero Africans. It is particularly challenging as this has created a research blind spot for African cohorts in these databases. Despite many of the reported investigative studies on racial bias in face biometrics, very few iris racial bias-related studies have been published, which can be due to the insufficient number of other races databases such as the Africans. Recently, face recognition algorithms have been reported to be biased toward specific demographics. Most prominently, many investigative studies have reported higher false-positive rates in African subject cohorts than in other cohorts. Due to the unavailability of the required quantity of African cohorts in the publicly available iris databases, similar studies would be difficult to replicate on iris biometrics. We presents a mainly African dataset that can be useful in addressing some of these challenges.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The iris images were captured in Nigeria, Africa. The capturing exercise was conducted across various locations in multiple sessions over three months. Due to logistical constraints, the capturing exercise was limited to the northern part of Nigeria. Each subject volunteer was asked to sign a consent form authorizing the data to be used for only research purposes. The iris sensor device for capturing the images is the IKUSBE30 iris sensor from IrisKing. The setup for the capturing exercise is shown in Fig. 1. Each volunteer was asked to hold the device, standing or sitting, based on their preference. As such, the iris images were captured at various degrees of head postures.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/1.png&#34; title=&#34;Iris Capturing set-ups (indoor and outdoor)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-africa/figures/1.png&#34; title=&#34;Iris Capturing set-ups (indoor and outdoor)&#34;&gt;
 Fig. 1: Iris Capturing set-ups (indoor and outdoor)&lt;/p&gt;
 &lt;p&gt;The procedure for image capturing is in two steps:&lt;/p&gt;
 &lt;ul&gt;
@@ -149,16 +149,16 @@ Fig. 1: Iris Capturing set-ups (indoor and outdoor)&lt;/p&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/2.png&#34; title=&#34;Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-africa/figures/2.png&#34; title=&#34;Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&#34;&gt;
 Fig. 2: Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&lt;/p&gt;
 &lt;p&gt;After the capturing sessions, the stored images were processed. The processing steps comprise automatic image selection to discard images with duplicate content, followed by manual image selection that guarantees the selected images&amp;rsquo; reliability. In the automatic selection, all the images from a single eye of one subject were organized into a matrix, with each column representing an image. The images of the subject&amp;rsquo;s eyes were then processed, and duplicates were removed using this procedure. The remaining images were then manually processed. The manual selection involves one-by-one human inspection of each image to identify damaged images and those images with no irises captured in them. Some sample images of one subject from the generated dataset are shown in Fig. 3, the labelled sampled images in Fig. 4, the summary of the database is presented in Table 1 and the database subjects&amp;rsquo; age distribution is shown in Fig. 5.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/3.png&#34; title=&#34;Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-africa/figures/3.png&#34; title=&#34;Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
 Fig. 3: Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/4.png&#34; title=&#34;Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-africa/figures/4.png&#34; title=&#34;Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
 Fig. 4: Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&lt;/p&gt;
 &lt;p&gt;Tab. 1: Summary of the generated database
-&lt;img alt=&#34;Figure 5&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/table.png&#34; title=&#34;Summary of the generated database&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 6&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/5.png&#34; title=&#34;Age distribution of the generated database&#34;&gt;
+&lt;img alt=&#34;Figure 5&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-africa/figures/table.png&#34; title=&#34;Summary of the generated database&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 6&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-africa/figures/5.png&#34; title=&#34;Age distribution of the generated database&#34;&gt;
 Fig. 5: Age distribution of the generated database&lt;/p&gt;
 &lt;h2 id=&#34;database-organization&#34;&gt;Database Organization&lt;/h2&gt;
 &lt;p&gt;The database package comprises of the following components organised in multiple directories:&lt;/p&gt;
@@ -186,71 +186,71 @@ Fig. 5: Age distribution of the generated database&lt;/p&gt;
     
     <item>
       <title>D-ESRGAN: A Dual-Encoder GAN with Residual CNN and Vision Transformer for Iris Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2022/</link>
+      <link>https://hycasia.github.io/publication/caiyong-ijcb-2022/</link>
       <pubDate>Tue, 17 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2022/</guid>
+      <guid>https://hycasia.github.io/publication/caiyong-ijcb-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AIF-LFNet: All-in-Focus Light Field Super-Resolution Method Considering the Depth-Varying Defocus</title>
-      <link>http://localhost:1313/publication/zhow-tcsvt-2023/</link>
+      <link>https://hycasia.github.io/publication/zhow-tcsvt-2023/</link>
       <pubDate>Mon, 16 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zhow-tcsvt-2023/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
+      <guid>https://hycasia.github.io/publication/zhow-tcsvt-2023/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://hycasia.github.io/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contextual Measures for Iris Recognition</title>
-      <link>http://localhost:1313/publication/wei-tifs-2022/</link>
+      <link>https://hycasia.github.io/publication/wei-tifs-2022/</link>
       <pubDate>Mon, 14 Nov 2022 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tifs-2022/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tifs-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Comparative Analysis of Africans with Asians Using DCNN Facial Biometric Models</title>
-      <link>http://localhost:1313/publication/jawad-ccbr-2022/</link>
+      <link>https://hycasia.github.io/publication/jawad-ccbr-2022/</link>
       <pubDate>Thu, 03 Nov 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-ccbr-2022/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-ccbr-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring Bias in Sclera Segmentation Models: A Group Evaluation Approach</title>
-      <link>http://localhost:1313/publication/matej-tifs-2022/</link>
+      <link>https://hycasia.github.io/publication/matej-tifs-2022/</link>
       <pubDate>Fri, 21 Oct 2022 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/matej-tifs-2022/</guid>
+      <guid>https://hycasia.github.io/publication/matej-tifs-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PDVN: A Patch-based Dual-view Network for Face Liveness Detection using Light Field Focal Stack</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2022/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2022/</link>
       <pubDate>Thu, 13 Oct 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2022/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CASIA-Polar</title>
-      <link>http://localhost:1313/dataset/casia-polar/</link>
+      <link>https://hycasia.github.io/dataset/casia-polar/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-polar/</guid>
+      <guid>https://hycasia.github.io/dataset/casia-polar/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;CASIA-Polar is a face anti-spoofing dataset based on polarization imaging, which takes advantage of polarization information in material classification to enable robust face anti-spoofing research.&lt;/p&gt;
 &lt;h2 id=&#34;setup-of-dataset-collection&#34;&gt;Setup of dataset collection&lt;/h2&gt;
 &lt;p&gt;The hardware system used to collect this dataset is shown in Fig.1, consists of a Lucid Phoenix PHX050S-P polarized camera equipped with Sony’s polarization sensor and a Mindvision MVGE501GC-T RGB camera.&lt;/p&gt;
 &lt;p&gt;Types of spoofing attacks include printed paper, printed glossy photographs, electronic displays, silicone masks, rubber masks, and customized silicone prosthetic heads. High-quality face samples are first captured by the MVGE501GC-T RGB camera and these high-quality samples are then printed on paper and photographs or displayed on a computer screen to produce artifacts. At the same time, both genuine and spoofing attack face samples were captured when the subjects and presentation attack were standing at or be placed at six distances, i.e. 1m, 1.5m, 2m, 3m, 4m, and 5m.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-polar/figures/1_1.png&#34;&gt;
-&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-polar/figures/1_2.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://hycasia.github.io/dataset/casia-polar/figures/1_1.png&#34;&gt;
+&lt;img alt=&#34;Figure 2&#34; src=&#34;https://hycasia.github.io/dataset/casia-polar/figures/1_2.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
 Fig. 1: Setup of dataset collection&lt;/p&gt;
 &lt;p&gt;The types of presentation attacks include printed papers, printed glossy photos, and electronic displays. The high-quality iris samples were first captured by IKUSB-E30, and then these high-quality samples were printed on papers and photos, or displayed on the screen of iPad mini 4 to generate the artefacts. The main lens of the lab-produced LF camera was tuned to be in focus at a position of 1.6 meters. Simultaneously, both bona fide and presentation attack iris samples were captured when the subjects and PAIs were standing at or be placed at three distances, i.e. 1.5 meters, 1.6 meters, 1.7 meters.&lt;/p&gt;
 &lt;h2 id=&#34;statistics-of-the-dataset&#34;&gt;Statistics of the Dataset&lt;/h2&gt;
 &lt;p&gt;The dataset includes 22,174 samples from 121 subjects. All subjects had visible light and polarized images taken. The genuine face has 14,698 samples, while the spoofing attack has about 7,476 samples.&lt;/p&gt;
 &lt;p&gt;Figure 2 shows an example of the face images collected in the dataset, with the first row being the visible image and the second row is the corresponding DoLP image.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-polar/figures/2.png&#34; title=&#34;The attacks present in CASIA-Polar&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://hycasia.github.io/dataset/casia-polar/figures/2.png&#34; title=&#34;The attacks present in CASIA-Polar&#34;&gt;
 Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
 &lt;h2 id=&#34;copyright-and-contacts&#34;&gt;Copyright and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the database are reserved.&lt;/p&gt;
@@ -261,25 +261,25 @@ Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
     
     <item>
       <title>Combining 2D texture and 3D geometry features for Reliable iris presentation attack detection using light field focal stack</title>
-      <link>http://localhost:1313/publication/luo-iet-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-iet-2022/</link>
       <pubDate>Sat, 27 Aug 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-iet-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-iet-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perturbation Inactivation Based Adversarial Defense for Face Recognition</title>
-      <link>http://localhost:1313/publication/ren-tifs-2022/</link>
+      <link>https://hycasia.github.io/publication/ren-tifs-2022/</link>
       <pubDate>Mon, 01 Aug 2022 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-tifs-2022/</guid>
+      <guid>https://hycasia.github.io/publication/ren-tifs-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted to International Conference on Machine Learning (ICML 2022)</title>
-      <link>http://localhost:1313/post/recent-published-papers-2207/</link>
+      <link>https://hycasia.github.io/post/recent-published-papers-2207/</link>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/recent-published-papers-2207/</guid>
+      <guid>https://hycasia.github.io/post/recent-published-papers-2207/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Zhengquan Luo, Yunlong Wang*, Zilei Wang, Zhenan Sun, Tieniu Tan. Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring. Thirty-ninth International Conference on Machine Learning (ICML), 2022. 
 &lt;a href=&#34;https://icml.cc/Conferences/2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://icml.cc/Conferences/2022&lt;/a&gt;&lt;/p&gt;
@@ -287,59 +287,59 @@ Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
 &lt;p&gt;Attributes skew hinders the current federated learning (FL) frameworks from consistent optimization directions among the clients, which inevitably leads to performance reduction and unstable convergence. The core problems lie in that: 1) Domain-specific attributes, which are non-causal and only locally valid, are indeliberately mixed into global aggregation. 2) The one-stage optimizations of entangled attributes cannot simultaneously satisfy two conflicting objectives, i.e., generalization and personalization. To cope with these, we proposed disentangled federated learning (DFL) to disentangle the domain-specific and cross-invariant attributes into two complementary branches, which are trained by the proposed alternating local-global optimization independently. Importantly, convergence analysis proves that the FL system can be stably converged even if incomplete client models participate in the global aggregation, which greatly expands the application scope of FL. Extensive experiments verify that DFL facilitates FL with higher performance, better interpretability, and faster convergence rate, compared with SOTA FL methods on both manually synthesized and realistic attributes skew datasets.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://mp.weixin.qq.com/s/xU_Rvbofvwveekq41SCpZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;人工智能前沿讲习公众号：【源头活水】ICML 2022 | 共识表征提取和多样性传播的解构联邦学习框架&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;ICML2022&#34; src=&#34;http://localhost:1313/post/recent-published-papers-2207/ICML2022-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;ICML2022&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-2207/ICML2022-pic1.png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FedIris: Towards More Accurate and Privacy-Preserving Iris Recognition via Federated Template Communication</title>
-      <link>http://localhost:1313/publication/luo-cvprw-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-cvprw-2022/</link>
       <pubDate>Mon, 20 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-cvprw-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-cvprw-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EYE LOCATION AND STATE ESTIMATION BASED ON LANDMARKS</title>
-      <link>http://localhost:1313/publication/he-cas-2022/</link>
+      <link>https://hycasia.github.io/publication/he-cas-2022/</link>
       <pubDate>Fri, 17 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/he-cas-2022/</guid>
+      <guid>https://hycasia.github.io/publication/he-cas-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring</title>
-      <link>http://localhost:1313/publication/luo-icml-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-icml-2022/</link>
       <pubDate>Tue, 14 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-icml-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-icml-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CASIA-Iris-LFLD</title>
-      <link>http://localhost:1313/dataset/casia-iris-lfld/</link>
+      <link>https://hycasia.github.io/dataset/casia-iris-lfld/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-iris-lfld/</guid>
+      <guid>https://hycasia.github.io/dataset/casia-iris-lfld/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The dataset for iris liveness detection based on light field (LF) imaging was collected by [1], wherein the first author is one of our collaborators. We have got the authority from the authors of [1] and released the LF focal stack data.&lt;/p&gt;
 &lt;h2 id=&#34;setup-of-dataset-collection&#34;&gt;Setup of dataset collection&lt;/h2&gt;
 &lt;p&gt;The dataset was captured using a 
 &lt;a href=&#34;http://cripac.ia.ac.cn/CN/column/item105.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lab-produced microlens based LF camera&lt;/a&gt; and a commercial device 
 &lt;a href=&#34;http://www.irisking.com/pron.php?id=523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IKUSB-E30&lt;/a&gt; under near-infrared (NIR) illumination. The setup of dataset collection was shown in Fig.1.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/capture_setup.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-lfld/figures/capture_setup.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
 Fig. 1: Setup of dataset collection&lt;/p&gt;
 &lt;p&gt;The types of presentation attacks include printed papers, printed glossy photos, and electronic displays. The high-quality iris samples were first captured by IKUSB-E30, and then these high-quality samples were printed on papers and photos, or displayed on the screen of iPad mini 4 to generate the artefacts. The main lens of the lab-produced LF camera was tuned to be in focus at a position of 1.6 meters. Simultaneously, both bona fide and presentation attack iris samples were captured when the subjects and PAIs were standing at or be placed at three distances, i.e. 1.5 meters, 1.6 meters, 1.7 meters.&lt;/p&gt;
 &lt;h2 id=&#34;statistics-of-the-dataset&#34;&gt;Statistics of the Dataset&lt;/h2&gt;
 &lt;p&gt;The dataset contains 504 samples from 14 subjects, consisting of 230 LF images of bona fide iris and 274 LF images of spoofing iris. The respective sample number of the PAIs, i.e. printed papers, printed photos, and electronic display are 18, 122, 134.&lt;/p&gt;
 &lt;p&gt;An example of raw LF image containing both eyes printed on photos is shown in Fig.2. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/lf_raw_sample.png&#34; title=&#34;An example of raw LF image containing both eyes printed on photos.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-lfld/figures/lf_raw_sample.png&#34; title=&#34;An example of raw LF image containing both eyes printed on photos.&#34;&gt;
 Fig.2: An example of raw LF image containing both eyes printed on photos. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.&lt;/p&gt;
 &lt;p&gt;The LF toolbox released by [2] was utilized to decode raw LF images into 4D LF data. The eye regions were cropped from the same location of each sub-aperture image (SAI). The spatial resolution of each SAI after cropping is $128 \times 96$, and the angular resolution is $7 \times 7$. Examples from the same subject&amp;rsquo;s right eye in the dataset are shown in Fig.3.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/dataset_samples.png&#34; title=&#34;Examples from the same subject&amp;#39;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-lfld/figures/dataset_samples.png&#34; title=&#34;Examples from the same subject&amp;#39;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&#34;&gt;
 Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&lt;/p&gt;
 &lt;p&gt;The rendered focal stack via digital refocusing has 145 slices around the best focus plane.&lt;/p&gt;
 &lt;p&gt;The details of the adopted database is listed in Table 1.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Table 1&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/details.png&#34; title=&#34;Details of the adopted database&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Table 1&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-lfld/figures/details.png&#34; title=&#34;Details of the adopted database&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;copyright-and-contacts&#34;&gt;Copyright and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the  database are reserved.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, you can apply for it on our 
@@ -356,24 +356,24 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
     
     <item>
       <title>Towards Interpretable Defense Against Adversarial Attacks via Causal Inference</title>
-      <link>http://localhost:1313/publication/ren-mir-2022/</link>
+      <link>https://hycasia.github.io/publication/ren-mir-2022/</link>
       <pubDate>Sat, 28 May 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-mir-2022/</guid>
+      <guid>https://hycasia.github.io/publication/ren-mir-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper was accepted to Mahcine Intelligence Research (MIR) and another one was accpeted to CVPRW 2022</title>
-      <link>http://localhost:1313/post/recent-published-papers-2204/</link>
+      <link>https://hycasia.github.io/post/recent-published-papers-2204/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/recent-published-papers-2204/</guid>
+      <guid>https://hycasia.github.io/post/recent-published-papers-2204/</guid>
       <description>&lt;h2 id=&#34;1-towards-interpretable-defense-against-adversarial-attacks-via-causal-inference&#34;&gt;1. Towards Interpretable Defense Against Adversarial Attacks via Causal Inference&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Min Ren, Yunlong Wang*, Zhaofeng He. Towards interpretable defense against adversarial attacks via causal inference. Machine Intelligence Research.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;http://doi.org/10.1007/s11633-022-1330-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1007/s11633-022-1330-7&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;MIR-2022-05&#34; src=&#34;http://localhost:1313/post/recent-published-papers-2204/MIR-2022-05-pic1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;MIR-2022-05&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-2204/MIR-2022-05-pic1.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Deep learning-based models are vulnerable to adversarial attacks. Defense against adversarial attacks is essential for sensitive and safety-critical scenarios. However, deep learning methods still lack effective and efficient defense mechanisms against adversari-al attacks. Most of the existing methods are just stopgaps for specific adversarial samples. The main obstacle is that how adversarial samples fool the deep learning models is still unclear. The underlying working mechanism of adversarial samples has not been well explored, and it is the bottleneck of adversarial attack defense. In this paper, we build a causal model to interpret the generation and performance of adversarial samples. The self-attention/transformer is adopted as a powerful tool in this causal model. Compared to existing methods, causality enables us to analyze adversarial samples more naturally and intrinsically. Based on this causal model, the working mechanism of adversarial samples is revealed, and instructive analysis is provided. Then, we propose simple and effective adversarial sample detection and recognition methods according to the revealed working mechanism. The causal insights enable us to detect and recognize adversarial samples without any extra model or training. Extensive experiments are conducted to demonstrate the effectiveness of the proposed methods. Our methods outperform the state-of-the-art defense methods under various adversarial attacks.&lt;/p&gt;
 &lt;h2 id=&#34;2-fediris-towards-more-accurate-and-privacy-preserving-iris-recognition-via-federated-template-communication&#34;&gt;2. FedIris: Towards More Accurate and Privacy-preserving Iris Recognition via Federated Template Communication&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -381,18 +381,18 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
 &lt;p&gt;
 &lt;a href=&#34;https://sites.google.com/view/fedvision/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/fedvision/home?authuser=0&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;CVPRW-2022-05&#34; src=&#34;http://localhost:1313/post/recent-published-papers-2204/CVPRW-2022-05-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;CVPRW-2022-05&#34; src=&#34;https://hycasia.github.io/post/recent-published-papers-2204/CVPRW-2022-05-pic1.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;As biometric data undergo rapidly growing privacy concerns, building large-scale datasets has become more difficult. Unfortunately, current iris databases are mostly in small scale, e.g., thousands of iris images from hundreds of identities. What&amp;rsquo;s worse, the heterogeneity among decentralized iris datasets hinders the current deep learning (DL) frameworks from obtaining recognition performance with robust generalization. It motivates us to leverage the merits of federated learning (FL) to solve these problems. However, traditional FL algorithms often employ model sharing for knowledge transfer, wherein the simple averaging aggregation lacks interpretability, and divergent optimization directions of clients lead to performance degradation. To overcome this interference, we propose FedIris with solid theoretical foundations, which attempts to employ the iris template as the communication carrier and formulate federated triplet (Fed-Triplet) for knowledge transfer. Furthermore, the massive heterogeneity among iris datasets may induce negative transfer and unstable optimization. The modified Wasserstein distance is embedded into the FedTriplet loss to reweight global aggregation, which drives the clients with similar data distributions to contribute more mutually. Extensive experimental results demonstrate that the proposed FedIris outperforms SOLO training, model-sharing-based FL training, and even centralized training.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>One paper was accepted to IEEE TIFS and another one was accpeted to Journal of Electronic Imaging</title>
-      <link>http://localhost:1313/post/recent-published-papers-2203/</link>
+      <link>https://hycasia.github.io/post/recent-published-papers-2203/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/recent-published-papers-2203/</guid>
+      <guid>https://hycasia.github.io/post/recent-published-papers-2203/</guid>
       <description>&lt;h2 id=&#34;towards-more-discriminative-and-robust-iris-recognition-by-learning-uncertain-factors&#34;&gt;Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/recent-published-papers-2203/uncertainty.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://hycasia.github.io/post/recent-published-papers-2203/uncertainty.jpg&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Jianze Wei, Huaibo Huang, Yunlong Wang, Ran He and Zhenan Sun, &amp;ldquo;Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors,&amp;rdquo; in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2022.3154240.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -410,25 +410,25 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
     
     <item>
       <title>Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors</title>
-      <link>http://localhost:1313/publication/wei-tifs-2022_2/</link>
+      <link>https://hycasia.github.io/publication/wei-tifs-2022_2/</link>
       <pubDate>Mon, 28 Feb 2022 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tifs-2022_2/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tifs-2022_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multitask deep active contour-based iris segmentation for off-angle iris images</title>
-      <link>http://localhost:1313/publication/lu-jei-2022/</link>
+      <link>https://hycasia.github.io/publication/lu-jei-2022/</link>
       <pubDate>Thu, 17 Feb 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/lu-jei-2022/</guid>
+      <guid>https://hycasia.github.io/publication/lu-jei-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview of Recent Published Papers</title>
-      <link>http://localhost:1313/post/recent-published-papers-2111/</link>
+      <link>https://hycasia.github.io/post/recent-published-papers-2111/</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/recent-published-papers-2111/</guid>
+      <guid>https://hycasia.github.io/post/recent-published-papers-2111/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Min Ren, Lingxiao He, Xingyu Liao, Wu Liu, Yunlong Wang, Tieniu Tan; Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), 2021, pp. 14930-14939&lt;/strong&gt;&lt;/p&gt;
@@ -470,68 +470,68 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
     
     <item>
       <title>Learning Instance-level Spatial-Temporal Patterns for Person Re-identification</title>
-      <link>http://localhost:1313/publication/ren-iccv-2021/</link>
+      <link>https://hycasia.github.io/publication/ren-iccv-2021/</link>
       <pubDate>Fri, 15 Oct 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-iccv-2021/</guid>
+      <guid>https://hycasia.github.io/publication/ren-iccv-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-spectral Iris Recognition by Learning Device-specific Band</title>
-      <link>http://localhost:1313/publication/wei-tcsvt-2021/</link>
+      <link>https://hycasia.github.io/publication/wei-tcsvt-2021/</link>
       <pubDate>Mon, 04 Oct 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tcsvt-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tcsvt-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Normalization Beyond Appr-Circular Parameter Estimation</title>
-      <link>http://localhost:1313/publication/luo-ccbr-2021/</link>
+      <link>https://hycasia.github.io/publication/luo-ccbr-2021/</link>
       <pubDate>Wed, 08 Sep 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-ccbr-2021/</guid>
+      <guid>https://hycasia.github.io/publication/luo-ccbr-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible Iris Matching Based on Spatial Feature Reconstruction</title>
-      <link>http://localhost:1313/publication/zihui-yan-tbiom-2021/</link>
+      <link>https://hycasia.github.io/publication/zihui-yan-tbiom-2021/</link>
       <pubDate>Mon, 30 Aug 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zihui-yan-tbiom-2021/</guid>
+      <guid>https://hycasia.github.io/publication/zihui-yan-tbiom-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Large-scale Database for Less Cooperative Iris Recognition</title>
-      <link>http://localhost:1313/publication/hu-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/hu-ijcb-2021/</link>
       <pubDate>Sat, 07 Aug 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/hu-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/hu-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/caiyong-ijcb-2021/</link>
       <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/caiyong-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CASIA-Iris-Degradation</title>
-      <link>http://localhost:1313/dataset/casia-iris-degradation/</link>
+      <link>https://hycasia.github.io/dataset/casia-iris-degradation/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-iris-degradation/</guid>
+      <guid>https://hycasia.github.io/dataset/casia-iris-degradation/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Since the outbreak of the COVID-19 pandemic, iris recognition has been used increasingly as contactless and unaffected by face masks. Although less user cooperation is an urgent demand for existing systems, corresponding manually annotated databases could hardly be obtained. This work presents a large-scale database of near-infrared iris images named CASIA-Iris-Degradation Version 1.0 (DV1), which consists of 15 subsets of various degraded images, simulating less cooperative situations such as illumination, off-angle, occlusion, and nonideal eye state. A lot of open-source segmentation and recognition methods are compared comprehensively on the DV1 using multiple evaluations, and the best among them are exploited to conduct ablation studies on each subset. Experimental results show that even the best deep learning frameworks are not robust enough on the database, and further improvements are recommended for challenging factors such as half-open eyes, off-angle, and pupil dilation. Therefore, we publish the DV1 with manual annotations online to promote iris recognition.&lt;/p&gt;
 &lt;h2 id=&#34;description-of-casia-iris-degradation&#34;&gt;Description of CASIA-Iris-Degradation&lt;/h2&gt;
 &lt;p&gt;CASIA-Iris-Degradation contains 36,539 images from 255 Asian people. All images were collected under NIR illumination and two eyes were captured simultaneously. Details of the proposed database are shown in the table below.
-&lt;img alt=&#34;Details of the proposed database&#34; src=&#34;http://localhost:1313/dataset/casia-iris-degradation/Statistics.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;Details of the proposed database&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-degradation/Statistics.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;setup-of-image-collection&#34;&gt;Setup of image collection&lt;/h3&gt;
 &lt;p&gt;As shown in the figure below, we built a collection room using black-out cloth. The curtain on one side of the room can be opened and closed artificially to control the natural light.
 Inside, there were camera (A), light sources (B, C), volunteer (D), and four directional markers (1-4).
 Each volunteer was asked to sit down, put their chin on the holder (0.75 m from the camera), keep their head as still as possible, and move their eyes according to instructions.
 To simulate the off-angle situation, the subject was required to look along a set of directions indicated by four markers in the visual field, while in other cases look straight ahead (i.e., the midpoint of marker 1 and 4).
-&lt;img alt=&#34;environment and equipment&#34; src=&#34;http://localhost:1313/dataset/casia-iris-degradation/newcx1camera.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;environment and equipment&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-degradation/newcx1camera.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;statistics-of-the-proposed-database&#34;&gt;Statistics of the proposed database&lt;/h3&gt;
 &lt;p&gt;To simulate real image degradation, the proposed database is divided into four categories, and each of them is separated into three to five subsets as follows:&lt;/p&gt;
 &lt;h4 id=&#34;illumination&#34;&gt;Illumination&lt;/h4&gt;
@@ -548,7 +548,7 @@ Although most images of the former two classes have no effective iris region and
 &lt;p&gt;For occlusion, volunteers were required to wear glasses, masks and using a hand to cover the mouth and nose. During this section, the NIR light source was randomly moved slightly to generate light spots. Meanwhile, some glasses also had stains on the surface to occlude the iris.
 An unexpected observation is that for some elderly volunteers, their eyelids droop naturally, resulting in severe occlusion, which should arouse more attention.&lt;/p&gt;
 &lt;p&gt;More samples and annotations are presented below.
-&lt;img alt=&#34;More samples&#34; src=&#34;http://localhost:1313/dataset/casia-iris-degradation/supp_images.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;More samples&#34; src=&#34;https://hycasia.github.io/dataset/casia-iris-degradation/supp_images.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;copyright-note-and-contacts&#34;&gt;Copyright Note and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA-Iris-Degradation database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as &amp;ldquo;Portions of the research in this paper use the CASIA-Iris-Degradation-V1.0 collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, you can apply for it on our 
@@ -558,32 +558,32 @@ An unexpected observation is that for some elderly volunteers, their eyelids dro
     
     <item>
       <title>CASIA-Face-Africa: A Large-Scale African Face Image Database</title>
-      <link>http://localhost:1313/publication/jawad-tifs-2021/</link>
+      <link>https://hycasia.github.io/publication/jawad-tifs-2021/</link>
       <pubDate>Wed, 16 Jun 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-tifs-2021/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-tifs-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Autofocus Camera for Iris on the Move</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2021/</link>
       <pubDate>Tue, 15 Jun 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Evaluation Benchmark for High-throughput Iris Recognition at a Distance</title>
-      <link>http://localhost:1313/dataset/blurred_iris_benchmark/</link>
+      <link>https://hycasia.github.io/dataset/blurred_iris_benchmark/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/blurred_iris_benchmark/</guid>
+      <guid>https://hycasia.github.io/dataset/blurred_iris_benchmark/</guid>
       <description>&lt;h2 id=&#34;1-introduction&#34;&gt;&lt;strong&gt;1. Introduction&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;A key problem of iris recognition at a distance is that a large portion of captured iris images is nonideal because of narrow depth of field (DoF), noncooperative user movement, incongruous exposure time and so on. Current iris recognition systems usually filter out these low-quality images using strict criteria of image quality evaluation (IQA). However, this strategy inevitably leads to a waste of device capacity and low throughput. Therefore, a better and practical solution is to make the utmost of degraded iris images for personal identification. We announce the availability of a long-range captured dataset containing 3,756 iris images of various degradation factors from 98 subjects. An evaluation benchmark is built upon the dataset for a comparative study on preprocessing and recognition of NIR iris images in high-throughput scenarios. The datasets, manual annotations and evaluation toolkit are publicly available.&lt;/p&gt;
 &lt;h2 id=&#34;2-descriptions-and-statistics-of-the-database&#34;&gt;&lt;strong&gt;2. Descriptions and Statistics of the Database&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;image-collection&#34;&gt;&lt;strong&gt;Image collection&lt;/strong&gt;&lt;/h3&gt;
 &lt;!-- &lt;iframe height=498 width=510 src=&#34;collection_glasses.mp4&#34;&gt; --&gt;
 &lt;p&gt;The schematic and setup of blur-varying iris image collection of this database at a distance are shown as following.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Schematic and setup of NIR iris image collection at a distance and in less cooperative environments.&#34; src=&#34;http://localhost:1313/dataset/blurred_iris_benchmark/capture_setting.png&#34; title=&#34;Image Collection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Schematic and setup of NIR iris image collection at a distance and in less cooperative environments.&#34; src=&#34;https://hycasia.github.io/dataset/blurred_iris_benchmark/capture_setting.png&#34; title=&#34;Image Collection&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The next generation of CASIA-LR-Cam bundled with NIR illumination at a wavelength of 830 nm was employed as the capturing device. Its standoff distance is approximately 1.2 meters with a DoF of over 20 centimeters. The field of view (FoV) is approximately 20 degrees. The device was placed in an indoor environment under no extra lighting sources. During the process of image collection, the subjects were obliged to move freely in the restricted square area 1.0~1.4 meters away from the device. Specifically, they could casually step forward and backward, left and right.&lt;/p&gt;
 &lt;p&gt;While moving inside the restricted area, the subjects were guided by the indication signal on the GUI screen to look at different directions for approximately 30 seconds in a single session. Two separate sessions were launched in the daytime under the same conditions, and the interval was one week. If the subject was wearing glasses, he or she needed to take them off in either of the two sessions (&lt;code&gt;play the video and see&lt;/code&gt;).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -664,7 +664,7 @@ An unexpected observation is that for some elderly volunteers, their eyelids dro
 &lt;/table&gt;
 &lt;h3 id=&#34;mannual-annotations&#34;&gt;&lt;strong&gt;Mannual Annotations&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Each image in the dataset is manually annotated with binary maps of iris masks, inner and outer iris boundaries, upper and lower eyelids, and sclera masks shown as below.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Two annotated instances in the dataset.&#34; src=&#34;http://localhost:1313/dataset/blurred_iris_benchmark/annotations.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Two annotated instances in the dataset.&#34; src=&#34;https://hycasia.github.io/dataset/blurred_iris_benchmark/annotations.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;evaluation-toolkit&#34;&gt;&lt;strong&gt;Evaluation Toolkit&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&#34;IrisStat_V3.0.rar&#34;&gt;IrisStat_V3.0.rar&lt;/a&gt;&lt;/p&gt;
@@ -830,9 +830,9 @@ imgList.txt
     
     <item>
       <title>5 papers were accepted by IJCB2021</title>
-      <link>http://localhost:1313/post/ijcb2021accept/</link>
+      <link>https://hycasia.github.io/post/ijcb2021accept/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/ijcb2021accept/</guid>
+      <guid>https://hycasia.github.io/post/ijcb2021accept/</guid>
       <description>&lt;p&gt;Over the past few months, the Program Committee and Area Chairs worked very hard to review each of the 164 papers submitted to IJCB 2021. The reviewers were carefully selected and assigned papers for review in their areas of expertise. A double-blind review policy was adopted. The review process resulted in the selection of the following 66 (40.2%) highly qualified papers to be included in the Technical Program.&lt;/p&gt;
 &lt;p&gt;42: &lt;strong&gt;A Large-scale Database for Less Cooperative Iris Recognition&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;44: &lt;strong&gt;Bita-Net: Bi-temporal Attention Network for Facial Video Forgery Detection&lt;/strong&gt;&lt;/p&gt;
@@ -844,9 +844,9 @@ imgList.txt
     
     <item>
       <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization (NIR-ISL 2021)</title>
-      <link>http://localhost:1313/post/nir-isl2021/</link>
+      <link>https://hycasia.github.io/post/nir-isl2021/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/nir-isl2021/</guid>
+      <guid>https://hycasia.github.io/post/nir-isl2021/</guid>
       <description>&lt;p&gt;For iris recognition in non-cooperative environments, iris segmentation has been regarded as the first most important challenge still open to the biometric community, affecting all downstream tasks from normalization to recognition. In recent years, deep learning technologies have gained significant popularity among various computer vision tasks and have also affected the iris biometrics, especially iris segmentation. To investigate recent developments and attract more interests of researchers in the iris segmentation method, we are planning to host the challenge competition. In this challenge, we aim to benchmark the performance of iris segmentation on NIR iris images from Asian and African people captured in non-cooperative environments. Moreover, we specially split the general iris segmentation task in the conventional iris recognition pipeline into the segmentation of noise-free iris mask and the localization of inner and outer boundaries of the iris, which are narrowly referred to as iris segmentation and iris localization. Therefore, the challenge encourages the submission of a complete solution taking the iris segmentation and iris localization into consideration.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Organisers&lt;/strong&gt;: Dr. Caiyong Wang, Dr. Yunlong Wang, Dr. Kunbo Zhang, Jawad Muhammad, Tianhao Lu, Prof. Qichuan Tian, Prof. Zhaofeng He, Prof. Zhenan Sun&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Preferred contact person&lt;/strong&gt;: Dr. Caiyong Wang, &lt;em&gt;wangcaiyong at bucea.edu.cn&lt;/em&gt;&lt;/p&gt;
@@ -877,62 +877,62 @@ Results announcement: April 30, 2021
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Congratulations to them!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Following are the team details and results. More details can be found in the future IJCB 2021 summary paper.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;details&#34; src=&#34;http://localhost:1313/post/nir-isl2021/result.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;details&#34; src=&#34;https://hycasia.github.io/post/nir-isl2021/result.png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method</title>
-      <link>http://localhost:1313/publication/yu-tian-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yu-tian-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bita-Net: Bi-temporal Attention Network for Facial Video Forgery Detection</title>
-      <link>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/yiwei-ru-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/yiwei-ru-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples</title>
-      <link>http://localhost:1313/publication/wei-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/wei-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wei-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview of biometrics research</title>
-      <link>http://localhost:1313/publication/sun-jig-2021/</link>
+      <link>https://hycasia.github.io/publication/sun-jig-2021/</link>
       <pubDate>Thu, 11 Mar 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/sun-jig-2021/</guid>
+      <guid>https://hycasia.github.io/publication/sun-jig-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CASIA-Face-Africa</title>
-      <link>http://localhost:1313/dataset/casia-face-africa/</link>
+      <link>https://hycasia.github.io/dataset/casia-face-africa/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-face-africa/</guid>
+      <guid>https://hycasia.github.io/dataset/casia-face-africa/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Over the years, numerous face databases have been published that brought about exciting breakthrough in the facial biometric research field, most especially from the recent trend of deep learning contributions. However, as investigated by researchers, most of these databases are demographically imbalanced and often contain few number of African cohorts. Of those with relatively large number of the Africans, the databases are usually wild (downloaded from the internet or digitalised from printed photographs). Methods that adopt these skewed databases often exhibits some form of performance bias that can result to unintended consequences for real time applications. As such, there is need for more demographically inclusive datasets. CASIA-Face-Africa is developed to provide solution to this problem. It is an all-African database that is made to be used as a complementary database with the existing databases to balance the number of the African cohorts in the published datasets and improve their demographic inclusiveness.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;DESCRIPTION&lt;/h2&gt;
 &lt;p&gt;The database images were captured at various locations in Nigeria, Africa. About 1150 volunteers participated in the capturing exercise. The images of each subject were captured concurrently using 3 cameras. Two visible wavelength (VW) cameras and one near-infrared (NIR) camera. The capturing was done in various sessions over a period of 3 months. Some of the subjects have images captured in multiple sessions while majority of the subjects have their images captured in a single session.
-&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/1.png&#34;&gt;
+&lt;img alt=&#34;Figure 1&#34; src=&#34;https://hycasia.github.io/dataset/casia-face-africa/1.png&#34;&gt;
 &lt;em&gt;Figure 1: The cameras arrangement set-up was made to be same in all the capturing sessions&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;For each capturing instance, 3 to 10 still images were captured by each camera at a fixed time interval of 1 to 3 seconds. For some subjects, an external illumination light source was used for capturing additional images of that subjects. Also, some subjects were asked to use face accessory such as eye glasses for multiple capturing. The captured images were then organized and their land mark labelled. The organized database comprises a total of 38,546 images from 1,183 subjects. Specifically, 12,063 images captured by VW camera 1 at the resolution of 1332×1080, 13,232 images are captured by VW camera 2 at the resolution of 787 × 962, and 13,251 images are captured by NIR camera at the resolution of 983 × 877. Some samples of the captured images are shown in Figure 2, Figure 3 and Figure 4.
-&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/2.png&#34;&gt;
+&lt;img alt=&#34;Figure 2&#34; src=&#34;https://hycasia.github.io/dataset/casia-face-africa/2.png&#34;&gt;
 &lt;em&gt;Figure 2: Sample of a single subject images&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/3.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://hycasia.github.io/dataset/casia-face-africa/3.png&#34;&gt;
 &lt;em&gt;Figure 3: Sample of subject Expressions&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/4.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;https://hycasia.github.io/dataset/casia-face-africa/4.png&#34;&gt;
 &lt;em&gt;Figure 4: Sample of labelled face images&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;database-organization&#34;&gt;Database Organization&lt;/h2&gt;
@@ -957,32 +957,32 @@ Results announcement: April 30, 2021
     
     <item>
       <title>Kunbo Zhang Wins IJCB 2020 Best Paper Award Runner-Up</title>
-      <link>http://localhost:1313/post/ijcb2020award/</link>
+      <link>https://hycasia.github.io/post/ijcb2020award/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/ijcb2020award/</guid>
+      <guid>https://hycasia.github.io/post/ijcb2020award/</guid>
       <description>&lt;p&gt;Zhang published paper, 
 &lt;a href=&#34;../../publication/zhang-ijcb2020&#34;&gt;All-in-Focus Iris Camera With a Great Capture Volume&lt;/a&gt;, wins the PC chairs choice best paper award runner-Up at 
 &lt;a href=&#34;https://ieee-biometrics.org/ijcb2020/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the 2020 International Joint Conference on Biometrics (IJCB 2020)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;All-in-Focus Iris Camera With a Great Capture Volume&#34; src=&#34;http://localhost:1313/post/ijcb2020award/paper.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;All-in-Focus Iris Camera With a Great Capture Volume&#34; src=&#34;https://hycasia.github.io/post/ijcb2020award/paper.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The 2020 International Joint Conference on Biometrics (IJCB 2020) combines two major biometrics research conferences, the Biometrics Theory, Applications and Systems (BTAS) conference and the International Conference on Biometrics (ICB). The blending of these two conferences in 2020 is through a special agreement between the IEEE Biometrics Council and the IAPR TC-4, and should present an exciting event for the entire worldwide biometrics research community.&lt;/p&gt;
 &lt;p&gt;In this work, a novel all-in-focus iris imaging system is developed. It using a focus-tunable lens and a 2D steering mirror to greatly extend capture volume by spatiotemporal multiplexing method. Our iris imaging depth offield extension system requires no mechanical motion and is capable to adjust the focal plane at extremely high speed.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;all-in-focus iris imaging system&#34; src=&#34;http://localhost:1313/post/ijcb2020award/camera.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;all-in-focus iris imaging system&#34; src=&#34;https://hycasia.github.io/post/ijcb2020award/camera.png&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>SSBC 2020: Sclera Segmentation Benchmarking Competition in the Mobile Environment</title>
-      <link>http://localhost:1313/publication/vitek-ijcb-2020/</link>
+      <link>https://hycasia.github.io/publication/vitek-ijcb-2020/</link>
       <pubDate>Mon, 28 Sep 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/vitek-ijcb-2020/</guid>
+      <guid>https://hycasia.github.io/publication/vitek-ijcb-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Recognition</title>
-      <link>http://localhost:1313/project/iris-recognition/</link>
+      <link>https://hycasia.github.io/project/iris-recognition/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/iris-recognition/</guid>
+      <guid>https://hycasia.github.io/project/iris-recognition/</guid>
       <description>&lt;div style=&#34;WIDTH:100%; HEIGHT:100%&#34;&gt;
 &lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;虹膜识别是进一步提升安全性、可靠性的必由之路&lt;/strong&gt; &amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;
 &lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;———谭铁牛院士&lt;/strong&gt;&lt;/font&gt;  
@@ -1005,9 +1005,9 @@ Results announcement: April 30, 2021
     
     <item>
       <title>Alignment Free and Distortion Robust Iris Recognition</title>
-      <link>http://localhost:1313/publication/afdr-iris-recognition/afdr-iris-recognition/</link>
+      <link>https://hycasia.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</link>
       <pubDate>Thu, 20 Aug 2020 07:42:58 +0000</pubDate>
-      <guid>http://localhost:1313/publication/afdr-iris-recognition/afdr-iris-recognition/</guid>
+      <guid>https://hycasia.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -1029,9 +1029,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>MediaPipe Iris</title>
-      <link>http://localhost:1313/post/mediapipe-iris/</link>
+      <link>https://hycasia.github.io/post/mediapipe-iris/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/mediapipe-iris/</guid>
+      <guid>https://hycasia.github.io/post/mediapipe-iris/</guid>
       <description>&lt;!--&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;10&#39;&gt;MediaPipe Iris 实时虹膜跟踪和深度估计&lt;/font&gt;&lt;/div&gt;    
 &lt;div style=&#39;display:none&#39;&gt;
 标题居中
@@ -1092,9 +1092,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>How does iris recognize identity successfully?</title>
-      <link>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</link>
+      <link>https://hycasia.github.io/post/how-does-iris-recognize-identity-successfully/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</guid>
+      <guid>https://hycasia.github.io/post/how-does-iris-recognize-identity-successfully/</guid>
       <description>&lt;p&gt;  8月5日晚芒果台，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师带你探索虹膜识别的奥秘&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;https://www.mgtv.com/s/9538853.html&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -1102,9 +1102,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>Academician introduces you to iris recognition</title>
-      <link>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</link>
+      <link>https://hycasia.github.io/post/academician-introduces-you-to-iris-recognition/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</guid>
+      <guid>https://hycasia.github.io/post/academician-introduces-you-to-iris-recognition/</guid>
       <description>&lt;p&gt;  7月13日播出的CCTV-1《生活圈》节目中，谭铁牛院士现身为观众介绍了虹膜识别技术。谭铁牛院士介绍到：“虹膜识别是一种相对比较新颖的生物特征识别技术，下一步虹膜识别技术会进一步朝着移动化、便捷化以及和其他的相关的生物特征识别技术，比如人脸识别技术，相融合的方向发展，具有非常广阔的发展空间。”&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;20200713_17347661f3d_r29_800k.mp4&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -1134,9 +1134,9 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>CASIA-IrisV4</title>
-      <link>http://localhost:1313/dataset/casia-irisv4/</link>
+      <link>https://hycasia.github.io/dataset/casia-irisv4/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-irisv4/</guid>
+      <guid>https://hycasia.github.io/dataset/casia-irisv4/</guid>
       <description>&lt;h2 id=&#34;download-the-whole-database-186gbhttpbiometricsidealtestorgdownloaddbdoid4&#34;&gt;
 &lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the whole database (1.86GB)&lt;/a&gt;&lt;/h2&gt;
 &lt;p style=&#34;text-align: center&#34;&gt;
@@ -1181,38 +1181,38 @@ Download the separated subsets below&lt;/p&gt;
 &lt;p&gt;CASIA-IrisV4 contains a total of 54,601 iris images from more than 1,800 genuine subjects and 1,000 virtual subjects. All iris images are 8 bit gray-level JPEG files, collected under near infrared illumination or synthesized. Some statistics and features of each subset are given in Table 1. The six data sets were collected or synthesized at different times and CASIA-Iris-Interval, CASIA-Iris-Lamp, CASIA-Iris-Distance, CASIA-Iris-Thousand may have a small inter-subset overlap in subjects.&lt;/p&gt;
 &lt;h3 id=&#34;21--casia-iris-interval&#34;&gt;2.1  CASIA-Iris-Interval&lt;/h3&gt;
 &lt;p&gt;Iris images of CASIA-Iris-Interval were captured with our self-developed close-up iris camera (Fig.1). The most compelling feature of our iris camera is that we have designed a circular NIR LED array, with suitable luminous flux for iris imaging. Because of this novel design, our iris camera can capture very clear iris images (see Fig.2). CASIA-Iris-Interval is well-suited for studying the detailed texture features of iris images.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
 Fig.1 The self-developed iris camera used for collection of CASIA-Iris-Interval
-&lt;img alt=&#34;Fig.2&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.2&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
 Fig.2 Example iris images in CASIA-Iris-Interval&lt;/p&gt;
 &lt;h3 id=&#34;22--casia-iris-lamp&#34;&gt;2.2  CASIA-Iris-Lamp&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Lamp was collected using a hand-held iris sensor produced by OKI (Fig.3). A lamp was turned on/off close to the subject to introduce more intra-class variations when we collected CASIA-Iris-Lamp. Elastic deformation of iris texture (Fig.4) due to pupil expansion and contraction under different illumination conditions is one of the most common and challenging issues in iris recognition. So CASIA-Iris-Lamp is good for studying problems of non-linear iris normalization and robust iris feature representation.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
 Fig.3 The hand-held iris camera used for collection of CASIA-Iris-Lamp
-&lt;img alt=&#34;Fig.4&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.4&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
 Fig.4 Example iris images in CASIA-Iris-Lamp&lt;/p&gt;
 &lt;h3 id=&#34;23--casia-iris-twins&#34;&gt;2.3  CASIA-Iris-Twins&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Twins contains iris images of 100 pairs of twins, which were collected during Annual Twins Festival in Beijing using OKI&amp;rsquo;s IRISPASS-h camera (Fig.5). Although iris is usually regarded as a kind of phenotypic biometric characteristics and even twins have their unique iris patterns, it is interesting to study the dissimilarity and similarity between iris images of twins.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
 Fig.5 Example iris images in CASIA-Iris-Twins&lt;/p&gt;
 &lt;h3 id=&#34;24--casia-iris-distance&#34;&gt;2.4  CASIA-Iris-Distance&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Distance contains iris images captured using our self-developed long-range multi-modal biometric image acquisition and recognition system (LMBS, Fig.6). The advanced biometric sensor can recognize users from 3 meters away by actively searching iris, face or palmprint patterns in the visual field via an intelligent multi-camera imaging system. The LMBS is human-oriented by fusing computer vision, human computer interaction and multi-camera coordination technologies and improves greatly the usability of current biometric systems. The iris images of CASIA-Iris-Distance were captured by a high resolution camera so both dual-eye iris and face patterns are included in the image region of interest (Fig. 7). And detailed facial features such as skin pattern are also visible for multi-modal biometric information fusion.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Fig.6&#34; src=&#34;./V4Fig.6.jpg&#34;&gt;
 Fig.6  The biometric sensor used for collection of CASIA-Iris-Distance
-&lt;img alt=&#34;Fig.7&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.7&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
 Fig.7  An example image in CASIA-Iris-Distance&lt;/p&gt;
 &lt;h3 id=&#34;25--casia-iris-thousand&#34;&gt;2.5  CASIA-Iris-Thousand&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Thousand contains 20,000 iris images from 1,000 subjects, which were collected using IKEMB-100 camera (Fig. 8) produced by 
 &lt;a href=&#34;Http://www.irisking.com&#34;&gt;IrisKing&lt;/a&gt;. IKEMB-100 is a dual-eye iris camera with friendly visual feedback, realizing the effect of “What You See Is What You Get”. The bounding boxes shown in the frontal LCD help users adjust their pose for high-quality iris image acquisition. The main sources of intra-class variations in CASIA-Iris-Thousand are eyeglasses and specular reflections. Since CASIA-Iris-Thousand is the first publicly available iris dataset with one thousand subjects, it is well-suited for studying the uniqueness of iris features and develop novel iris classification and indexing methods.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
 Fig.8 The iris camera used for collection of CASIA-Iris-Thousand
-&lt;img alt=&#34;Fig.9&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.9&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
 Fig.9  An example image in CASIA-Iris-Thousand&lt;/p&gt;
 &lt;h3 id=&#34;26--casia-iris-syn&#34;&gt;2.6  CASIA-Iris-Syn&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Syn contains 10,000 synthesized iris images of 1,000 classes. The iris textures of these images are synthesized automatically from a subset of CASIA-IrisV1 with the approach described in [1] (Fig. 10). Then the iris ring regions were embedded into the real iris images, which makes the artificial iris images more realistic. The intra-class variations introduced into the synthesized iris dataset include deformation, blurring, and rotation, which raise a challenge problem for iris feature representation and matching. We have demonstrated in [1] that the synthesized iris images are visually realistic and most subjects can not distinguish genuine and artificial iris images. More importantly, the performance results tested on the synthesized iris image database have similar statistical characteristics to genuine iris database. So users of CASIA-IrisV4 are encouraged to use CASIA-Iris-Syn for iris recognition research and any suggestions are welcome. If CASIA-Iris-Syn proves to be successful for most researchers of iris recognition, we will provide more and more synthesized iris images in the future.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
 Fig. 10  Flowchart of the iris texture synthesis method for generation of CASIA-Iris-Syn
-&lt;img alt=&#34;Fig.11&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.11&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
 Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;h2 id=&#34;3-database-organization&#34;&gt;3. Database Organization&lt;/h2&gt;
 &lt;p&gt;The file name of each image in CASIA-IrisV4 is unique to each other and denotes some useful properties associated with the image such as subset category, left/right/double, subject ID, class ID, image ID etc. The file naming rules of all six subsets are listed as follows:&lt;/p&gt;
@@ -1343,171 +1343,153 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
     
     <item>
       <title>A Novel Deep-learning Pipeline for Light Field Image Based Material Recognition</title>
-      <link>http://localhost:1313/publication/wang-icpr-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-icpr-2020/</link>
       <pubDate>Thu, 02 Jul 2020 21:57:47 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-icpr-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icpr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-fidelity View Synthesis for Light Field Imaging with Extended Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-tci-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-tci-2020/</link>
       <pubDate>Thu, 02 Jul 2020 21:36:56 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-tci-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tci-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Lightweight Multi-Label Segmentation Network for Mobile Iris Biometrics</title>
-      <link>http://localhost:1313/publication/wang-icassp-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-icassp-2020/</link>
       <pubDate>Thu, 09 Apr 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-icassp-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icassp-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
-      <link>http://localhost:1313/publication/wang-tifs-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-tifs-2020/</link>
       <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-tifs-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tifs-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
-      <link>http://localhost:1313/publication/wang-tifs-2021/</link>
+      <link>https://hycasia.github.io/publication/wang-tifs-2021/</link>
       <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-tifs-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tifs-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Liveness Detection Based on Light Field Imaging</title>
-      <link>http://localhost:1313/publication/song-automatica2020/</link>
+      <link>https://hycasia.github.io/publication/song-automatica2020/</link>
       <pubDate>Mon, 17 Feb 2020 17:23:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/song-automatica2020/</guid>
+      <guid>https://hycasia.github.io/publication/song-automatica2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All-in-Focus Iris Camera With a Great Capture Volume</title>
-      <link>http://localhost:1313/publication/zhang-ijcb2020/</link>
+      <link>https://hycasia.github.io/publication/zhang-ijcb2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zhang-ijcb2020/</guid>
+      <guid>https://hycasia.github.io/publication/zhang-ijcb2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recognition Oriented Iris Image Quality Assessment in the Feature Space</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application</title>
-      <link>http://localhost:1313/publication/liu-tip-2020/</link>
+      <link>https://hycasia.github.io/publication/liu-tip-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-tip-2020/</guid>
+      <guid>https://hycasia.github.io/publication/liu-tip-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Graph Representation for Occlusion Handling in Biometrics</title>
-      <link>http://localhost:1313/publication/ren-2020-dynamic/</link>
+      <link>https://hycasia.github.io/publication/ren-2020-dynamic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-2020-dynamic/</guid>
+      <guid>https://hycasia.github.io/publication/ren-2020-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ScleraSegNet: An Attention Assisted U-Net Model for Accurate Sclera Segmentation</title>
-      <link>http://localhost:1313/publication/wang-tbiom-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-tbiom-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tbiom-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tbiom-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seg-Edge Bilateral Constraint Network for Iris Segmentation</title>
-      <link>http://localhost:1313/publication/hu-2019-icb/</link>
+      <link>https://hycasia.github.io/publication/hu-2019-icb/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2019-icb/</guid>
+      <guid>https://hycasia.github.io/publication/hu-2019-icb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alignment Free and Distortion Robust Iris Recognition</title>
-      <link>http://localhost:1313/publication/ren-2019-alignment/</link>
+      <link>https://hycasia.github.io/publication/ren-2019-alignment/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-2019-alignment/</guid>
+      <guid>https://hycasia.github.io/publication/ren-2019-alignment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sensor iris recognition using adversarial strategy and sensor-specific information</title>
-      <link>http://localhost:1313/publication/csin-btas-2019/</link>
+      <link>https://hycasia.github.io/publication/csin-btas-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/csin-btas-2019/</guid>
+      <guid>https://hycasia.github.io/publication/csin-btas-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/wang-tip-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-tip-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tip-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tip-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>http://localhost:1313/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Hierarchical Multi-class Iris Classification for Liveness Detection</title>
-      <link>http://localhost:1313/publication/yan-2018-liveness/</link>
+      <link>https://hycasia.github.io/publication/yan-2018-liveness/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yan-2018-liveness/</guid>
+      <guid>https://hycasia.github.io/publication/yan-2018-liveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End View Synthesis for Light Field Imaging with Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-eccv-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-eccv-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-eccv-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-eccv-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Partial Person Re-Identification Based on Similarity-Guided Sparse Representation</title>
-      <link>http://localhost:1313/publication/ren-ccbr-2017/</link>
+      <link>https://hycasia.github.io/publication/ren-ccbr-2017/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-ccbr-2017/</guid>
+      <guid>https://hycasia.github.io/publication/ren-ccbr-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris recognition is the general trend?</title>
-      <link>http://localhost:1313/post/iris-recognition-is-the-general-trend/</link>
+      <link>https://hycasia.github.io/post/iris-recognition-is-the-general-trend/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/iris-recognition-is-the-general-trend/</guid>
+      <guid>https://hycasia.github.io/post/iris-recognition-is-the-general-trend/</guid>
       <description> &lt;font size=&#39;5&#39;&gt;
  &amp;emsp;&amp;emsp;2017年4月27日，微软获得了一项虹膜识别技术的专利，未来该技术将纳入 Windows Hello ，用于微软旗下的智能手机、笔记本等设备中。
  &lt;/font&gt;
@@ -1527,25 +1509,25 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
     
     <item>
       <title>A simple and robust super resolution method for light field images</title>
-      <link>http://localhost:1313/publication/wang-icip-2016/</link>
+      <link>https://hycasia.github.io/publication/wang-icip-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-icip-2016/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icip-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Recognition</title>
-      <link>http://localhost:1313/benchmark/iris-recognition/</link>
+      <link>https://hycasia.github.io/benchmark/iris-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/benchmark/iris-recognition/</guid>
+      <guid>https://hycasia.github.io/benchmark/iris-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light Field Photography</title>
-      <link>http://localhost:1313/benchmark/light-field-photography/</link>
+      <link>https://hycasia.github.io/benchmark/light-field-photography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/benchmark/light-field-photography/</guid>
+      <guid>https://hycasia.github.io/benchmark/light-field-photography/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1556,9 +1538,9 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
     
     <item>
       <title>Light Field Photography</title>
-      <link>http://localhost:1313/project/light-field-photography/</link>
+      <link>https://hycasia.github.io/project/light-field-photography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/light-field-photography/</guid>
+      <guid>https://hycasia.github.io/project/light-field-photography/</guid>
       <description>&lt;h2 id=&#34;light-field&#34;&gt;Light field&lt;/h2&gt;
 &lt;p&gt;The light field is a vector function that describes the amount of light flowing in every direction through every point in space. The space of all possible light rays is given by the five-dimensional plenoptic function, and the magnitude of each ray is given by the radiance. Michael Faraday was the first to propose (in an 1846 lecture entitled &amp;ldquo;Thoughts on Ray Vibrations&amp;rdquo;) that light should be interpreted as a field, much like the magnetic fields on which he had been working for several years. The phrase light field was coined by Andrey Gershun in a classic paper on the radiometric properties of light in three-dimensional space (1936).&lt;/p&gt;
 &lt;h2 id=&#34;the-4d-light-field&#34;&gt;The 4D light field&lt;/h2&gt;
@@ -1576,41 +1558,41 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
     
     <item>
       <title>Periocular Recognition</title>
-      <link>http://localhost:1313/benchmark/periocular-recognition/</link>
+      <link>https://hycasia.github.io/benchmark/periocular-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/benchmark/periocular-recognition/</guid>
+      <guid>https://hycasia.github.io/benchmark/periocular-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Periocular Recognition</title>
-      <link>http://localhost:1313/project/periocular-recognition/</link>
+      <link>https://hycasia.github.io/project/periocular-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/periocular-recognition/</guid>
+      <guid>https://hycasia.github.io/project/periocular-recognition/</guid>
       <description>&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 7 &gt;&lt;strong&gt;To be updated.....&lt;/strong&gt;&lt;/font&gt;</description>
     </item>
     
     <item>
       <title>Sclera Recognition</title>
-      <link>http://localhost:1313/benchmark/sclera-recognition/</link>
+      <link>https://hycasia.github.io/benchmark/sclera-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/benchmark/sclera-recognition/</guid>
+      <guid>https://hycasia.github.io/benchmark/sclera-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sclera Recognition</title>
-      <link>http://localhost:1313/project/sclera-recognition/</link>
+      <link>https://hycasia.github.io/project/sclera-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/sclera-recognition/</guid>
+      <guid>https://hycasia.github.io/project/sclera-recognition/</guid>
       <description>&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 7 &gt;&lt;strong&gt;To be updated.....&lt;/strong&gt;&lt;/font&gt;</description>
     </item>
     
     <item>
       <title>The Other Internal Project</title>
-      <link>http://localhost:1313/benchmark/internal-project/</link>
+      <link>https://hycasia.github.io/benchmark/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/benchmark/internal-project/</guid>
+      <guid>https://hycasia.github.io/benchmark/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -1621,17 +1603,17 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
     
     <item>
       <title>4D light-field sensing system for people counting</title>
-      <link>http://localhost:1313/publication/hou-spie-2016/</link>
+      <link>https://hycasia.github.io/publication/hou-spie-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hou-spie-2016/</guid>
+      <guid>https://hycasia.github.io/publication/hou-spie-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/slides/example/</link>
+      <link>https://hycasia.github.io/slides/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/slides/example/</guid>
+      <guid>https://hycasia.github.io/slides/example/</guid>
       <description></description>
     </item>
     

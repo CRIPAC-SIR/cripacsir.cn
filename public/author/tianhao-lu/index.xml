@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tianhao Lu | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/tianhao-lu/</link>
-      <atom:link href="http://localhost:1313/author/tianhao-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/tianhao-lu/</link>
+      <atom:link href="https://hycasia.github.io/author/tianhao-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tianhao Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Tianhao Lu</title>
-      <link>http://localhost:1313/author/tianhao-lu/</link>
+      <link>https://hycasia.github.io/author/tianhao-lu/</link>
     </image>
     
     <item>
       <title>D-ESRGAN: A Dual-Encoder GAN with Residual CNN and Vision Transformer for Iris Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2022/</link>
+      <link>https://hycasia.github.io/publication/caiyong-ijcb-2022/</link>
       <pubDate>Tue, 17 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2022/</guid>
+      <guid>https://hycasia.github.io/publication/caiyong-ijcb-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tianhao Lu</title>
-      <link>http://localhost:1313/author/tianhao-lu/</link>
+      <link>https://hycasia.github.io/author/tianhao-lu/</link>
       <pubDate>Tue, 17 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/tianhao-lu/</guid>
+      <guid>https://hycasia.github.io/author/tianhao-lu/</guid>
       <description>&lt;p&gt;Tianhao Lu is currently pursuing the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Beijing Jiaotong University. He is now studying for a master&amp;rsquo;s degree in Hunan University of Technology. His research focuses on pattern recognition.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multitask deep active contour-based iris segmentation for off-angle iris images</title>
-      <link>http://localhost:1313/publication/lu-jei-2022/</link>
+      <link>https://hycasia.github.io/publication/lu-jei-2022/</link>
       <pubDate>Thu, 17 Feb 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/lu-jei-2022/</guid>
+      <guid>https://hycasia.github.io/publication/lu-jei-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/caiyong-ijcb-2021/</link>
       <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/caiyong-ijcb-2021/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Qi Li | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/qi-li/</link>
-      <atom:link href="http://localhost:1313/author/qi-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/qi-li/</link>
+      <atom:link href="https://hycasia.github.io/author/qi-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Qi Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Qi Li</title>
-      <link>http://localhost:1313/author/qi-li/</link>
+      <link>https://hycasia.github.io/author/qi-li/</link>
     </image>
     
     <item>
       <title>Bita-Net: Bi-temporal Attention Network for Facial Video Forgery Detection</title>
-      <link>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/yiwei-ru-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/yiwei-ru-ijcb-2021/</guid>
       <description></description>
     </item>
     

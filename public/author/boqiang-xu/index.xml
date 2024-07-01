@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> Boqiang Xu | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/boqiang-xu/</link>
-      <atom:link href="http://localhost:1313/author/boqiang-xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/boqiang-xu/</link>
+      <atom:link href="https://hycasia.github.io/author/boqiang-xu/index.xml" rel="self" type="application/rss+xml" />
     <description> Boqiang Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2020 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title> Boqiang Xu</title>
-      <link>http://localhost:1313/author/boqiang-xu/</link>
+      <link>https://hycasia.github.io/author/boqiang-xu/</link>
     </image>
     
     <item>
       <title>A Lightweight Multi-Label Segmentation Network for Mobile Iris Biometrics</title>
-      <link>http://localhost:1313/publication/wang-icassp-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-icassp-2020/</link>
       <pubDate>Thu, 09 Apr 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-icassp-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icassp-2020/</guid>
       <description></description>
     </item>
     

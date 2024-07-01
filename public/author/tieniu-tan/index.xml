@@ -2,134 +2,134 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tieniu Tan | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/tieniu-tan/</link>
-      <atom:link href="http://localhost:1313/author/tieniu-tan/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/tieniu-tan/</link>
+      <atom:link href="https://hycasia.github.io/author/tieniu-tan/index.xml" rel="self" type="application/rss+xml" />
     <description>Tieniu Tan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Tieniu Tan</title>
-      <link>http://localhost:1313/author/tieniu-tan/</link>
+      <link>https://hycasia.github.io/author/tieniu-tan/</link>
     </image>
     
     <item>
       <title>Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation</title>
-      <link>http://localhost:1313/publication/yan-mir-2024-1/</link>
+      <link>https://hycasia.github.io/publication/yan-mir-2024-1/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yan-mir-2024-1/</guid>
+      <guid>https://hycasia.github.io/publication/yan-mir-2024-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tieniu Tan</title>
-      <link>http://localhost:1313/author/tieniu-tan/</link>
+      <link>https://hycasia.github.io/author/tieniu-tan/</link>
       <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/tieniu-tan/</guid>
+      <guid>https://hycasia.github.io/author/tieniu-tan/</guid>
       <description>&lt;p&gt;Tieniu Tan received the B.Sc. degree in electronic engineering from Xi’an Jiaotong University, China, in 1984, and the M.Sc. and Ph.D. degrees in electronic engineering from Imperial College London, U.K., in 1986 and 1989, respectively. He is currently a Professor with the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA). His current research interests include biometrics, image and video understanding, information hiding, and information forensics. He is a Fellow of IEEE and the IAPR (International Association of Pattern Recognition).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>FedIris: Towards More Accurate and Privacy-Preserving Iris Recognition via Federated Template Communication</title>
-      <link>http://localhost:1313/publication/luo-cvprw-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-cvprw-2022/</link>
       <pubDate>Mon, 20 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-cvprw-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-cvprw-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring</title>
-      <link>http://localhost:1313/publication/luo-icml-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-icml-2022/</link>
       <pubDate>Tue, 14 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-icml-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-icml-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Instance-level Spatial-Temporal Patterns for Person Re-identification</title>
-      <link>http://localhost:1313/publication/ren-iccv-2021/</link>
+      <link>https://hycasia.github.io/publication/ren-iccv-2021/</link>
       <pubDate>Fri, 15 Oct 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-iccv-2021/</guid>
+      <guid>https://hycasia.github.io/publication/ren-iccv-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flexible Iris Matching Based on Spatial Feature Reconstruction</title>
-      <link>http://localhost:1313/publication/zihui-yan-tbiom-2021/</link>
+      <link>https://hycasia.github.io/publication/zihui-yan-tbiom-2021/</link>
       <pubDate>Mon, 30 Aug 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zihui-yan-tbiom-2021/</guid>
+      <guid>https://hycasia.github.io/publication/zihui-yan-tbiom-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-fidelity View Synthesis for Light Field Imaging with Extended Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-tci-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-tci-2020/</link>
       <pubDate>Thu, 02 Jul 2020 21:36:56 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-tci-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tci-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application</title>
-      <link>http://localhost:1313/publication/liu-tip-2020/</link>
+      <link>https://hycasia.github.io/publication/liu-tip-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-tip-2020/</guid>
+      <guid>https://hycasia.github.io/publication/liu-tip-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Graph Representation for Occlusion Handling in Biometrics</title>
-      <link>http://localhost:1313/publication/ren-2020-dynamic/</link>
+      <link>https://hycasia.github.io/publication/ren-2020-dynamic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-2020-dynamic/</guid>
+      <guid>https://hycasia.github.io/publication/ren-2020-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alignment Free and Distortion Robust Iris Recognition</title>
-      <link>http://localhost:1313/publication/ren-2019-alignment/</link>
+      <link>https://hycasia.github.io/publication/ren-2019-alignment/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-2019-alignment/</guid>
+      <guid>https://hycasia.github.io/publication/ren-2019-alignment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/wang-tip-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-tip-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tip-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tip-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Multi-class Iris Classification for Liveness Detection</title>
-      <link>http://localhost:1313/publication/yan-2018-liveness/</link>
+      <link>https://hycasia.github.io/publication/yan-2018-liveness/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yan-2018-liveness/</guid>
+      <guid>https://hycasia.github.io/publication/yan-2018-liveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End View Synthesis for Light Field Imaging with Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-eccv-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-eccv-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-eccv-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-eccv-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Partial Person Re-Identification Based on Similarity-Guided Sparse Representation</title>
-      <link>http://localhost:1313/publication/ren-ccbr-2017/</link>
+      <link>https://hycasia.github.io/publication/ren-ccbr-2017/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-ccbr-2017/</guid>
+      <guid>https://hycasia.github.io/publication/ren-ccbr-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simple and robust super resolution method for light field images</title>
-      <link>http://localhost:1313/publication/wang-icip-2016/</link>
+      <link>https://hycasia.github.io/publication/wang-icip-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-icip-2016/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icip-2016/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Light Field Photography | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/tag/light-field-photography/</link>
-      <atom:link href="http://localhost:1313/tag/light-field-photography/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/tag/light-field-photography/</link>
+      <atom:link href="https://hycasia.github.io/tag/light-field-photography/index.xml" rel="self" type="application/rss+xml" />
     <description>Light Field Photography</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Light Field Photography</title>
-      <link>http://localhost:1313/tag/light-field-photography/</link>
+      <link>https://hycasia.github.io/tag/light-field-photography/</link>
     </image>
     
     <item>
       <title>Combining 2D texture and 3D geometry features for Reliable iris presentation attack detection using light field focal stack</title>
-      <link>http://localhost:1313/publication/luo-iet-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-iet-2022/</link>
       <pubDate>Sat, 27 Aug 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-iet-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-iet-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Light Field Photography</title>
-      <link>http://localhost:1313/project/light-field-photography/</link>
+      <link>https://hycasia.github.io/project/light-field-photography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/light-field-photography/</guid>
+      <guid>https://hycasia.github.io/project/light-field-photography/</guid>
       <description>&lt;h2 id=&#34;light-field&#34;&gt;Light field&lt;/h2&gt;
 &lt;p&gt;The light field is a vector function that describes the amount of light flowing in every direction through every point in space. The space of all possible light rays is given by the five-dimensional plenoptic function, and the magnitude of each ray is given by the radiance. Michael Faraday was the first to propose (in an 1846 lecture entitled &amp;ldquo;Thoughts on Ray Vibrations&amp;rdquo;) that light should be interpreted as a field, much like the magnetic fields on which he had been working for several years. The phrase light field was coined by Andrey Gershun in a classic paper on the radiometric properties of light in three-dimensional space (1936).&lt;/p&gt;
 &lt;h2 id=&#34;the-4d-light-field&#34;&gt;The 4D light field&lt;/h2&gt;
@@ -42,9 +42,9 @@
     
     <item>
       <title>4D light-field sensing system for people counting</title>
-      <link>http://localhost:1313/publication/hou-spie-2016/</link>
+      <link>https://hycasia.github.io/publication/hou-spie-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hou-spie-2016/</guid>
+      <guid>https://hycasia.github.io/publication/hou-spie-2016/</guid>
       <description></description>
     </item>
     

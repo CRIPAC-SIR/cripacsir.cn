@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/publication-type/1/</link>
-      <atom:link href="http://localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/publication-type/1/</link>
+      <atom:link href="https://hycasia.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>http://localhost:1313/publication-type/1/</link>
+      <link>https://hycasia.github.io/publication-type/1/</link>
     </image>
     
     <item>
       <title>D-ESRGAN: A Dual-Encoder GAN with Residual CNN and Vision Transformer for Iris Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2022/</link>
+      <link>https://hycasia.github.io/publication/caiyong-ijcb-2022/</link>
       <pubDate>Tue, 17 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2022/</guid>
+      <guid>https://hycasia.github.io/publication/caiyong-ijcb-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Empirical Comparative Analysis of Africans with Asians Using DCNN Facial Biometric Models</title>
-      <link>http://localhost:1313/publication/jawad-ccbr-2022/</link>
+      <link>https://hycasia.github.io/publication/jawad-ccbr-2022/</link>
       <pubDate>Thu, 03 Nov 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-ccbr-2022/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-ccbr-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PDVN: A Patch-based Dual-view Network for Face Liveness Detection using Light Field Focal Stack</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2022/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2022/</link>
       <pubDate>Thu, 13 Oct 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2022/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FedIris: Towards More Accurate and Privacy-Preserving Iris Recognition via Federated Template Communication</title>
-      <link>http://localhost:1313/publication/luo-cvprw-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-cvprw-2022/</link>
       <pubDate>Mon, 20 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-cvprw-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-cvprw-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring</title>
-      <link>http://localhost:1313/publication/luo-icml-2022/</link>
+      <link>https://hycasia.github.io/publication/luo-icml-2022/</link>
       <pubDate>Tue, 14 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-icml-2022/</guid>
+      <guid>https://hycasia.github.io/publication/luo-icml-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Instance-level Spatial-Temporal Patterns for Person Re-identification</title>
-      <link>http://localhost:1313/publication/ren-iccv-2021/</link>
+      <link>https://hycasia.github.io/publication/ren-iccv-2021/</link>
       <pubDate>Fri, 15 Oct 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-iccv-2021/</guid>
+      <guid>https://hycasia.github.io/publication/ren-iccv-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Normalization Beyond Appr-Circular Parameter Estimation</title>
-      <link>http://localhost:1313/publication/luo-ccbr-2021/</link>
+      <link>https://hycasia.github.io/publication/luo-ccbr-2021/</link>
       <pubDate>Wed, 08 Sep 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-ccbr-2021/</guid>
+      <guid>https://hycasia.github.io/publication/luo-ccbr-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Large-scale Database for Less Cooperative Iris Recognition</title>
-      <link>http://localhost:1313/publication/hu-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/hu-ijcb-2021/</link>
       <pubDate>Sat, 07 Aug 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/hu-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/hu-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/caiyong-ijcb-2021/</link>
       <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/caiyong-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Autofocus Camera for Iris on the Move</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2021/</link>
       <pubDate>Tue, 15 Jun 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method</title>
-      <link>http://localhost:1313/publication/yu-tian-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yu-tian-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bita-Net: Bi-temporal Attention Network for Facial Video Forgery Detection</title>
-      <link>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/yiwei-ru-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/yiwei-ru-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples</title>
-      <link>http://localhost:1313/publication/wei-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/wei-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wei-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SSBC 2020: Sclera Segmentation Benchmarking Competition in the Mobile Environment</title>
-      <link>http://localhost:1313/publication/vitek-ijcb-2020/</link>
+      <link>https://hycasia.github.io/publication/vitek-ijcb-2020/</link>
       <pubDate>Mon, 28 Sep 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/vitek-ijcb-2020/</guid>
+      <guid>https://hycasia.github.io/publication/vitek-ijcb-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alignment Free and Distortion Robust Iris Recognition</title>
-      <link>http://localhost:1313/publication/afdr-iris-recognition/afdr-iris-recognition/</link>
+      <link>https://hycasia.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</link>
       <pubDate>Thu, 20 Aug 2020 07:42:58 +0000</pubDate>
-      <guid>http://localhost:1313/publication/afdr-iris-recognition/afdr-iris-recognition/</guid>
+      <guid>https://hycasia.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</guid>
       <description>&lt;!-- 
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -150,105 +150,105 @@ Supplementary notes can be added here, including [code and math](https://sourcet
     
     <item>
       <title>A Novel Deep-learning Pipeline for Light Field Image Based Material Recognition</title>
-      <link>http://localhost:1313/publication/wang-icpr-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-icpr-2020/</link>
       <pubDate>Thu, 02 Jul 2020 21:57:47 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-icpr-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icpr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Lightweight Multi-Label Segmentation Network for Mobile Iris Biometrics</title>
-      <link>http://localhost:1313/publication/wang-icassp-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-icassp-2020/</link>
       <pubDate>Thu, 09 Apr 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-icassp-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icassp-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>All-in-Focus Iris Camera With a Great Capture Volume</title>
-      <link>http://localhost:1313/publication/zhang-ijcb2020/</link>
+      <link>https://hycasia.github.io/publication/zhang-ijcb2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zhang-ijcb2020/</guid>
+      <guid>https://hycasia.github.io/publication/zhang-ijcb2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recognition Oriented Iris Image Quality Assessment in the Feature Space</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic Graph Representation for Occlusion Handling in Biometrics</title>
-      <link>http://localhost:1313/publication/ren-2020-dynamic/</link>
+      <link>https://hycasia.github.io/publication/ren-2020-dynamic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-2020-dynamic/</guid>
+      <guid>https://hycasia.github.io/publication/ren-2020-dynamic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seg-Edge Bilateral Constraint Network for Iris Segmentation</title>
-      <link>http://localhost:1313/publication/hu-2019-icb/</link>
+      <link>https://hycasia.github.io/publication/hu-2019-icb/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2019-icb/</guid>
+      <guid>https://hycasia.github.io/publication/hu-2019-icb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alignment Free and Distortion Robust Iris Recognition</title>
-      <link>http://localhost:1313/publication/ren-2019-alignment/</link>
+      <link>https://hycasia.github.io/publication/ren-2019-alignment/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-2019-alignment/</guid>
+      <guid>https://hycasia.github.io/publication/ren-2019-alignment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sensor iris recognition using adversarial strategy and sensor-specific information</title>
-      <link>http://localhost:1313/publication/csin-btas-2019/</link>
+      <link>https://hycasia.github.io/publication/csin-btas-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/csin-btas-2019/</guid>
+      <guid>https://hycasia.github.io/publication/csin-btas-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Multi-class Iris Classification for Liveness Detection</title>
-      <link>http://localhost:1313/publication/yan-2018-liveness/</link>
+      <link>https://hycasia.github.io/publication/yan-2018-liveness/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yan-2018-liveness/</guid>
+      <guid>https://hycasia.github.io/publication/yan-2018-liveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End View Synthesis for Light Field Imaging with Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-eccv-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-eccv-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-eccv-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-eccv-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Robust Partial Person Re-Identification Based on Similarity-Guided Sparse Representation</title>
-      <link>http://localhost:1313/publication/ren-ccbr-2017/</link>
+      <link>https://hycasia.github.io/publication/ren-ccbr-2017/</link>
       <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ren-ccbr-2017/</guid>
+      <guid>https://hycasia.github.io/publication/ren-ccbr-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simple and robust super resolution method for light field images</title>
-      <link>http://localhost:1313/publication/wang-icip-2016/</link>
+      <link>https://hycasia.github.io/publication/wang-icip-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-icip-2016/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icip-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>4D light-field sensing system for people counting</title>
-      <link>http://localhost:1313/publication/hou-spie-2016/</link>
+      <link>https://hycasia.github.io/publication/hou-spie-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hou-spie-2016/</guid>
+      <guid>https://hycasia.github.io/publication/hou-spie-2016/</guid>
       <description></description>
     </item>
     

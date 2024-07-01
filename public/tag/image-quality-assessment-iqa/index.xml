@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Image Quality Assessment (IQA) | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/tag/image-quality-assessment-iqa/</link>
-      <atom:link href="http://localhost:1313/tag/image-quality-assessment-iqa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/tag/image-quality-assessment-iqa/</link>
+      <atom:link href="https://hycasia.github.io/tag/image-quality-assessment-iqa/index.xml" rel="self" type="application/rss+xml" />
     <description>Image Quality Assessment (IQA)</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2020 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Image Quality Assessment (IQA)</title>
-      <link>http://localhost:1313/tag/image-quality-assessment-iqa/</link>
+      <link>https://hycasia.github.io/tag/image-quality-assessment-iqa/</link>
     </image>
     
     <item>
       <title>Recognition Oriented Iris Image Quality Assessment in the Feature Space</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2020/</guid>
       <description></description>
     </item>
     

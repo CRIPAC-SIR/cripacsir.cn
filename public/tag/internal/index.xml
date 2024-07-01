@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internal | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/tag/internal/</link>
-      <atom:link href="http://localhost:1313/tag/internal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/tag/internal/</link>
+      <atom:link href="https://hycasia.github.io/tag/internal/index.xml" rel="self" type="application/rss+xml" />
     <description>Internal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Internal</title>
-      <link>http://localhost:1313/tag/internal/</link>
+      <link>https://hycasia.github.io/tag/internal/</link>
     </image>
     
     <item>
       <title>How does iris recognize identity successfully?</title>
-      <link>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</link>
+      <link>https://hycasia.github.io/post/how-does-iris-recognize-identity-successfully/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/how-does-iris-recognize-identity-successfully/</guid>
+      <guid>https://hycasia.github.io/post/how-does-iris-recognize-identity-successfully/</guid>
       <description>&lt;p&gt;  8月5日晚芒果台，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师带你探索虹膜识别的奥秘&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;https://www.mgtv.com/s/9538853.html&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Academician introduces you to iris recognition</title>
-      <link>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</link>
+      <link>https://hycasia.github.io/post/academician-introduces-you-to-iris-recognition/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/academician-introduces-you-to-iris-recognition/</guid>
+      <guid>https://hycasia.github.io/post/academician-introduces-you-to-iris-recognition/</guid>
       <description>&lt;p&gt;  7月13日播出的CCTV-1《生活圈》节目中，谭铁牛院士现身为观众介绍了虹膜识别技术。谭铁牛院士介绍到：“虹膜识别是一种相对比较新颖的生物特征识别技术，下一步虹膜识别技术会进一步朝着移动化、便捷化以及和其他的相关的生物特征识别技术，比如人脸识别技术，相融合的方向发展，具有非常广阔的发展空间。”&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;20200713_17347661f3d_r29_800k.mp4&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>CASIA-IrisV4</title>
-      <link>http://localhost:1313/dataset/casia-irisv4/</link>
+      <link>https://hycasia.github.io/dataset/casia-irisv4/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-irisv4/</guid>
+      <guid>https://hycasia.github.io/dataset/casia-irisv4/</guid>
       <description>&lt;h2 id=&#34;download-the-whole-database-186gbhttpbiometricsidealtestorgdownloaddbdoid4&#34;&gt;
 &lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the whole database (1.86GB)&lt;/a&gt;&lt;/h2&gt;
 &lt;p style=&#34;text-align: center&#34;&gt;
@@ -103,38 +103,38 @@ Download the separated subsets below&lt;/p&gt;
 &lt;p&gt;CASIA-IrisV4 contains a total of 54,601 iris images from more than 1,800 genuine subjects and 1,000 virtual subjects. All iris images are 8 bit gray-level JPEG files, collected under near infrared illumination or synthesized. Some statistics and features of each subset are given in Table 1. The six data sets were collected or synthesized at different times and CASIA-Iris-Interval, CASIA-Iris-Lamp, CASIA-Iris-Distance, CASIA-Iris-Thousand may have a small inter-subset overlap in subjects.&lt;/p&gt;
 &lt;h3 id=&#34;21--casia-iris-interval&#34;&gt;2.1  CASIA-Iris-Interval&lt;/h3&gt;
 &lt;p&gt;Iris images of CASIA-Iris-Interval were captured with our self-developed close-up iris camera (Fig.1). The most compelling feature of our iris camera is that we have designed a circular NIR LED array, with suitable luminous flux for iris imaging. Because of this novel design, our iris camera can capture very clear iris images (see Fig.2). CASIA-Iris-Interval is well-suited for studying the detailed texture features of iris images.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
 Fig.1 The self-developed iris camera used for collection of CASIA-Iris-Interval
-&lt;img alt=&#34;Fig.2&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.2&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
 Fig.2 Example iris images in CASIA-Iris-Interval&lt;/p&gt;
 &lt;h3 id=&#34;22--casia-iris-lamp&#34;&gt;2.2  CASIA-Iris-Lamp&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Lamp was collected using a hand-held iris sensor produced by OKI (Fig.3). A lamp was turned on/off close to the subject to introduce more intra-class variations when we collected CASIA-Iris-Lamp. Elastic deformation of iris texture (Fig.4) due to pupil expansion and contraction under different illumination conditions is one of the most common and challenging issues in iris recognition. So CASIA-Iris-Lamp is good for studying problems of non-linear iris normalization and robust iris feature representation.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
 Fig.3 The hand-held iris camera used for collection of CASIA-Iris-Lamp
-&lt;img alt=&#34;Fig.4&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.4&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
 Fig.4 Example iris images in CASIA-Iris-Lamp&lt;/p&gt;
 &lt;h3 id=&#34;23--casia-iris-twins&#34;&gt;2.3  CASIA-Iris-Twins&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Twins contains iris images of 100 pairs of twins, which were collected during Annual Twins Festival in Beijing using OKI&amp;rsquo;s IRISPASS-h camera (Fig.5). Although iris is usually regarded as a kind of phenotypic biometric characteristics and even twins have their unique iris patterns, it is interesting to study the dissimilarity and similarity between iris images of twins.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
 Fig.5 Example iris images in CASIA-Iris-Twins&lt;/p&gt;
 &lt;h3 id=&#34;24--casia-iris-distance&#34;&gt;2.4  CASIA-Iris-Distance&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Distance contains iris images captured using our self-developed long-range multi-modal biometric image acquisition and recognition system (LMBS, Fig.6). The advanced biometric sensor can recognize users from 3 meters away by actively searching iris, face or palmprint patterns in the visual field via an intelligent multi-camera imaging system. The LMBS is human-oriented by fusing computer vision, human computer interaction and multi-camera coordination technologies and improves greatly the usability of current biometric systems. The iris images of CASIA-Iris-Distance were captured by a high resolution camera so both dual-eye iris and face patterns are included in the image region of interest (Fig. 7). And detailed facial features such as skin pattern are also visible for multi-modal biometric information fusion.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Fig.6&#34; src=&#34;./V4Fig.6.jpg&#34;&gt;
 Fig.6  The biometric sensor used for collection of CASIA-Iris-Distance
-&lt;img alt=&#34;Fig.7&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.7&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
 Fig.7  An example image in CASIA-Iris-Distance&lt;/p&gt;
 &lt;h3 id=&#34;25--casia-iris-thousand&#34;&gt;2.5  CASIA-Iris-Thousand&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Thousand contains 20,000 iris images from 1,000 subjects, which were collected using IKEMB-100 camera (Fig. 8) produced by 
 &lt;a href=&#34;Http://www.irisking.com&#34;&gt;IrisKing&lt;/a&gt;. IKEMB-100 is a dual-eye iris camera with friendly visual feedback, realizing the effect of “What You See Is What You Get”. The bounding boxes shown in the frontal LCD help users adjust their pose for high-quality iris image acquisition. The main sources of intra-class variations in CASIA-Iris-Thousand are eyeglasses and specular reflections. Since CASIA-Iris-Thousand is the first publicly available iris dataset with one thousand subjects, it is well-suited for studying the uniqueness of iris features and develop novel iris classification and indexing methods.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
 Fig.8 The iris camera used for collection of CASIA-Iris-Thousand
-&lt;img alt=&#34;Fig.9&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.9&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
 Fig.9  An example image in CASIA-Iris-Thousand&lt;/p&gt;
 &lt;h3 id=&#34;26--casia-iris-syn&#34;&gt;2.6  CASIA-Iris-Syn&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Syn contains 10,000 synthesized iris images of 1,000 classes. The iris textures of these images are synthesized automatically from a subset of CASIA-IrisV1 with the approach described in [1] (Fig. 10). Then the iris ring regions were embedded into the real iris images, which makes the artificial iris images more realistic. The intra-class variations introduced into the synthesized iris dataset include deformation, blurring, and rotation, which raise a challenge problem for iris feature representation and matching. We have demonstrated in [1] that the synthesized iris images are visually realistic and most subjects can not distinguish genuine and artificial iris images. More importantly, the performance results tested on the synthesized iris image database have similar statistical characteristics to genuine iris database. So users of CASIA-IrisV4 are encouraged to use CASIA-Iris-Syn for iris recognition research and any suggestions are welcome. If CASIA-Iris-Syn proves to be successful for most researchers of iris recognition, we will provide more and more synthesized iris images in the future.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
 Fig. 10  Flowchart of the iris texture synthesis method for generation of CASIA-Iris-Syn
-&lt;img alt=&#34;Fig.11&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.11&#34; src=&#34;https://hycasia.github.io/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
 Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;h2 id=&#34;3-database-organization&#34;&gt;3. Database Organization&lt;/h2&gt;
 &lt;p&gt;The file name of each image in CASIA-IrisV4 is unique to each other and denotes some useful properties associated with the image such as subset category, left/right/double, subject ID, class ID, image ID etc. The file naming rules of all six subsets are listed as follows:&lt;/p&gt;
@@ -265,9 +265,9 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
     
     <item>
       <title>Light Field Photography</title>
-      <link>http://localhost:1313/benchmark/light-field-photography/</link>
+      <link>https://hycasia.github.io/benchmark/light-field-photography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/benchmark/light-field-photography/</guid>
+      <guid>https://hycasia.github.io/benchmark/light-field-photography/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;

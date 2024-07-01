@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jianze Wei | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/jianze-wei/</link>
-      <atom:link href="http://localhost:1313/author/jianze-wei/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/jianze-wei/</link>
+      <atom:link href="https://hycasia.github.io/author/jianze-wei/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianze Wei</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Jun 2024 08:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Jianze Wei</title>
-      <link>http://localhost:1313/author/jianze-wei/</link>
+      <link>https://hycasia.github.io/author/jianze-wei/</link>
     </image>
     
     <item>
       <title>Jianze Wei</title>
-      <link>http://localhost:1313/author/jianze-wei/</link>
+      <link>https://hycasia.github.io/author/jianze-wei/</link>
       <pubDate>Fri, 14 Jun 2024 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/jianze-wei/</guid>
+      <guid>https://hycasia.github.io/author/jianze-wei/</guid>
       <description>&lt;p&gt;Jianze Wei is currently pursuing the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. and M.S. degrees in communication engineering from the Civil Aviation University of China, Tianjin, China, in 2015 and 2018, respectively. His current research interests include biometrics, machine learning and computer vision.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation</title>
-      <link>http://localhost:1313/publication/wei-tifs-2024_1/</link>
+      <link>https://hycasia.github.io/publication/wei-tifs-2024_1/</link>
       <pubDate>Fri, 14 Jun 2024 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tifs-2024_1/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tifs-2024_1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contextual Measures for Iris Recognition</title>
-      <link>http://localhost:1313/publication/wei-tifs-2022/</link>
+      <link>https://hycasia.github.io/publication/wei-tifs-2022/</link>
       <pubDate>Mon, 14 Nov 2022 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tifs-2022/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tifs-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors</title>
-      <link>http://localhost:1313/publication/wei-tifs-2022_2/</link>
+      <link>https://hycasia.github.io/publication/wei-tifs-2022_2/</link>
       <pubDate>Mon, 28 Feb 2022 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tifs-2022_2/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tifs-2022_2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-spectral Iris Recognition by Learning Device-specific Band</title>
-      <link>http://localhost:1313/publication/wei-tcsvt-2021/</link>
+      <link>https://hycasia.github.io/publication/wei-tcsvt-2021/</link>
       <pubDate>Mon, 04 Oct 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-tcsvt-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wei-tcsvt-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples</title>
-      <link>http://localhost:1313/publication/wei-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/wei-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wei-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wei-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-sensor iris recognition using adversarial strategy and sensor-specific information</title>
-      <link>http://localhost:1313/publication/csin-btas-2019/</link>
+      <link>https://hycasia.github.io/publication/csin-btas-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/csin-btas-2019/</guid>
+      <guid>https://hycasia.github.io/publication/csin-btas-2019/</guid>
       <description></description>
     </item>
     

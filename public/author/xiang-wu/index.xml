@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiang Wu | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/xiang-wu/</link>
-      <atom:link href="http://localhost:1313/author/xiang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/xiang-wu/</link>
+      <atom:link href="https://hycasia.github.io/author/xiang-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiang Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Xiang Wu</title>
-      <link>http://localhost:1313/author/xiang-wu/</link>
+      <link>https://hycasia.github.io/author/xiang-wu/</link>
     </image>
     
     <item>
       <title>Cross-sensor iris recognition using adversarial strategy and sensor-specific information</title>
-      <link>http://localhost:1313/publication/csin-btas-2019/</link>
+      <link>https://hycasia.github.io/publication/csin-btas-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/csin-btas-2019/</guid>
+      <guid>https://hycasia.github.io/publication/csin-btas-2019/</guid>
       <description></description>
     </item>
     

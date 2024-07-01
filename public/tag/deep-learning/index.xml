@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deep Learning | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/tag/deep-learning/</link>
-      <atom:link href="http://localhost:1313/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/tag/deep-learning/</link>
+      <atom:link href="https://hycasia.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Deep Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/tag/deep-learning/</link>
+      <link>https://hycasia.github.io/tag/deep-learning/</link>
     </image>
     
     <item>
       <title>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</title>
-      <link>http://localhost:1313/publication/ren-tpami-2023/</link>
+      <link>https://hycasia.github.io/publication/ren-tpami-2023/</link>
       <pubDate>Thu, 20 Jul 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-tpami-2023/</guid>
+      <guid>https://hycasia.github.io/publication/ren-tpami-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/wang-tip-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-tip-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tip-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tip-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End View Synthesis for Light Field Imaging with Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-eccv-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-eccv-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-eccv-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-eccv-2018/</guid>
       <description></description>
     </item>
     

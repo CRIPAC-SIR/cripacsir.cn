@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leyuan Wang | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/leyuan-wang/</link>
-      <atom:link href="http://localhost:1313/author/leyuan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/leyuan-wang/</link>
+      <atom:link href="https://hycasia.github.io/author/leyuan-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Leyuan Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Nov 2022 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Leyuan Wang</title>
-      <link>http://localhost:1313/author/leyuan-wang/</link>
+      <link>https://hycasia.github.io/author/leyuan-wang/</link>
     </image>
     
     <item>
       <title>An Empirical Comparative Analysis of Africans with Asians Using DCNN Facial Biometric Models</title>
-      <link>http://localhost:1313/publication/jawad-ccbr-2022/</link>
+      <link>https://hycasia.github.io/publication/jawad-ccbr-2022/</link>
       <pubDate>Thu, 03 Nov 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/jawad-ccbr-2022/</guid>
+      <guid>https://hycasia.github.io/publication/jawad-ccbr-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Leyuan Wang</title>
-      <link>http://localhost:1313/author/leyuan-wang/</link>
+      <link>https://hycasia.github.io/author/leyuan-wang/</link>
       <pubDate>Thu, 03 Nov 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/leyuan-wang/</guid>
+      <guid>https://hycasia.github.io/author/leyuan-wang/</guid>
       <description>&lt;p&gt;Leyuan Wang is currently pursuing the Master degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Large-scale Database for Less Cooperative Iris Recognition</title>
-      <link>http://localhost:1313/publication/hu-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/hu-ijcb-2021/</link>
       <pubDate>Sat, 07 Aug 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/hu-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/hu-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An End-to-End Autofocus Camera for Iris on the Move</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2021/</link>
       <pubDate>Tue, 15 Jun 2021 08:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method</title>
-      <link>http://localhost:1313/publication/yu-tian-ijcb-2021/</link>
+      <link>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yu-tian-ijcb-2021/</guid>
+      <guid>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recognition Oriented Iris Image Quality Assessment in the Feature Space</title>
-      <link>http://localhost:1313/publication/wang-ijcb-2020/</link>
+      <link>https://hycasia.github.io/publication/wang-ijcb-2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/wang-ijcb-2020/</guid>
+      <guid>https://hycasia.github.io/publication/wang-ijcb-2020/</guid>
       <description></description>
     </item>
     

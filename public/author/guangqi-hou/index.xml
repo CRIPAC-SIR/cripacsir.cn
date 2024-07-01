@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guangqi Hou | SIR-Smart Iris Recognition</title>
-    <link>http://localhost:1313/author/guangqi-hou/</link>
-      <atom:link href="http://localhost:1313/author/guangqi-hou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hycasia.github.io/author/guangqi-hou/</link>
+      <atom:link href="https://hycasia.github.io/author/guangqi-hou/index.xml" rel="self" type="application/rss+xml" />
     <description>Guangqi Hou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Guangqi Hou</title>
-      <link>http://localhost:1313/author/guangqi-hou/</link>
+      <link>https://hycasia.github.io/author/guangqi-hou/</link>
     </image>
     
     <item>
       <title>Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application</title>
-      <link>http://localhost:1313/publication/liu-tip-2020/</link>
+      <link>https://hycasia.github.io/publication/liu-tip-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-tip-2020/</guid>
+      <guid>https://hycasia.github.io/publication/liu-tip-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/wang-tip-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-tip-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tip-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-tip-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>End-to-End View Synthesis for Light Field Imaging with Pseudo 4DCNN</title>
-      <link>http://localhost:1313/publication/wang-eccv-2018/</link>
+      <link>https://hycasia.github.io/publication/wang-eccv-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-eccv-2018/</guid>
+      <guid>https://hycasia.github.io/publication/wang-eccv-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A simple and robust super resolution method for light field images</title>
-      <link>http://localhost:1313/publication/wang-icip-2016/</link>
+      <link>https://hycasia.github.io/publication/wang-icip-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-icip-2016/</guid>
+      <guid>https://hycasia.github.io/publication/wang-icip-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>4D light-field sensing system for people counting</title>
-      <link>http://localhost:1313/publication/hou-spie-2016/</link>
+      <link>https://hycasia.github.io/publication/hou-spie-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hou-spie-2016/</guid>
+      <guid>https://hycasia.github.io/publication/hou-spie-2016/</guid>
       <description></description>
     </item>
     
