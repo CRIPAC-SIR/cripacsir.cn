@@ -42,6 +42,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jianze.wei@cripac.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
+  
+- icon: home
+  icon_pack: fas
+  link: https://weijianze.github.io/
 
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

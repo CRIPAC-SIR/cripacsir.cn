@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate
+role: Enginner @ CHN ENERGY
 
 # Organizations/Affiliations
 organizations:
@@ -51,7 +51,7 @@ email: "zihui.yan@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 #- Grad Students
 ---
 Zihun Yan is currently pursuing the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in automation from Tsinghua University, China, in 2015. His research focuses on pattern recognition and biometrics.

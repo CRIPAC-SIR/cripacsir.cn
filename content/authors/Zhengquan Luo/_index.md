@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate
+role: Post Doc @ MBZUAI 
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ email: "zhengquan.luo@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 #- Administration
 ---
 Zhengquan Luo is currently a Ph.D. candidate with Department of Automation, University of Science and Technology of China(USTC), and also with Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree majoring in automation, University of Science and Technology of China(USTC), China in 2018.

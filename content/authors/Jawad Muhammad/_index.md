@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. candidate
+role: Enginner @ JET, UK
 
 # Organizations/Affiliations
 organizations:
@@ -55,7 +55,7 @@ email: "Jawad Muhammad@cripac.ia.ac.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 #- Grad Students
 ---
 Jawad Muhammad received the B.E. degree in computer engineering from Bayero University, Kano, Nigeria, in 2010, and the M.S. degree in computer engineering from Selcuk University, Konya, Turkey, in 2014. He is currently pursuing the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, China, and the National Laboratory of Pattern Recognition, Center for Research on Intelligent Perception and Computing, Institute of Automation, Chinese Academy of Sciences. His current research interests include biometrics, computer vision, and robot vision.

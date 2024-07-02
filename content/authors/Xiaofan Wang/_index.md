@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: M.Sc. candidate
+role: Ph.D. candidate @ IMECAS
 
 # Organizations/Affiliations
 organizations:
@@ -52,7 +52,7 @@ email: "xiaofanwang@buaa.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Alumni
 #- Grad Students
 ---
 Xiaofan Wang is currently pursuing the Master degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.S. degree in Shool of Mathematical Sciences, Beihang University, China, in 2021. His research focuses on biometrics, computer vision, and deep learning.

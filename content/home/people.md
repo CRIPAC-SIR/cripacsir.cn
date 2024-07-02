@@ -21,6 +21,7 @@ subtitle = ""
                  "Staff",
                  "Post Doctoral",
                  "Graduate Students",
+                 "Interns",
                  "Alumni"]
 
 [design]

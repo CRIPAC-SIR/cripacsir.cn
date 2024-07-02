@@ -40,6 +40,9 @@ social:
   icon_pack: fas
   link: 'mailto:min.ren@cripac.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 
+- icon: home
+  icon_pack: fas
+  link: https://www.researchgate.net/profile/Min-Ren-14
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
