@@ -58,13 +58,14 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kunbo.zhang@casia.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Faculty
 #- Administration
 ---
-Kunbo Zhang is currnetly an Assistant Professor at CRIPAC, NLPR, CASIA, China. He received the B.E.
+Kunbo Zhang is currnetly an Assistant Professor at NLPR, MAIS, CASIA, China. He received the B.E.
 degree in Automation from Beijing Institute of Technology in 2006, and the M.Sc. and Ph.D. degrees in Mechanical 
 Engineering from State University of New York at Stony Brook, U.S., in 2008 and 2011, repectively. Between 2011 and 2016 he worked as a machine vision engineer of Advanced Manufacturing Engineering group in Nexteer Automotive, Michigan, U.S..
 His current resserch interests focus on light-field photography, biometric imaging, robot vision, human-robot interaction,

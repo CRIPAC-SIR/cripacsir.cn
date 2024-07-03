@@ -40,7 +40,7 @@ url_pdf: "https://openaccess.thecvf.com/content/CVPR2022W/FedVision/papers/Luo_F
 # url_dataset:
 # url_poster:
 # url_project:
-# url_slides:
+url_slides: CVPRW2022_FedIris.pptx
 # url_source:
 # url_video:
 

@@ -49,10 +49,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "wuyanting2023@ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Graduate Students
 #- Grad Students
 ---
-Yanting is currently pursuing the Ph.D. degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China.
+Yanting is currently pursuing the Ph.D. degree with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China.

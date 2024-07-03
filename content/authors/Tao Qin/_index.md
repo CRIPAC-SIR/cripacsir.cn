@@ -14,7 +14,7 @@ role: Engineer @ SocialTouch
 
 # Organizations/Affiliations
 organizations:
-- name: Hunan University of Technology
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,10 +50,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tao.qin@cripac.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Administration
 ---
-Tao Qin is currently pursuing the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Automation from the School of Mechanical and Electrical Engineering at Zhoukou Normal University. His research focuses on pattern recognition.
+Tao Qin successfully received the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Automation from the School of Mechanical and Electrical Engineering at Zhoukou Normal University. His research focuses on pattern recognition.
+
+He is working as an engineer at Social Touch Co. Ltd. (SocialTouch).

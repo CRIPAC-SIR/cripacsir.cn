@@ -39,6 +39,7 @@ featured: false
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/9484336"
 # url_code:
 url_dataset:  "http://www.cripacsir.cn/dataset/"
+url_applications: https://arxiv.org/pdf/2109.00162
 # url_poster:
 # url_project:
 # url_slides:

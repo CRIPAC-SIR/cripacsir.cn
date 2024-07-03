@@ -14,7 +14,7 @@ role: Ph.D candidate @ BUPT
 
 # Organizations/Affiliations
 organizations:
-- name:  Institute of Automation, Chinese Academy of Sciences (CASIA)
+- name:  
   url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,10 +48,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "leyuan.wang@cripac.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Grad Students
 ---
-Leyuan Wang is currently pursuing the Master degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
+Leyuan Wang received the Master degree with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
+
+He is currently pursuing the Ph.D. degree with Beijing University of Posts and Telecommunications (BUPT).

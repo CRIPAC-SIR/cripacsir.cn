@@ -40,7 +40,7 @@ featured: false
 
 url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9484357"
 # url_code:
-# url_dataset:
+url_dataset: http://www.cripacsir.cn/dataset/casia-iris-degradation/
 # url_poster:
 # url_project:
 # url_slides:

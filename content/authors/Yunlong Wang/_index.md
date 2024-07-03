@@ -57,10 +57,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yunlong.wang@casia.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Faculty
 #- Administration
 ---
-Yunlong Wang is currently an Assistant Professor with CRIPAC, NLPR, CASIA, China. He received the B.E. degree and the M.S. degree in Department of Automation, University of Science and Technology of China. His reserach focuses on pattern recognition, machine learning, light field photography, and biometrics.
+Yunlong Wang is currently an Assistant Professor with NLPR, MAIS, CASIA, China. He received the B.E. degree and the M.S. degree in Department of Automation, University of Science and Technology of China. His reserach focuses on pattern recognition, machine learning, light field photography, and biometrics.

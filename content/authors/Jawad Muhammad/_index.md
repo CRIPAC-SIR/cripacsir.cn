@@ -14,7 +14,7 @@ role: Enginner @ JET, UK
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -52,10 +52,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "Jawad Muhammad@cripac.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Grad Students
 ---
-Jawad Muhammad received the B.E. degree in computer engineering from Bayero University, Kano, Nigeria, in 2010, and the M.S. degree in computer engineering from Selcuk University, Konya, Turkey, in 2014. He is currently pursuing the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, China, and the National Laboratory of Pattern Recognition, Center for Research on Intelligent Perception and Computing, Institute of Automation, Chinese Academy of Sciences. His current research interests include biometrics, computer vision, and robot vision.
+Jawad Muhammad received the B.E. degree in computer engineering from Bayero University, Kano, Nigeria, in 2010, and the M.S. degree in computer engineering from Selcuk University, Konya, Turkey, in 2014. He received the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, China, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA). His current research interests include biometrics, computer vision, and robot vision.
+
+He is working as an engineer at the Joint European Torus (JET), UK.

@@ -8,6 +8,7 @@ abstract: "Iris recognition is a reliable personal identification method but the
 featured: false
 publication: "*International Conference on Biometrics (ICB2019)*"
 url_pdf: ren-2019-alignment.pdf
+url_code: https://github.com/RenMin1991/AF_Net
 projects: ["Iris Recognition"]
 ---
 

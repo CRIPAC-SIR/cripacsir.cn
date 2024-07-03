@@ -14,7 +14,7 @@ role: Post Doc @ MBZUAI 
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,10 +49,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zhengquan.luo@cripac.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Administration
 ---
-Zhengquan Luo is currently a Ph.D. candidate with Department of Automation, University of Science and Technology of China(USTC), and also with Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree majoring in automation, University of Science and Technology of China(USTC), China in 2018.
+Zhengquan Luo received the Ph.D. degree with Department of Automation, University of Science and Technology of China(USTC), and also with Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree majoring in automation, University of Science and Technology of China(USTC), China in 2018.
+
+He is working as a post doc at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).

@@ -9,6 +9,7 @@ abstract: "Due to the growing demand of iris biometrics, lots of new sensors are
 featured: false
 publication: "*10th IEEE International Conference on Biometrics: Theory, Applications and Systems (BTAS2019)*"
 url_pdf: csin-btas-2019.pdf
+url_code: https://github.com/weijianze/CSINv2
 projects: ["Iris Recognition"]
 image:
   placement: 1

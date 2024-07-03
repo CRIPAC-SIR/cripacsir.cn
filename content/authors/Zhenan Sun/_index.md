@@ -61,12 +61,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "znsun@nlpr.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Director
 #- Administration
 ---
-Zhenan Sun is currently an Professor with CRIPAC, NLPR, CASIA, China. He received the B.E. degree in industrial
+Zhenan Sun is currently an Professor with NLPR, MAIS, CASIA, China. He received the B.E. degree in industrial
 automation from Dalian University of Thchnology, and the M.S. degree in system engineering from Huazhong University
 of Science and Technology, and the Ph.D. degree in pattern recognition and intelligent system from CASIA in 1999, 2002, and 2006 respectively. His research focuses on biometrics and pattern recognition.

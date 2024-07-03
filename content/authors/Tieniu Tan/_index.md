@@ -56,10 +56,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tieniu.tan@ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Director
 #- Administration
 ---
-Tieniu Tan received the B.Sc. degree in electronic engineering from Xi’an Jiaotong University, China, in 1984, and the M.Sc. and Ph.D. degrees in electronic engineering from Imperial College London, U.K., in 1986 and 1989, respectively. He is currently a Professor with the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA). His current research interests include biometrics, image and video understanding, information hiding, and information forensics. He is a Fellow of IEEE and the IAPR (International Association of Pattern Recognition).
+Tieniu Tan received the B.Sc. degree in electronic engineering from Xi’an Jiaotong University, China, in 1984, and the M.Sc. and Ph.D. degrees in electronic engineering from Imperial College London, U.K., in 1986 and 1989, respectively. He is currently a Professor with the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA). His current research interests include biometrics, image and video understanding, information hiding, and information forensics. He is a Fellow of IEEE and the IAPR (International Association of Pattern Recognition).

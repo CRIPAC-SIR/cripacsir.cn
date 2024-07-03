@@ -53,10 +53,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "wangcaiyong@bucea.edu.cn"
 
+# homepage: https://caiyong.wang/
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 
 ---
-Caiyong Wang is currently a Lecturer with the School of Electrical and Information Engineering, Beijing University of Civil Engineering and Architecture, China. He successfully received the Ph.D. degree in Pattern Recognition and Intelligent Systems from Institute of Automation, Chinese Academy of Sciences (CASIA), China, in 2020 (supervised by Prof. Zhenan Sun). He received the B.E. degree in applied mathematics from Xinjiang University, China, in 2013, and the M.S. degree in computational mathematics from Xiamen University, China, in 2016. His research interests include biometrics, computer vision, and deep learning.  
+Caiyong Wang is currently a Lecturer with the School of Electrical and Information Engineering, Beijing University of Civil Engineering and Architecture (BUCEA), China. He received the Ph.D. degree in New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China, in 2020 (supervised by Prof. Zhenan Sun). He received the B.E. degree in applied mathematics from Xinjiang University, China, in 2013, and the M.S. degree in computational mathematics from Xiamen University, China, in 2016. His research interests include biometrics, computer vision, and deep learning.  

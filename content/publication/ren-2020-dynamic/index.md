@@ -8,6 +8,7 @@ abstract: "The generalization ability of Convolutional neural networks (CNNs) fo
 featured: true
 publication: "*Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI2020)*"
 url_pdf: ren-2020-dynamic.pdf
+url_code: https://github.com/RenMin1991/Dyamic-Graph-Representation
 projects: ["Iris Recognition"]
 image:
   placement: 1

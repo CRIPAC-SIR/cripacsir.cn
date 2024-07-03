@@ -14,7 +14,7 @@ role: Post Doc @ IMECAS
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -55,10 +55,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jianze.wei@cripac.ia.ac.cn"
 
+# homepage: https://weijianze.github.io/
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Grad Students
 ---
-Jianze Wei is currently pursuing the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. and M.S. degrees in communication engineering from the Civil Aviation University of China, Tianjin, China, in 2015 and 2018, respectively. His current research interests include biometrics, machine learning and computer vision.
+Jianze Wei received the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. and M.S. degrees in communication engineering from the Civil Aviation University of China, Tianjin, China, in 2015 and 2018, respectively. His current research interests include biometrics, machine learning and computer vision.
+
+He is working as a post doc at Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS).

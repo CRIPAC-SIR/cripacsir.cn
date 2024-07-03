@@ -14,7 +14,7 @@ role: Enginner @ CHN ENERGY
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,10 +48,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zihui.yan@cripac.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Grad Students
 ---
-Zihun Yan is currently pursuing the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the Center for Research on Intelligent Perception and Computing (CRIPAC), National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in automation from Tsinghua University, China, in 2015. His research focuses on pattern recognition and biometrics.
+Zihun Yan received the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in automation from Tsinghua University, China, in 2015. His research focuses on pattern recognition and biometrics.
+
+He is working as an engineer at CHINA ENERGY INVESTMENT (CHN ENERGY).

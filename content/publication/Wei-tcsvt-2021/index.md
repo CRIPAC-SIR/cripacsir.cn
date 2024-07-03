@@ -36,7 +36,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9557317"
-# url_code:
+url_code: https://github.com/weijianze/CSINv2
 # url_dataset:
 # url_poster:
 # url_project:

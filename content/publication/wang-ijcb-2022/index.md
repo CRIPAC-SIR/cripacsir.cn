@@ -38,7 +38,7 @@ featured: false
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/10007998"
 url_code: "https://github.com/lmp1265/PDVN-project-for-light-field-liveness-detection.git"
 #url_dataset: 
-# url_poster:
+url_poster: https://wylcasia.github.io/papers/IJCB2022-2-poster.pdf
 # url_project:
 # url_slides:
 # url_source:

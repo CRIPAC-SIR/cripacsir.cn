@@ -50,10 +50,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "tianhao.lu@cripac.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Administration
 ---
-Tianhao Lu is currently pursuing the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Beijing Jiaotong University. He is now studying for a master's degree in Hunan University of Technology. His research focuses on pattern recognition.
+Tianhao Lu received the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Beijing Jiaotong University. His research focuses on pattern recognition.
+
+He is working as an engineer at Watrix.AI Co..

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Engineer
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
-# - Deep Learning
-# - Computer Vision
+- Computer Vision
+- Pose Estimation
 # - Biometrics Recognition
 
 education:
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mengmeng.cui@cripac.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,8 +55,9 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: "wanting.zhou@cripac.ia.ac.cn"
+email: "mengmeng.cui@cripac.ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

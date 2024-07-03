@@ -14,7 +14,7 @@ role: Ph.D. candidate @ IMECAS
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Automation, Chinese Academy of Sciences
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -49,10 +49,13 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "xiaofanwang@buaa.edu.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
 #- Grad Students
 ---
-Xiaofan Wang is currently pursuing the Master degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.S. degree in Shool of Mathematical Sciences, Beihang University, China, in 2021. His research focuses on biometrics, computer vision, and deep learning.
+Xiaofan Wang successfully received the Master degree with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.S. degree in Shool of Mathematical Sciences, Beihang University, China, in 2021. His research focuses on biometrics, computer vision, and deep learning.
+
+He is currently pursing the Ph.D. degree at the Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS).

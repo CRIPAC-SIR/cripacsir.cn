@@ -48,6 +48,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yuchenzheng20010721@gmail.com"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:

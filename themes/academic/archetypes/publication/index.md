@@ -44,6 +44,12 @@ url_project:
 url_slides:
 url_source:
 url_video:
+url_awards:
+url_awards1:
+url_awards2:
+url_awards3:
+url_arxiv:
+url_applications:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -10,6 +10,7 @@ publication: "*IEEE Transactions on Biometrics, Behavior, and Identity Science (
 tags: ["Smart Iris Recognition", "Sclera segmentation", "sclera recognition", "U-net", "attention mechanism", "SSBC"]
 doi: "10.1109/TBIOM.2019.2962190"
 url_pdf: https://ieeexplore.ieee.org/document/8987270
+url_code: https://github.com/xiamenwcy/IrisSegBenchmark
 projects: ["Ocular Recognition", "Sclera Recognition"]
 image:
   placement: 1

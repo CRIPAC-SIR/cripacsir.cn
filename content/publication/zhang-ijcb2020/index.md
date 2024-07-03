@@ -35,7 +35,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-# url_pdf: "https://arxiv.org/pdf/2009.00294"
+url_pdf: https://ieeexplore.ieee.org/document/9304932
 # url_code:
 # url_dataset:
 # url_poster:
@@ -43,6 +43,7 @@ featured: false
 # url_slides:
 # url_source:
 # url_video:
+url_awards: https://ieee-biometrics.org/ijcb2020/Program.html
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -50,10 +50,11 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "limupei2022@ia.ac.cn"
 
+homepage:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Graduate Students
 #- Grad Students
 ---
-Mupei Li is currently pursuing the Ph.D. degree with Center for Research on Intelligent Perception and Computing (CRIPAC),National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.S. degree in college of automation, Beijing Institude of Technology, China, in 2022. His research focuses on biometrics, computer vision, and deep learning.
+Mupei Li is currently pursuing the Ph.D. degree with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.S. degree in college of automation, Beijing Institude of Technology, China, in 2022. His research focuses on biometrics, computer vision, and deep learning.

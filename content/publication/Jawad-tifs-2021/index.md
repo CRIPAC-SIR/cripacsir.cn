@@ -37,7 +37,7 @@ featured: false
 
 url_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9456939"
 # url_code: https://github.com/Debatrix/AquulaCam
-# url_dataset:
+url_dataset: http://www.cripacsir.cn/dataset/casia-face-africa/
 # url_poster:
 # url_project:
 # url_slides: 
