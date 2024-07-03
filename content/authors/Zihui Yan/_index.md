@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, biometrics and iris recognition.
 
 interests:
 - Artificial Intelligence
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. degree in Engineering
+    institution: Schoolof Artificial Intelligence, University ofChinese Academy of Sciences, China
+    year: 2023
   - course: B.E. degree in Automation
     institution: Tsinghua University
     year: 2015
@@ -55,6 +58,6 @@ user_groups:
 - Alumni
 #- Grad Students
 ---
-Zihun Yan received the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in automation from Tsinghua University, China, in 2015. His research focuses on pattern recognition and biometrics.
+Zihun Yan received the Ph.D. degree from the School of Artificial Intelligence, University of Chinese Academy of Sciences, and New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in automation from Tsinghua University, China, in 2015. His research focuses on pattern recognition and biometrics.
 
 He is working as an engineer at CHINA ENERGY INVESTMENT (CHN ENERGY).

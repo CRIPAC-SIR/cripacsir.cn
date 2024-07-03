@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Slides | Smart Individual Recognition</title>
-    <link>https://hycasia.github.io/slides/</link>
-      <atom:link href="https://hycasia.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/slides/</link>
+      <atom:link href="https://nlpr-sir.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <item>
       <title></title>
-      <link>https://hycasia.github.io/slides/example/</link>
+      <link>https://nlpr-sir.github.io/slides/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/slides/example/</guid>
+      <guid>https://nlpr-sir.github.io/slides/example/</guid>
       <description></description>
     </item>
     

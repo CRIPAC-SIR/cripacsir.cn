@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, graph convolutional network and iris recognition.
 
 interests:
 - Artificial Intelligence
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. degree in Pattern Recognition and Intelligent Systems
+    institution: Institute of Automation, Chinese Academy of Sci-ences (CASIA)
+    year: 2023
   - course: B.E. degree in Mechanical Engineering and Automation
     institution: National University of Defense Technology
     year: 2013
@@ -57,6 +60,6 @@ email: "min.ren@cripac.ia.ac.cn"
 user_groups:
 - Alumni
 ---
-Min Ren received the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in mechanical engineering and automation from National University of Defense Technology, China, in 2013. His research focuses on pattern recognition and biometrics.
+Min Ren received the Ph.D. degree from School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in mechanical engineering and automation from National University of Defense Technology, China, in 2013. His research focuses on pattern recognition and biometrics.
 
 He is working as a post doc at Beijing Normal University(BNU).

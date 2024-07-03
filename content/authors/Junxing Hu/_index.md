@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, computer vision and biometrics recognition.
 
 interests:
 - Deep Learning
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D.
+    institution: Institute of Automation, Chinese Academy of Sciences (CASIA)
+    year: 2024
   - course: M.S. in Computer Science
     institution: Institute of Software, Chinese Academy of Sciences
     year: 2020
@@ -61,6 +64,6 @@ user_groups:
 - Alumni
 #- Administration
 ---
-Junxing Hu received the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree in software engineering from the Dalian University of Technology (DUT), China, in 2017, and the M.S. degree in computer science from the Institute of Software, Chinese Academy of Sciences (ISCAS), China, in 2020. His current research interests include biometrics, computer vision, and deep leaning.
+Junxing Hu received the Ph.D. degree from School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree in software engineering from the Dalian University of Technology (DUT), China, in 2017, and the M.S. degree in computer science from the Institute of Software, Chinese Academy of Sciences (ISCAS), China, in 2020. His current research interests include biometrics, computer vision, and deep leaning.
 
 He is working as a management trainee at JD.com, Inc.(JD).

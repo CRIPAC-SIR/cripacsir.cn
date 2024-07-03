@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, computational vision and partten recognition.
 
 interests:
 - Artificial Intelligence
@@ -57,4 +57,4 @@ user_groups:
 - Staff
 #- Administration
 ---
-Yong He is currently an Engineer with Artificial Intelligence, University of Chinese Academy of Sciences, China, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA). He received his M.D. degree in Computer Architect from Hunan University of Technology, China, in 2020. His research focuses on pattern recognition and biometrics.
+Yong He is currently an Engineer with Artificial Intelligence, University of Chinese Academy of Sciences, China, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA). He received his M.S. degree in Computer Architect from Hunan University of Technology, China, in 2020. His research focuses on pattern recognition and biometrics.

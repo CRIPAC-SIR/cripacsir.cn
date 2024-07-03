@@ -2,29 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yu Tian | Smart Individual Recognition</title>
-    <link>https://hycasia.github.io/author/yu-tian/</link>
-      <atom:link href="https://hycasia.github.io/author/yu-tian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/author/yu-tian/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/yu-tian/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Tian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Yu Tian</title>
-      <link>https://hycasia.github.io/author/yu-tian/</link>
+      <link>https://nlpr-sir.github.io/author/yu-tian/</link>
     </image>
     
     <item>
       <title>Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method</title>
-      <link>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</link>
+      <link>https://nlpr-sir.github.io/publication/yu-tian-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>https://hycasia.github.io/publication/yu-tian-ijcb-2021/</guid>
+      <guid>https://nlpr-sir.github.io/publication/yu-tian-ijcb-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Anti-Spoofing by Learning Polarization Cues in a Real-World Scenario</title>
+      <link>https://nlpr-sir.github.io/publication/kunbo-cvpr-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/kunbo-cvpr-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yu Tian</title>
-      <link>https://hycasia.github.io/author/yu-tian/</link>
+      <link>https://nlpr-sir.github.io/author/yu-tian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/author/yu-tian/</guid>
+      <guid>https://nlpr-sir.github.io/author/yu-tian/</guid>
       <description>&lt;p&gt;Yu Tian is is currently an Engineer at the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA). He received the B.E. degree in Information Counter Technology and the M.S. degree in Information and Communication Engineering from North University of China, China in 2016 and 2019. His research focuses on computational photography, pattern recognition and biometrics.&lt;/p&gt;
 </description>
     </item>

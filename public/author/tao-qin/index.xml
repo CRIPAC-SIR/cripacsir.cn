@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tao Qin | Smart Individual Recognition</title>
-    <link>https://hycasia.github.io/author/tao-qin/</link>
-      <atom:link href="https://hycasia.github.io/author/tao-qin/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/author/tao-qin/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/tao-qin/index.xml" rel="self" type="application/rss+xml" />
     <description>Tao Qin</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>https://hycasia.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Tao Qin</title>
-      <link>https://hycasia.github.io/author/tao-qin/</link>
+      <link>https://nlpr-sir.github.io/author/tao-qin/</link>
     </image>
     
     <item>
       <title>Tao Qin</title>
-      <link>https://hycasia.github.io/author/tao-qin/</link>
+      <link>https://nlpr-sir.github.io/author/tao-qin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/author/tao-qin/</guid>
-      <description>&lt;p&gt;Tao Qin successfully received the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Automation from the School of Mechanical and Electrical Engineering at Zhoukou Normal University. His research focuses on pattern recognition.&lt;/p&gt;
+      <guid>https://nlpr-sir.github.io/author/tao-qin/</guid>
+      <description>&lt;p&gt;Tao Qin received the M.S. degree from Hunan University of Technology (HUT), jointly with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received B.E. degree in Automation from the School of Mechanical and Electrical Engineering at Zhoukou Normal University. His research focuses on pattern recognition.&lt;/p&gt;
 &lt;p&gt;He is working as an engineer at Social Touch Co. Ltd. (SocialTouch).&lt;/p&gt;
 </description>
     </item>

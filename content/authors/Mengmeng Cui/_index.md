@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include computer vision and pose estimation.
 
 interests:
 - Computer Vision

@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ia.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Leyuan Wang, master student, received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
+bio: His research focuses on artificial intelligence, pattern recognition and computational photography.
 
 interests:
 - Artificial Intelligence
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: M.S. degree
+    institution: Institute of Automation, Chinese Academy of Sciences (CASIA)
+    year: 2022
   - course: B.E. degree in Forensic Audio and Video Technology
     institution: Criminal Investigation Police University of China
     year: 2018
@@ -55,6 +58,6 @@ user_groups:
 - Alumni
 #- Grad Students
 ---
-Leyuan Wang received the Master degree with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
+Leyuan Wang received the Master degree from New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. degree from Department of Forensic Audio and Video Technology, Criminal Investigation Police University of China in 2018. His research focuses on pattern recognition, Computational Photography, Biometrics and Criminal Law.
 
 He is currently pursuing the Ph.D. degree with Beijing University of Posts and Telecommunications (BUPT).

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include gaze estimation, mobile computing and programmable matter.
+bio: My research interests include gaze estimation and computer vision.
 
 interests:
 - Gaze Estimation
@@ -26,6 +26,9 @@ interests:
 
 education:
   courses:
+  - course: M.S. degree
+    institution: Hunan University of Technology(HUT)
+    year: 2024
   - course: B.S. degree in Shool of Mathematical Sciences
     institution: Beihang University
     year: 2021
@@ -56,6 +59,6 @@ user_groups:
 - Alumni
 #- Grad Students
 ---
-Xiaofan Wang successfully received the Master degree with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.S. degree in Shool of Mathematical Sciences, Beihang University, China, in 2021. His research focuses on biometrics, computer vision, and deep learning.
+Xiaofan Wang received the M.S. degree from the Hunan University of Technology (HUT), jointly with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.S. degree in Shool of Mathematical Sciences, Beihang University, China, in 2021. His research focuses on biometrics, computer vision, and deep learning.
 
 He is currently pursing the Ph.D. degree at the Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS).

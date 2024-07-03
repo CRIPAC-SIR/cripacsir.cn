@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include partten recognition, light field photography and biometric recognition.
 
 interests:
 - Partten Recognition
@@ -64,4 +64,4 @@ user_groups:
 - Faculty
 #- Administration
 ---
-Yunlong Wang is currently an Assistant Professor with NLPR, MAIS, CASIA, China. He received the B.E. degree and the M.S. degree in Department of Automation, University of Science and Technology of China. His reserach focuses on pattern recognition, machine learning, light field photography, and biometrics.
+Yunlong Wang is currently an Associate Professor with NLPR, MAIS, CASIA, China. He received the B.E. degree and the M.S. degree in Department of Automation, University of Science and Technology of China. His reserach focuses on pattern recognition, machine learning, light field photography, and biometrics.

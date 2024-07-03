@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, federated learning and biometic recognition.
 
 interests:
 - Artificial Intelligence
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. degree
+    institution: University of Science and Technology of China(USTC)
+    year: 2024
   - course: B.E. degree majoring in automation
     institution: University of Science and Technology of China
     year: 2018

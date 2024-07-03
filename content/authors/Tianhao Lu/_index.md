@@ -10,15 +10,15 @@ authors:
 superuser: false
 
 # Role/position
-role: Engineer @ Watrix.AI
+role: Engineer @ Baidu
 
 # Organizations/Affiliations
 organizations:
-- name: Hunan University of Technology
+- name:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, computational vision and iris recognition.
 
 interests:
 - Artificial Intelligence
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: M.S. degree in Artificial Intelligence
+    institution: Hunan University of Technology
+    year: 2022
   - course: B.E. degree in Artificial Intelligence
     institution: Beijing Jiaotong University
     year: 2017
@@ -57,6 +60,6 @@ user_groups:
 - Alumni
 #- Administration
 ---
-Tianhao Lu received the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Beijing Jiaotong University. His research focuses on pattern recognition.
+Tianhao Lu received the M.S. degree from Hunan University of Technology (HUT), jointly with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received B.E. degree in Beijing Jiaotong University. His research focuses on pattern recognition.
 
-He is working as an engineer at Watrix.AI Co..
+He is working as an engineer at Baidu Inc..

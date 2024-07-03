@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, computer vision and biometrics recognition.
 
 interests:
 - Deep Learning
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:wanting.zhou@cripac.ia.ac.cn'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:wanting.zhou@bupt.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wanting.zhou@cripac.ia.ac.cn"
+email: "wanting.zhou@bupt.edu.cn"
 
 homepage:
 # Organizational groups that you belong to (for People widget)

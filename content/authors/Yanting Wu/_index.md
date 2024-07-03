@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-# bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, biometrics and causal inference.
 
 interests:
 - Artificial Intelligence
@@ -26,9 +26,9 @@ interests:
 
 education:
   courses:
-  # - course: B.S. degree in college of automation
-  #   institution: Beijing Institude of Technology
-  #   year: 2022
+  - course: B.S. degree
+    institution: China University of Mining and Technology
+    year: 2023
 
 
 # Social/Academic Networking

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include deep learning, computer vision, and biometrics.
 
 interests:
 - Deep Learning
@@ -60,4 +60,4 @@ user_groups:
 - Alumni
 
 ---
-Caiyong Wang is currently a Lecturer with the School of Electrical and Information Engineering, Beijing University of Civil Engineering and Architecture (BUCEA), China. He received the Ph.D. degree in New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China, in 2020 (supervised by Prof. Zhenan Sun). He received the B.E. degree in applied mathematics from Xinjiang University, China, in 2013, and the M.S. degree in computational mathematics from Xiamen University, China, in 2016. His research interests include biometrics, computer vision, and deep learning.  
+Caiyong Wang is currently a Lecturer with the School of Electrical and Information Engineering, Beijing University of Civil Engineering and Architecture (BUCEA), China. He received the Ph.D. degree from New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China, in 2020 (supervised by Prof. Zhenan Sun). He received the B.E. degree in applied mathematics from Xinjiang University, China, in 2013, and the M.S. degree in computational mathematics from Xiamen University, China, in 2016. His research interests include biometrics, computer vision, and deep learning.  

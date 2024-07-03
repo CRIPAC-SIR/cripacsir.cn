@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include brain-like computing, biometrics, machine learning and computer vision.
 
 interests:
 - Computer Vision
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D. degree
+    institution: Institute of Automation, Chinese Academy of Sciences (CASIA)
+    year: 2022
   - course: M.S. degrees in communication engineering
     institution: Civil Aviation University of China
     year: 2018
@@ -62,6 +65,6 @@ user_groups:
 - Alumni
 #- Grad Students
 ---
-Jianze Wei received the Ph.D. degree with the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. and M.S. degrees in communication engineering from the Civil Aviation University of China, Tianjin, China, in 2015 and 2018, respectively. His current research interests include biometrics, machine learning and computer vision.
+Jianze Wei received the Ph.D. degree from the School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received the B.E. and M.S. degrees in communication engineering from the Civil Aviation University of China, Tianjin, China, in 2015 and 2018, respectively. His current research interests include biometrics, machine learning and computer vision.
 
 He is working as a post doc at Institute of Microelectronics of the Chinese Academy of Sciences (IMECAS).

@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include artificial intelligence, machine learning and biometric identification.
 
 interests:
 - Artificial Intelligence
@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: M.S. degree
+    institution: Hunan University of Technology(HUT)
+    year: 2021
   - course: B.E. degree in Mechanical and Electrical Engineering
     institution: Zhoukou Normal University
     year: 2018 
@@ -57,6 +60,6 @@ user_groups:
 - Alumni
 #- Administration
 ---
-Tao Qin successfully received the Master. degree with the Hunan University of Technology(HUT). He received B.E. degree in Automation from the School of Mechanical and Electrical Engineering at Zhoukou Normal University. His research focuses on pattern recognition.
+Tao Qin received the M.S. degree from Hunan University of Technology (HUT), jointly with New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received B.E. degree in Automation from the School of Mechanical and Electrical Engineering at Zhoukou Normal University. His research focuses on pattern recognition.
 
 He is working as an engineer at Social Touch Co. Ltd. (SocialTouch).
