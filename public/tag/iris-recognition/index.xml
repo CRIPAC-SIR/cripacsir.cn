@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iris Recognition | Smart Individual Recognition</title>
-    <link>http://localhost:1313/tag/iris-recognition/</link>
-      <atom:link href="http://localhost:1313/tag/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/tag/iris-recognition/</link>
+      <atom:link href="https://nlpr-sir.github.io/tag/iris-recognition/index.xml" rel="self" type="application/rss+xml" />
     <description>Iris Recognition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Jul 2023 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Iris Recognition</title>
-      <link>http://localhost:1313/tag/iris-recognition/</link>
+      <link>https://nlpr-sir.github.io/tag/iris-recognition/</link>
     </image>
     
     <item>
       <title>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</title>
-      <link>http://localhost:1313/publication/ren-tpami-2023/</link>
+      <link>https://nlpr-sir.github.io/publication/ren-tpami-2023/</link>
       <pubDate>Thu, 20 Jul 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/ren-tpami-2023/</guid>
+      <guid>https://nlpr-sir.github.io/publication/ren-tpami-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Iris Recognition</title>
-      <link>http://localhost:1313/project/iris-recognition/</link>
+      <link>https://nlpr-sir.github.io/project/iris-recognition/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/iris-recognition/</guid>
+      <guid>https://nlpr-sir.github.io/project/iris-recognition/</guid>
       <description>&lt;div style=&#34;WIDTH:100%; HEIGHT:100%&#34;&gt;
 &lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;虹膜识别是进一步提升安全性、可靠性的必由之路&lt;/strong&gt; &amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;
 &lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;———谭铁牛院士&lt;/strong&gt;&lt;/font&gt;  
@@ -47,9 +47,9 @@
     
     <item>
       <title>MediaPipe Iris</title>
-      <link>http://localhost:1313/post/mediapipe-iris/</link>
+      <link>https://nlpr-sir.github.io/post/mediapipe-iris/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/mediapipe-iris/</guid>
+      <guid>https://nlpr-sir.github.io/post/mediapipe-iris/</guid>
       <description>&lt;!--&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;10&#39;&gt;MediaPipe Iris 实时虹膜跟踪和深度估计&lt;/font&gt;&lt;/div&gt;    
 &lt;div style=&#39;display:none&#39;&gt;
 标题居中
@@ -110,9 +110,9 @@
     
     <item>
       <title>Iris recognition is the general trend?</title>
-      <link>http://localhost:1313/post/iris-recognition-is-the-general-trend/</link>
+      <link>https://nlpr-sir.github.io/post/iris-recognition-is-the-general-trend/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/iris-recognition-is-the-general-trend/</guid>
+      <guid>https://nlpr-sir.github.io/post/iris-recognition-is-the-general-trend/</guid>
       <description> &lt;font size=&#39;5&#39;&gt;
  &amp;emsp;&amp;emsp;2017年4月27日，微软获得了一项虹膜识别技术的专利，未来该技术将纳入 Windows Hello ，用于微软旗下的智能手机、笔记本等设备中。
  &lt;/font&gt;
@@ -132,9 +132,9 @@
     
     <item>
       <title>Iris Recognition</title>
-      <link>http://localhost:1313/benchmark/iris-recognition/</link>
+      <link>https://nlpr-sir.github.io/benchmark/iris-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/benchmark/iris-recognition/</guid>
+      <guid>https://nlpr-sir.github.io/benchmark/iris-recognition/</guid>
       <description></description>
     </item>
     

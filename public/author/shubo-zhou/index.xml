@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shubo Zhou | Smart Individual Recognition</title>
-    <link>http://localhost:1313/author/shubo-zhou/</link>
-      <atom:link href="http://localhost:1313/author/shubo-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/author/shubo-zhou/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/shubo-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Shubo Zhou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Shubo Zhou</title>
-      <link>http://localhost:1313/author/shubo-zhou/</link>
+      <link>https://nlpr-sir.github.io/author/shubo-zhou/</link>
     </image>
     
     <item>
       <title>AIF-LFNet: All-in-Focus Light Field Super-Resolution Method Considering the Depth-Varying Defocus</title>
-      <link>http://localhost:1313/publication/zhow-tcsvt-2023/</link>
+      <link>https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/</link>
       <pubDate>Mon, 16 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zhow-tcsvt-2023/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
+      <guid>https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application</title>
-      <link>http://localhost:1313/publication/liu-tip-2020/</link>
+      <link>https://nlpr-sir.github.io/publication/liu-tip-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-tip-2020/</guid>
+      <guid>https://nlpr-sir.github.io/publication/liu-tip-2020/</guid>
       <description></description>
     </item>
     

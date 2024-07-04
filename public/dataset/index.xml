@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Databases for Download | Smart Individual Recognition</title>
-    <link>http://localhost:1313/dataset/</link>
-      <atom:link href="http://localhost:1313/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/dataset/</link>
+      <atom:link href="https://nlpr-sir.github.io/dataset/index.xml" rel="self" type="application/rss+xml" />
     <description>Databases for Download</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Databases for Download</title>
-      <link>http://localhost:1313/dataset/</link>
+      <link>https://nlpr-sir.github.io/dataset/</link>
     </image>
     
     <item>
       <title>CASIA-Iris-Africa</title>
-      <link>http://localhost:1313/dataset/casia-iris-africa/</link>
+      <link>https://nlpr-sir.github.io/dataset/casia-iris-africa/</link>
       <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-iris-africa/</guid>
+      <guid>https://nlpr-sir.github.io/dataset/casia-iris-africa/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Various forms of iris databases had been published that address some specific research problems and are made available to the biometrics research community such as: constraint databases; mobile iris; multispectral; synthetics; iris at a distance; contact lenses; liveness detection; Aging, etc. However, even though these databases have addressed many of the problems mentioned above, most of them contain subjects of primarily Caucasian and Asian docents with very few Africans and many times zero Africans. It is particularly challenging as this has created a research blind spot for African cohorts in these databases. Despite many of the reported investigative studies on racial bias in face biometrics, very few iris racial bias-related studies have been published, which can be due to the insufficient number of other races databases such as the Africans. Recently, face recognition algorithms have been reported to be biased toward specific demographics. Most prominently, many investigative studies have reported higher false-positive rates in African subject cohorts than in other cohorts. Due to the unavailability of the required quantity of African cohorts in the publicly available iris databases, similar studies would be difficult to replicate on iris biometrics. We presents a mainly African dataset that can be useful in addressing some of these challenges.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The iris images were captured in Nigeria, Africa. The capturing exercise was conducted across various locations in multiple sessions over three months. Due to logistical constraints, the capturing exercise was limited to the northern part of Nigeria. Each subject volunteer was asked to sign a consent form authorizing the data to be used for only research purposes. The iris sensor device for capturing the images is the IKUSBE30 iris sensor from IrisKing. The setup for the capturing exercise is shown in Fig. 1. Each volunteer was asked to hold the device, standing or sitting, based on their preference. As such, the iris images were captured at various degrees of head postures.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/1.png&#34; title=&#34;Iris Capturing set-ups (indoor and outdoor)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/1.png&#34; title=&#34;Iris Capturing set-ups (indoor and outdoor)&#34;&gt;
 Fig. 1: Iris Capturing set-ups (indoor and outdoor)&lt;/p&gt;
 &lt;p&gt;The procedure for image capturing is in two steps:&lt;/p&gt;
 &lt;ul&gt;
@@ -36,16 +36,16 @@ Fig. 1: Iris Capturing set-ups (indoor and outdoor)&lt;/p&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/2.png&#34; title=&#34;Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/2.png&#34; title=&#34;Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&#34;&gt;
 Fig. 2: Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&lt;/p&gt;
 &lt;p&gt;After the capturing sessions, the stored images were processed. The processing steps comprise automatic image selection to discard images with duplicate content, followed by manual image selection that guarantees the selected images&amp;rsquo; reliability. In the automatic selection, all the images from a single eye of one subject were organized into a matrix, with each column representing an image. The images of the subject&amp;rsquo;s eyes were then processed, and duplicates were removed using this procedure. The remaining images were then manually processed. The manual selection involves one-by-one human inspection of each image to identify damaged images and those images with no irises captured in them. Some sample images of one subject from the generated dataset are shown in Fig. 3, the labelled sampled images in Fig. 4, the summary of the database is presented in Table 1 and the database subjects&amp;rsquo; age distribution is shown in Fig. 5.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/3.png&#34; title=&#34;Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/3.png&#34; title=&#34;Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
 Fig. 3: Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/4.png&#34; title=&#34;Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/4.png&#34; title=&#34;Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
 Fig. 4: Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&lt;/p&gt;
 &lt;p&gt;Tab. 1: Summary of the generated database
-&lt;img alt=&#34;Figure 5&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/table.png&#34; title=&#34;Summary of the generated database&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 6&#34; src=&#34;http://localhost:1313/dataset/casia-iris-africa/figures/5.png&#34; title=&#34;Age distribution of the generated database&#34;&gt;
+&lt;img alt=&#34;Figure 5&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/table.png&#34; title=&#34;Summary of the generated database&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 6&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/5.png&#34; title=&#34;Age distribution of the generated database&#34;&gt;
 Fig. 5: Age distribution of the generated database&lt;/p&gt;
 &lt;h2 id=&#34;database-organization&#34;&gt;Database Organization&lt;/h2&gt;
 &lt;p&gt;The database package comprises of the following components organised in multiple directories:&lt;/p&gt;
@@ -73,22 +73,22 @@ Fig. 5: Age distribution of the generated database&lt;/p&gt;
     
     <item>
       <title>CASIA-Polar</title>
-      <link>http://localhost:1313/dataset/casia-polar/</link>
+      <link>https://nlpr-sir.github.io/dataset/casia-polar/</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-polar/</guid>
+      <guid>https://nlpr-sir.github.io/dataset/casia-polar/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;CASIA-Polar is a face anti-spoofing dataset based on polarization imaging, which takes advantage of polarization information in material classification to enable robust face anti-spoofing research.&lt;/p&gt;
 &lt;h2 id=&#34;setup-of-dataset-collection&#34;&gt;Setup of dataset collection&lt;/h2&gt;
 &lt;p&gt;The hardware system used to collect this dataset is shown in Fig.1, consists of a Lucid Phoenix PHX050S-P polarized camera equipped with Sony’s polarization sensor and a Mindvision MVGE501GC-T RGB camera.&lt;/p&gt;
 &lt;p&gt;Types of spoofing attacks include printed paper, printed glossy photographs, electronic displays, silicone masks, rubber masks, and customized silicone prosthetic heads. High-quality face samples are first captured by the MVGE501GC-T RGB camera and these high-quality samples are then printed on paper and photographs or displayed on a computer screen to produce artifacts. At the same time, both genuine and spoofing attack face samples were captured when the subjects and presentation attack were standing at or be placed at six distances, i.e. 1m, 1.5m, 2m, 3m, 4m, and 5m.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-polar/figures/1_1.png&#34;&gt;
-&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-polar/figures/1_2.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-polar/figures/1_1.png&#34;&gt;
+&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-polar/figures/1_2.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
 Fig. 1: Setup of dataset collection&lt;/p&gt;
 &lt;p&gt;The types of presentation attacks include printed papers, printed glossy photos, and electronic displays. The high-quality iris samples were first captured by IKUSB-E30, and then these high-quality samples were printed on papers and photos, or displayed on the screen of iPad mini 4 to generate the artefacts. The main lens of the lab-produced LF camera was tuned to be in focus at a position of 1.6 meters. Simultaneously, both bona fide and presentation attack iris samples were captured when the subjects and PAIs were standing at or be placed at three distances, i.e. 1.5 meters, 1.6 meters, 1.7 meters.&lt;/p&gt;
 &lt;h2 id=&#34;statistics-of-the-dataset&#34;&gt;Statistics of the Dataset&lt;/h2&gt;
 &lt;p&gt;The dataset includes 22,174 samples from 121 subjects. All subjects had visible light and polarized images taken. The genuine face has 14,698 samples, while the spoofing attack has about 7,476 samples.&lt;/p&gt;
 &lt;p&gt;Figure 2 shows an example of the face images collected in the dataset, with the first row being the visible image and the second row is the corresponding DoLP image.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-polar/figures/2.png&#34; title=&#34;The attacks present in CASIA-Polar&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-polar/figures/2.png&#34; title=&#34;The attacks present in CASIA-Polar&#34;&gt;
 Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
 &lt;h2 id=&#34;copyright-and-contacts&#34;&gt;Copyright and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the database are reserved.&lt;/p&gt;
@@ -99,29 +99,29 @@ Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
     
     <item>
       <title>CASIA-Iris-LFLD</title>
-      <link>http://localhost:1313/dataset/casia-iris-lfld/</link>
+      <link>https://nlpr-sir.github.io/dataset/casia-iris-lfld/</link>
       <pubDate>Sun, 05 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-iris-lfld/</guid>
+      <guid>https://nlpr-sir.github.io/dataset/casia-iris-lfld/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;The dataset for iris liveness detection based on light field (LF) imaging was collected by [1], wherein the first author is one of our collaborators. We have got the authority from the authors of [1] and released the LF focal stack data.&lt;/p&gt;
 &lt;h2 id=&#34;setup-of-dataset-collection&#34;&gt;Setup of dataset collection&lt;/h2&gt;
 &lt;p&gt;The dataset was captured using a 
 &lt;a href=&#34;http://cripac.ia.ac.cn/CN/column/item105.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lab-produced microlens based LF camera&lt;/a&gt; and a commercial device 
 &lt;a href=&#34;http://www.irisking.com/pron.php?id=523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IKUSB-E30&lt;/a&gt; under near-infrared (NIR) illumination. The setup of dataset collection was shown in Fig.1.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/capture_setup.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/capture_setup.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
 Fig. 1: Setup of dataset collection&lt;/p&gt;
 &lt;p&gt;The types of presentation attacks include printed papers, printed glossy photos, and electronic displays. The high-quality iris samples were first captured by IKUSB-E30, and then these high-quality samples were printed on papers and photos, or displayed on the screen of iPad mini 4 to generate the artefacts. The main lens of the lab-produced LF camera was tuned to be in focus at a position of 1.6 meters. Simultaneously, both bona fide and presentation attack iris samples were captured when the subjects and PAIs were standing at or be placed at three distances, i.e. 1.5 meters, 1.6 meters, 1.7 meters.&lt;/p&gt;
 &lt;h2 id=&#34;statistics-of-the-dataset&#34;&gt;Statistics of the Dataset&lt;/h2&gt;
 &lt;p&gt;The dataset contains 504 samples from 14 subjects, consisting of 230 LF images of bona fide iris and 274 LF images of spoofing iris. The respective sample number of the PAIs, i.e. printed papers, printed photos, and electronic display are 18, 122, 134.&lt;/p&gt;
 &lt;p&gt;An example of raw LF image containing both eyes printed on photos is shown in Fig.2. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/lf_raw_sample.png&#34; title=&#34;An example of raw LF image containing both eyes printed on photos.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/lf_raw_sample.png&#34; title=&#34;An example of raw LF image containing both eyes printed on photos.&#34;&gt;
 Fig.2: An example of raw LF image containing both eyes printed on photos. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.&lt;/p&gt;
 &lt;p&gt;The LF toolbox released by [2] was utilized to decode raw LF images into 4D LF data. The eye regions were cropped from the same location of each sub-aperture image (SAI). The spatial resolution of each SAI after cropping is $128 \times 96$, and the angular resolution is $7 \times 7$. Examples from the same subject&amp;rsquo;s right eye in the dataset are shown in Fig.3.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/dataset_samples.png&#34; title=&#34;Examples from the same subject&amp;#39;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/dataset_samples.png&#34; title=&#34;Examples from the same subject&amp;#39;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&#34;&gt;
 Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&lt;/p&gt;
 &lt;p&gt;The rendered focal stack via digital refocusing has 145 slices around the best focus plane.&lt;/p&gt;
 &lt;p&gt;The details of the adopted database is listed in Table 1.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Table 1&#34; src=&#34;http://localhost:1313/dataset/casia-iris-lfld/figures/details.png&#34; title=&#34;Details of the adopted database&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Table 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/details.png&#34; title=&#34;Details of the adopted database&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;copyright-and-contacts&#34;&gt;Copyright and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the  database are reserved.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, you can apply for it on our 
@@ -138,20 +138,20 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
     
     <item>
       <title>CASIA-Iris-Degradation</title>
-      <link>http://localhost:1313/dataset/casia-iris-degradation/</link>
+      <link>https://nlpr-sir.github.io/dataset/casia-iris-degradation/</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-iris-degradation/</guid>
+      <guid>https://nlpr-sir.github.io/dataset/casia-iris-degradation/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Since the outbreak of the COVID-19 pandemic, iris recognition has been used increasingly as contactless and unaffected by face masks. Although less user cooperation is an urgent demand for existing systems, corresponding manually annotated databases could hardly be obtained. This work presents a large-scale database of near-infrared iris images named CASIA-Iris-Degradation Version 1.0 (DV1), which consists of 15 subsets of various degraded images, simulating less cooperative situations such as illumination, off-angle, occlusion, and nonideal eye state. A lot of open-source segmentation and recognition methods are compared comprehensively on the DV1 using multiple evaluations, and the best among them are exploited to conduct ablation studies on each subset. Experimental results show that even the best deep learning frameworks are not robust enough on the database, and further improvements are recommended for challenging factors such as half-open eyes, off-angle, and pupil dilation. Therefore, we publish the DV1 with manual annotations online to promote iris recognition.&lt;/p&gt;
 &lt;h2 id=&#34;description-of-casia-iris-degradation&#34;&gt;Description of CASIA-Iris-Degradation&lt;/h2&gt;
 &lt;p&gt;CASIA-Iris-Degradation contains 36,539 images from 255 Asian people. All images were collected under NIR illumination and two eyes were captured simultaneously. Details of the proposed database are shown in the table below.
-&lt;img alt=&#34;Details of the proposed database&#34; src=&#34;http://localhost:1313/dataset/casia-iris-degradation/Statistics.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;Details of the proposed database&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-degradation/Statistics.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;setup-of-image-collection&#34;&gt;Setup of image collection&lt;/h3&gt;
 &lt;p&gt;As shown in the figure below, we built a collection room using black-out cloth. The curtain on one side of the room can be opened and closed artificially to control the natural light.
 Inside, there were camera (A), light sources (B, C), volunteer (D), and four directional markers (1-4).
 Each volunteer was asked to sit down, put their chin on the holder (0.75 m from the camera), keep their head as still as possible, and move their eyes according to instructions.
 To simulate the off-angle situation, the subject was required to look along a set of directions indicated by four markers in the visual field, while in other cases look straight ahead (i.e., the midpoint of marker 1 and 4).
-&lt;img alt=&#34;environment and equipment&#34; src=&#34;http://localhost:1313/dataset/casia-iris-degradation/newcx1camera.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;environment and equipment&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-degradation/newcx1camera.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;statistics-of-the-proposed-database&#34;&gt;Statistics of the proposed database&lt;/h3&gt;
 &lt;p&gt;To simulate real image degradation, the proposed database is divided into four categories, and each of them is separated into three to five subsets as follows:&lt;/p&gt;
 &lt;h4 id=&#34;illumination&#34;&gt;Illumination&lt;/h4&gt;
@@ -168,7 +168,7 @@ Although most images of the former two classes have no effective iris region and
 &lt;p&gt;For occlusion, volunteers were required to wear glasses, masks and using a hand to cover the mouth and nose. During this section, the NIR light source was randomly moved slightly to generate light spots. Meanwhile, some glasses also had stains on the surface to occlude the iris.
 An unexpected observation is that for some elderly volunteers, their eyelids droop naturally, resulting in severe occlusion, which should arouse more attention.&lt;/p&gt;
 &lt;p&gt;More samples and annotations are presented below.
-&lt;img alt=&#34;More samples&#34; src=&#34;http://localhost:1313/dataset/casia-iris-degradation/supp_images.png&#34;&gt;&lt;/p&gt;
+&lt;img alt=&#34;More samples&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-degradation/supp_images.png&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;copyright-note-and-contacts&#34;&gt;Copyright Note and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA-Iris-Degradation database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as &amp;ldquo;Portions of the research in this paper use the CASIA-Iris-Degradation-V1.0 collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, you can apply for it on our 
@@ -178,16 +178,16 @@ An unexpected observation is that for some elderly volunteers, their eyelids dro
     
     <item>
       <title>An Evaluation Benchmark for High-throughput Iris Recognition at a Distance</title>
-      <link>http://localhost:1313/dataset/blurred_iris_benchmark/</link>
+      <link>https://nlpr-sir.github.io/dataset/blurred_iris_benchmark/</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/blurred_iris_benchmark/</guid>
+      <guid>https://nlpr-sir.github.io/dataset/blurred_iris_benchmark/</guid>
       <description>&lt;h2 id=&#34;1-introduction&#34;&gt;&lt;strong&gt;1. Introduction&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;A key problem of iris recognition at a distance is that a large portion of captured iris images is nonideal because of narrow depth of field (DoF), noncooperative user movement, incongruous exposure time and so on. Current iris recognition systems usually filter out these low-quality images using strict criteria of image quality evaluation (IQA). However, this strategy inevitably leads to a waste of device capacity and low throughput. Therefore, a better and practical solution is to make the utmost of degraded iris images for personal identification. We announce the availability of a long-range captured dataset containing 3,756 iris images of various degradation factors from 98 subjects. An evaluation benchmark is built upon the dataset for a comparative study on preprocessing and recognition of NIR iris images in high-throughput scenarios. The datasets, manual annotations and evaluation toolkit are publicly available.&lt;/p&gt;
 &lt;h2 id=&#34;2-descriptions-and-statistics-of-the-database&#34;&gt;&lt;strong&gt;2. Descriptions and Statistics of the Database&lt;/strong&gt;&lt;/h2&gt;
 &lt;h3 id=&#34;image-collection&#34;&gt;&lt;strong&gt;Image collection&lt;/strong&gt;&lt;/h3&gt;
 &lt;!-- &lt;iframe height=498 width=510 src=&#34;collection_glasses.mp4&#34;&gt; --&gt;
 &lt;p&gt;The schematic and setup of blur-varying iris image collection of this database at a distance are shown as following.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Schematic and setup of NIR iris image collection at a distance and in less cooperative environments.&#34; src=&#34;http://localhost:1313/dataset/blurred_iris_benchmark/capture_setting.png&#34; title=&#34;Image Collection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Schematic and setup of NIR iris image collection at a distance and in less cooperative environments.&#34; src=&#34;https://nlpr-sir.github.io/dataset/blurred_iris_benchmark/capture_setting.png&#34; title=&#34;Image Collection&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The next generation of CASIA-LR-Cam bundled with NIR illumination at a wavelength of 830 nm was employed as the capturing device. Its standoff distance is approximately 1.2 meters with a DoF of over 20 centimeters. The field of view (FoV) is approximately 20 degrees. The device was placed in an indoor environment under no extra lighting sources. During the process of image collection, the subjects were obliged to move freely in the restricted square area 1.0~1.4 meters away from the device. Specifically, they could casually step forward and backward, left and right.&lt;/p&gt;
 &lt;p&gt;While moving inside the restricted area, the subjects were guided by the indication signal on the GUI screen to look at different directions for approximately 30 seconds in a single session. Two separate sessions were launched in the daytime under the same conditions, and the interval was one week. If the subject was wearing glasses, he or she needed to take them off in either of the two sessions (&lt;code&gt;play the video and see&lt;/code&gt;).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -268,7 +268,7 @@ An unexpected observation is that for some elderly volunteers, their eyelids dro
 &lt;/table&gt;
 &lt;h3 id=&#34;mannual-annotations&#34;&gt;&lt;strong&gt;Mannual Annotations&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Each image in the dataset is manually annotated with binary maps of iris masks, inner and outer iris boundaries, upper and lower eyelids, and sclera masks shown as below.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Two annotated instances in the dataset.&#34; src=&#34;http://localhost:1313/dataset/blurred_iris_benchmark/annotations.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Two annotated instances in the dataset.&#34; src=&#34;https://nlpr-sir.github.io/dataset/blurred_iris_benchmark/annotations.png&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;evaluation-toolkit&#34;&gt;&lt;strong&gt;Evaluation Toolkit&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&#34;IrisStat_V3.0.rar&#34;&gt;IrisStat_V3.0.rar&lt;/a&gt;&lt;/p&gt;
@@ -434,24 +434,24 @@ imgList.txt
     
     <item>
       <title>CASIA-Face-Africa</title>
-      <link>http://localhost:1313/dataset/casia-face-africa/</link>
+      <link>https://nlpr-sir.github.io/dataset/casia-face-africa/</link>
       <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-face-africa/</guid>
+      <guid>https://nlpr-sir.github.io/dataset/casia-face-africa/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Over the years, numerous face databases have been published that brought about exciting breakthrough in the facial biometric research field, most especially from the recent trend of deep learning contributions. However, as investigated by researchers, most of these databases are demographically imbalanced and often contain few number of African cohorts. Of those with relatively large number of the Africans, the databases are usually wild (downloaded from the internet or digitalised from printed photographs). Methods that adopt these skewed databases often exhibits some form of performance bias that can result to unintended consequences for real time applications. As such, there is need for more demographically inclusive datasets. CASIA-Face-Africa is developed to provide solution to this problem. It is an all-African database that is made to be used as a complementary database with the existing databases to balance the number of the African cohorts in the published datasets and improve their demographic inclusiveness.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;DESCRIPTION&lt;/h2&gt;
 &lt;p&gt;The database images were captured at various locations in Nigeria, Africa. About 1150 volunteers participated in the capturing exercise. The images of each subject were captured concurrently using 3 cameras. Two visible wavelength (VW) cameras and one near-infrared (NIR) camera. The capturing was done in various sessions over a period of 3 months. Some of the subjects have images captured in multiple sessions while majority of the subjects have their images captured in a single session.
-&lt;img alt=&#34;Figure 1&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/1.png&#34;&gt;
+&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/1.png&#34;&gt;
 &lt;em&gt;Figure 1: The cameras arrangement set-up was made to be same in all the capturing sessions&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;For each capturing instance, 3 to 10 still images were captured by each camera at a fixed time interval of 1 to 3 seconds. For some subjects, an external illumination light source was used for capturing additional images of that subjects. Also, some subjects were asked to use face accessory such as eye glasses for multiple capturing. The captured images were then organized and their land mark labelled. The organized database comprises a total of 38,546 images from 1,183 subjects. Specifically, 12,063 images captured by VW camera 1 at the resolution of 1332×1080, 13,232 images are captured by VW camera 2 at the resolution of 787 × 962, and 13,251 images are captured by NIR camera at the resolution of 983 × 877. Some samples of the captured images are shown in Figure 2, Figure 3 and Figure 4.
-&lt;img alt=&#34;Figure 2&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/2.png&#34;&gt;
+&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/2.png&#34;&gt;
 &lt;em&gt;Figure 2: Sample of a single subject images&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/3.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/3.png&#34;&gt;
 &lt;em&gt;Figure 3: Sample of subject Expressions&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;http://localhost:1313/dataset/casia-face-africa/4.png&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/4.png&#34;&gt;
 &lt;em&gt;Figure 4: Sample of labelled face images&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;database-organization&#34;&gt;Database Organization&lt;/h2&gt;
@@ -476,9 +476,9 @@ imgList.txt
     
     <item>
       <title>CASIA-IrisV4</title>
-      <link>http://localhost:1313/dataset/casia-irisv4/</link>
+      <link>https://nlpr-sir.github.io/dataset/casia-irisv4/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/dataset/casia-irisv4/</guid>
+      <guid>https://nlpr-sir.github.io/dataset/casia-irisv4/</guid>
       <description>&lt;h2 id=&#34;download-the-whole-database-186gbhttpbiometricsidealtestorgdownloaddbdoid4&#34;&gt;
 &lt;a href=&#34;http://biometrics.idealtest.org/downloadDB.do?id=4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download the whole database (1.86GB)&lt;/a&gt;&lt;/h2&gt;
 &lt;p style=&#34;text-align: center&#34;&gt;
@@ -523,38 +523,38 @@ Download the separated subsets below&lt;/p&gt;
 &lt;p&gt;CASIA-IrisV4 contains a total of 54,601 iris images from more than 1,800 genuine subjects and 1,000 virtual subjects. All iris images are 8 bit gray-level JPEG files, collected under near infrared illumination or synthesized. Some statistics and features of each subset are given in Table 1. The six data sets were collected or synthesized at different times and CASIA-Iris-Interval, CASIA-Iris-Lamp, CASIA-Iris-Distance, CASIA-Iris-Thousand may have a small inter-subset overlap in subjects.&lt;/p&gt;
 &lt;h3 id=&#34;21--casia-iris-interval&#34;&gt;2.1  CASIA-Iris-Interval&lt;/h3&gt;
 &lt;p&gt;Iris images of CASIA-Iris-Interval were captured with our self-developed close-up iris camera (Fig.1). The most compelling feature of our iris camera is that we have designed a circular NIR LED array, with suitable luminous flux for iris imaging. Because of this novel design, our iris camera can capture very clear iris images (see Fig.2). CASIA-Iris-Interval is well-suited for studying the detailed texture features of iris images.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
 Fig.1 The self-developed iris camera used for collection of CASIA-Iris-Interval
-&lt;img alt=&#34;Fig.2&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
 Fig.2 Example iris images in CASIA-Iris-Interval&lt;/p&gt;
 &lt;h3 id=&#34;22--casia-iris-lamp&#34;&gt;2.2  CASIA-Iris-Lamp&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Lamp was collected using a hand-held iris sensor produced by OKI (Fig.3). A lamp was turned on/off close to the subject to introduce more intra-class variations when we collected CASIA-Iris-Lamp. Elastic deformation of iris texture (Fig.4) due to pupil expansion and contraction under different illumination conditions is one of the most common and challenging issues in iris recognition. So CASIA-Iris-Lamp is good for studying problems of non-linear iris normalization and robust iris feature representation.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
 Fig.3 The hand-held iris camera used for collection of CASIA-Iris-Lamp
-&lt;img alt=&#34;Fig.4&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.4&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
 Fig.4 Example iris images in CASIA-Iris-Lamp&lt;/p&gt;
 &lt;h3 id=&#34;23--casia-iris-twins&#34;&gt;2.3  CASIA-Iris-Twins&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Twins contains iris images of 100 pairs of twins, which were collected during Annual Twins Festival in Beijing using OKI&amp;rsquo;s IRISPASS-h camera (Fig.5). Although iris is usually regarded as a kind of phenotypic biometric characteristics and even twins have their unique iris patterns, it is interesting to study the dissimilarity and similarity between iris images of twins.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
 Fig.5 Example iris images in CASIA-Iris-Twins&lt;/p&gt;
 &lt;h3 id=&#34;24--casia-iris-distance&#34;&gt;2.4  CASIA-Iris-Distance&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Distance contains iris images captured using our self-developed long-range multi-modal biometric image acquisition and recognition system (LMBS, Fig.6). The advanced biometric sensor can recognize users from 3 meters away by actively searching iris, face or palmprint patterns in the visual field via an intelligent multi-camera imaging system. The LMBS is human-oriented by fusing computer vision, human computer interaction and multi-camera coordination technologies and improves greatly the usability of current biometric systems. The iris images of CASIA-Iris-Distance were captured by a high resolution camera so both dual-eye iris and face patterns are included in the image region of interest (Fig. 7). And detailed facial features such as skin pattern are also visible for multi-modal biometric information fusion.&lt;/p&gt;
 &lt;p&gt;&lt;img alt=&#34;Fig.6&#34; src=&#34;./V4Fig.6.jpg&#34;&gt;
 Fig.6  The biometric sensor used for collection of CASIA-Iris-Distance
-&lt;img alt=&#34;Fig.7&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.7&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
 Fig.7  An example image in CASIA-Iris-Distance&lt;/p&gt;
 &lt;h3 id=&#34;25--casia-iris-thousand&#34;&gt;2.5  CASIA-Iris-Thousand&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Thousand contains 20,000 iris images from 1,000 subjects, which were collected using IKEMB-100 camera (Fig. 8) produced by 
 &lt;a href=&#34;Http://www.irisking.com&#34;&gt;IrisKing&lt;/a&gt;. IKEMB-100 is a dual-eye iris camera with friendly visual feedback, realizing the effect of “What You See Is What You Get”. The bounding boxes shown in the frontal LCD help users adjust their pose for high-quality iris image acquisition. The main sources of intra-class variations in CASIA-Iris-Thousand are eyeglasses and specular reflections. Since CASIA-Iris-Thousand is the first publicly available iris dataset with one thousand subjects, it is well-suited for studying the uniqueness of iris features and develop novel iris classification and indexing methods.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
 Fig.8 The iris camera used for collection of CASIA-Iris-Thousand
-&lt;img alt=&#34;Fig.9&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.9&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
 Fig.9  An example image in CASIA-Iris-Thousand&lt;/p&gt;
 &lt;h3 id=&#34;26--casia-iris-syn&#34;&gt;2.6  CASIA-Iris-Syn&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Syn contains 10,000 synthesized iris images of 1,000 classes. The iris textures of these images are synthesized automatically from a subset of CASIA-IrisV1 with the approach described in [1] (Fig. 10). Then the iris ring regions were embedded into the real iris images, which makes the artificial iris images more realistic. The intra-class variations introduced into the synthesized iris dataset include deformation, blurring, and rotation, which raise a challenge problem for iris feature representation and matching. We have demonstrated in [1] that the synthesized iris images are visually realistic and most subjects can not distinguish genuine and artificial iris images. More importantly, the performance results tested on the synthesized iris image database have similar statistical characteristics to genuine iris database. So users of CASIA-IrisV4 are encouraged to use CASIA-Iris-Syn for iris recognition research and any suggestions are welcome. If CASIA-Iris-Syn proves to be successful for most researchers of iris recognition, we will provide more and more synthesized iris images in the future.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
+&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
 Fig. 10  Flowchart of the iris texture synthesis method for generation of CASIA-Iris-Syn
-&lt;img alt=&#34;Fig.11&#34; src=&#34;http://localhost:1313/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
+&lt;img alt=&#34;Fig.11&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
 Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;h2 id=&#34;3-database-organization&#34;&gt;3. Database Organization&lt;/h2&gt;
 &lt;p&gt;The file name of each image in CASIA-IrisV4 is unique to each other and denotes some useful properties associated with the image such as subset category, left/right/double, subject ID, class ID, image ID etc. The file naming rules of all six subsets are listed as follows:&lt;/p&gt;

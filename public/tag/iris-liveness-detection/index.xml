@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Iris-Liveness-Detection | Smart Individual Recognition</title>
-    <link>http://localhost:1313/tag/iris-liveness-detection/</link>
-      <atom:link href="http://localhost:1313/tag/iris-liveness-detection/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/tag/iris-liveness-detection/</link>
+      <atom:link href="https://nlpr-sir.github.io/tag/iris-liveness-detection/index.xml" rel="self" type="application/rss+xml" />
     <description>Iris-Liveness-Detection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 27 Aug 2022 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Iris-Liveness-Detection</title>
-      <link>http://localhost:1313/tag/iris-liveness-detection/</link>
+      <link>https://nlpr-sir.github.io/tag/iris-liveness-detection/</link>
     </image>
     
     <item>
       <title>Combining 2D texture and 3D geometry features for Reliable iris presentation attack detection using light field focal stack</title>
-      <link>http://localhost:1313/publication/luo-iet-2022/</link>
+      <link>https://nlpr-sir.github.io/publication/luo-iet-2022/</link>
       <pubDate>Sat, 27 Aug 2022 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/luo-iet-2022/</guid>
+      <guid>https://nlpr-sir.github.io/publication/luo-iet-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hierarchical Multi-class Iris Classification for Liveness Detection</title>
-      <link>http://localhost:1313/publication/yan-2018-liveness/</link>
+      <link>https://nlpr-sir.github.io/publication/yan-2018-liveness/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yan-2018-liveness/</guid>
+      <guid>https://nlpr-sir.github.io/publication/yan-2018-liveness/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Depth Estimation | Smart Individual Recognition</title>
-    <link>http://localhost:1313/tag/depth-estimation/</link>
-      <atom:link href="http://localhost:1313/tag/depth-estimation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/tag/depth-estimation/</link>
+      <atom:link href="https://nlpr-sir.github.io/tag/depth-estimation/index.xml" rel="self" type="application/rss+xml" />
     <description>Depth Estimation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Depth Estimation</title>
-      <link>http://localhost:1313/tag/depth-estimation/</link>
+      <link>https://nlpr-sir.github.io/tag/depth-estimation/</link>
     </image>
     
     <item>
       <title>Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application</title>
-      <link>http://localhost:1313/publication/liu-tip-2020/</link>
+      <link>https://nlpr-sir.github.io/publication/liu-tip-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-tip-2020/</guid>
+      <guid>https://nlpr-sir.github.io/publication/liu-tip-2020/</guid>
       <description></description>
     </item>
     

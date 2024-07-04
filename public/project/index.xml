@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Smart Individual Recognition</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/project/</link>
+      <atom:link href="https://nlpr-sir.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>https://nlpr-sir.github.io/project/</link>
     </image>
     
     <item>
       <title>Iris Recognition</title>
-      <link>http://localhost:1313/project/iris-recognition/</link>
+      <link>https://nlpr-sir.github.io/project/iris-recognition/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/iris-recognition/</guid>
+      <guid>https://nlpr-sir.github.io/project/iris-recognition/</guid>
       <description>&lt;div style=&#34;WIDTH:100%; HEIGHT:100%&#34;&gt;
 &lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;虹膜识别是进一步提升安全性、可靠性的必由之路&lt;/strong&gt; &amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;
 &lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;———谭铁牛院士&lt;/strong&gt;&lt;/font&gt;  
@@ -39,9 +39,9 @@
     
     <item>
       <title>Light Field Photography</title>
-      <link>http://localhost:1313/project/light-field-photography/</link>
+      <link>https://nlpr-sir.github.io/project/light-field-photography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/light-field-photography/</guid>
+      <guid>https://nlpr-sir.github.io/project/light-field-photography/</guid>
       <description>&lt;h2 id=&#34;light-field&#34;&gt;Light field&lt;/h2&gt;
 &lt;p&gt;The light field is a vector function that describes the amount of light flowing in every direction through every point in space. The space of all possible light rays is given by the five-dimensional plenoptic function, and the magnitude of each ray is given by the radiance. Michael Faraday was the first to propose (in an 1846 lecture entitled &amp;ldquo;Thoughts on Ray Vibrations&amp;rdquo;) that light should be interpreted as a field, much like the magnetic fields on which he had been working for several years. The phrase light field was coined by Andrey Gershun in a classic paper on the radiometric properties of light in three-dimensional space (1936).&lt;/p&gt;
 &lt;h2 id=&#34;the-4d-light-field&#34;&gt;The 4D light field&lt;/h2&gt;
@@ -59,17 +59,17 @@
     
     <item>
       <title>Periocular Recognition</title>
-      <link>http://localhost:1313/project/periocular-recognition/</link>
+      <link>https://nlpr-sir.github.io/project/periocular-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/periocular-recognition/</guid>
+      <guid>https://nlpr-sir.github.io/project/periocular-recognition/</guid>
       <description>&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 7 &gt;&lt;strong&gt;To be updated.....&lt;/strong&gt;&lt;/font&gt;</description>
     </item>
     
     <item>
       <title>Sclera Recognition</title>
-      <link>http://localhost:1313/project/sclera-recognition/</link>
+      <link>https://nlpr-sir.github.io/project/sclera-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/sclera-recognition/</guid>
+      <guid>https://nlpr-sir.github.io/project/sclera-recognition/</guid>
       <description>&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 7 &gt;&lt;strong&gt;To be updated.....&lt;/strong&gt;&lt;/font&gt;</description>
     </item>
     
