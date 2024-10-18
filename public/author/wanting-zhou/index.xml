@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wanting Zhou | Smart Individual Recognition</title>
-    <link>http://localhost:1313/author/wanting-zhou/</link>
-      <atom:link href="http://localhost:1313/author/wanting-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/author/wanting-zhou/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/wanting-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Wanting Zhou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Wanting Zhou</title>
-      <link>http://localhost:1313/author/wanting-zhou/</link>
+      <link>https://nlpr-sir.github.io/author/wanting-zhou/</link>
     </image>
     
     <item>
       <title>Bita-Net: Bi-temporal Attention Network for Facial Video Forgery Detection</title>
-      <link>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</link>
+      <link>https://nlpr-sir.github.io/publication/yiwei-ru-ijcb-2021/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/yiwei-ru-ijcb-2021/</guid>
+      <guid>https://nlpr-sir.github.io/publication/yiwei-ru-ijcb-2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wanting Zhou</title>
-      <link>http://localhost:1313/author/wanting-zhou/</link>
+      <link>https://nlpr-sir.github.io/author/wanting-zhou/</link>
       <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/author/wanting-zhou/</guid>
+      <guid>https://nlpr-sir.github.io/author/wanting-zhou/</guid>
       <description>&lt;p&gt;Wanting Zhou finished postdoc work with the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. She received the B.E. degree in Automation Technology, the M.S. degree in Control Engineering and the Ph.D. degree in Detection Technology and Automation Devices from North China Electric Power University, Beijing, China in 2014, 2016 and 2019. She was funded by the China Scholarship Council and did some research as a joint PhD. student in the University of Cambridge in 2018. She received the National Postdoctoral Program for Innovative Talents from China Postdoctoral Science Foundation in 2019. Her current research interests include biometrics, computer vision, and deep leaning.&lt;/p&gt;
 &lt;p&gt;She is working as an associate professor at Beijing University of Posts and  Telecommunications (BUPT).&lt;/p&gt;
 </description>
