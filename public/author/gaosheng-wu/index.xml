@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaosheng Wu | Smart Individual Recognition</title>
-    <link>http://localhost:1313/author/gaosheng-wu/</link>
-      <atom:link href="http://localhost:1313/author/gaosheng-wu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/author/gaosheng-wu/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/gaosheng-wu/index.xml" rel="self" type="application/rss+xml" />
     <description>Gaosheng Wu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jan 2023 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Gaosheng Wu</title>
-      <link>http://localhost:1313/author/gaosheng-wu/</link>
+      <link>https://nlpr-sir.github.io/author/gaosheng-wu/</link>
     </image>
     
     <item>
       <title>D-ESRGAN: A Dual-Encoder GAN with Residual CNN and Vision Transformer for Iris Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/caiyong-ijcb-2022/</link>
+      <link>https://nlpr-sir.github.io/publication/caiyong-ijcb-2022/</link>
       <pubDate>Tue, 17 Jan 2023 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/caiyong-ijcb-2022/</guid>
+      <guid>https://nlpr-sir.github.io/publication/caiyong-ijcb-2022/</guid>
       <description></description>
     </item>
     

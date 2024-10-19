@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A. Das | Smart Individual Recognition</title>
-    <link>http://localhost:1313/author/a.-das/</link>
-      <atom:link href="http://localhost:1313/author/a.-das/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/author/a.-das/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/a.-das/index.xml" rel="self" type="application/rss+xml" />
     <description>A. Das</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Sep 2020 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>A. Das</title>
-      <link>http://localhost:1313/author/a.-das/</link>
+      <link>https://nlpr-sir.github.io/author/a.-das/</link>
     </image>
     
     <item>
       <title>SSBC 2020: Sclera Segmentation Benchmarking Competition in the Mobile Environment</title>
-      <link>http://localhost:1313/publication/vitek-ijcb-2020/</link>
+      <link>https://nlpr-sir.github.io/publication/vitek-ijcb-2020/</link>
       <pubDate>Mon, 28 Sep 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/vitek-ijcb-2020/</guid>
+      <guid>https://nlpr-sir.github.io/publication/vitek-ijcb-2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhenteng Shen | Smart Individual Recognition</title>
-    <link>http://localhost:1313/author/zhenteng-shen/</link>
-      <atom:link href="http://localhost:1313/author/zhenteng-shen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/author/zhenteng-shen/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/zhenteng-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhenteng Shen</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Feb 2020 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Zhenteng Shen</title>
-      <link>http://localhost:1313/author/zhenteng-shen/</link>
+      <link>https://nlpr-sir.github.io/author/zhenteng-shen/</link>
     </image>
     
     <item>
       <title>All-in-Focus Iris Camera With a Great Capture Volume</title>
-      <link>http://localhost:1313/publication/zhang-ijcb2020/</link>
+      <link>https://nlpr-sir.github.io/publication/zhang-ijcb2020/</link>
       <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
-      <guid>http://localhost:1313/publication/zhang-ijcb2020/</guid>
+      <guid>https://nlpr-sir.github.io/publication/zhang-ijcb2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Light-Field Image Super Resolution | Smart Individual Recognition</title>
-    <link>http://localhost:1313/tag/light-field-image-super-resolution/</link>
-      <atom:link href="http://localhost:1313/tag/light-field-image-super-resolution/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nlpr-sir.github.io/tag/light-field-image-super-resolution/</link>
+      <atom:link href="https://nlpr-sir.github.io/tag/light-field-image-super-resolution/index.xml" rel="self" type="application/rss+xml" />
     <description>Light-Field Image Super Resolution</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
       <title>Light-Field Image Super Resolution</title>
-      <link>http://localhost:1313/tag/light-field-image-super-resolution/</link>
+      <link>https://nlpr-sir.github.io/tag/light-field-image-super-resolution/</link>
     </image>
     
     <item>
       <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
-      <link>http://localhost:1313/publication/wang-tip-2018/</link>
+      <link>https://nlpr-sir.github.io/publication/wang-tip-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-tip-2018/</guid>
+      <guid>https://nlpr-sir.github.io/publication/wang-tip-2018/</guid>
       <description></description>
     </item>
     
