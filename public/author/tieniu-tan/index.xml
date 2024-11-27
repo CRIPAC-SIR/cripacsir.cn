@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tieniu Tan | Smart Individual Recognition</title>
+    <title>Tieniu Tan | Smart Identity Recognition</title>
     <link>https://nlpr-sir.github.io/author/tieniu-tan/</link>
       <atom:link href="https://nlpr-sir.github.io/author/tieniu-tan/index.xml" rel="self" type="application/rss+xml" />
     <description>Tieniu Tan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Jun 2024 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Tieniu Tan</title>
       <link>https://nlpr-sir.github.io/author/tieniu-tan/</link>
     </image>
@@ -18,15 +18,6 @@
       <pubDate>Wed, 26 Jun 2024 16:12:05 +0800</pubDate>
       <guid>https://nlpr-sir.github.io/publication/ren-ijcv-2024/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Tieniu Tan</title>
-      <link>https://nlpr-sir.github.io/author/tieniu-tan/</link>
-      <pubDate>Wed, 26 Jun 2024 16:12:05 +0800</pubDate>
-      <guid>https://nlpr-sir.github.io/author/tieniu-tan/</guid>
-      <description>&lt;p&gt;Tieniu Tan received the B.Sc. degree in electronic engineering from Xi’an Jiaotong University, China, in 1984, and the M.Sc. and Ph.D. degrees in electronic engineering from Imperial College London, U.K., in 1986 and 1989, respectively. He is currently a Professor with the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA). His current research interests include biometrics, image and video understanding, information hiding, and information forensics. He is a Fellow of IEEE and the IAPR (International Association of Pattern Recognition).&lt;/p&gt;
-</description>
     </item>
     
     <item>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Smart Individual Recognition</title>
+    <title>Smart Identity Recognition</title>
     <link>https://nlpr-sir.github.io/</link>
       <atom:link href="https://nlpr-sir.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Smart Individual Recognition</description>
+    <description>Smart Identity Recognition</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2024 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
-      <title>Smart Individual Recognition</title>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>Smart Identity Recognition</title>
       <link>https://nlpr-sir.github.io/</link>
     </image>
     
@@ -30,12 +30,10 @@
 &lt;p&gt;Min Ren, Yuhao Zhu, Yunlong Wang, Yongzhen Huang, Zhenan Sun. Understanding Deep Face Representation via Attribute Recovery. IEEE Transactions on Information Forensics and Security ( Early Access )&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/10587012&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/document/10587012&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10587012&#34;&gt;https://ieeexplore.ieee.org/document/10587012&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;tifs-2024&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2407/tifs-2024-pic1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Deep neural networks have proven to be highly effective in the face recognition task, as they can map raw samples into a discriminative high-dimensional representation space. However, understanding this complex space proves to be challenging for human observers. In this paper, we propose a novel approach that interprets deep face recognition models via facial attributes. To achieve this, we introduce a two-stage framework that recovers attributes from the deep face representations. This framework allows us to quantitatively measure the significance of facial attributes in relation to the recognition model. Moreover, this framework enables us to generate sample-specific explanations through counterfactual methodology. These explanations are not only understandable but also quantitative. Through the proposed approach, we are able to acquire a deeper understanding of how the recognition model conceptualizes the notion of “identity” and understand the reasons behind the error decisions made by the deep models. By utilizing attributes as an interpretable interface, the proposed method marks a paradigm shift in our comprehension of deep face recognition models. It allows a complex model, obtained through gradient backpropagation, to effectively “communicate” with humans. The source code is available here, or you can visit this website: 
-&lt;a href=&#34;https://github.com/RenMin1991/Facial-Attribute-Recovery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/RenMin1991/Facial-Attribute-Recovery&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;tifs-2024-pic1.png&#34; alt=&#34;tifs-2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Deep neural networks have proven to be highly effective in the face recognition task, as they can map raw samples into a discriminative high-dimensional representation space. However, understanding this complex space proves to be challenging for human observers. In this paper, we propose a novel approach that interprets deep face recognition models via facial attributes. To achieve this, we introduce a two-stage framework that recovers attributes from the deep face representations. This framework allows us to quantitatively measure the significance of facial attributes in relation to the recognition model. Moreover, this framework enables us to generate sample-specific explanations through counterfactual methodology. These explanations are not only understandable but also quantitative. Through the proposed approach, we are able to acquire a deeper understanding of how the recognition model conceptualizes the notion of “identity” and understand the reasons behind the error decisions made by the deep models. By utilizing attributes as an interpretable interface, the proposed method marks a paradigm shift in our comprehension of deep face recognition models. It allows a complex model, obtained through gradient backpropagation, to effectively “communicate” with humans. The source code is available here, or you can visit this website: &lt;a href=&#34;https://github.com/RenMin1991/Facial-Attribute-Recovery&#34;&gt;https://github.com/RenMin1991/Facial-Attribute-Recovery&lt;/a&gt; .&lt;/p&gt;
 </description>
     </item>
     
@@ -57,12 +55,10 @@
 &lt;p&gt;Min Ren, Yunlong Wang, Yuhao Zhu, Yongzhen Huang, Zhenan Sun, Qi Li, Tieniu Tan. Artificial Immune System of Secure Face Recognition Against Adversarial Attacks. International Journal of Computer Vision&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://arxiv.org/pdf/2406.18144&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/pdf/2406.18144&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.18144&#34;&gt;https://arxiv.org/pdf/2406.18144&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;ijcv-2024&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2403/IJCV-2024-pic1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Deep learning-based face recognition models are vulnerable to adversarial attacks.In contrast to general noises, the presence of imperceptible adversarial noises can lead to catastrophic errors in deep face recognition models. The primary difference between adversarial noise and general noise lies in its specificity. Adversarial attack methods give rise to noises tailored to the characteristics of the individual image and recognition model at hand. Diverse samples and recognition models can engender specific adversarial noise patterns, which pose significant challenges for adversarial defense. Addressing this challenge in the realm of face recognition presents a more formidable endeavor due to the inherent nature of face recognition as an open set task. In order to tackle this challenge, it is imperative to employ customized processing for each individual input sample. Drawing inspiration from the biological immune system, which can identify and respond to various threats, this paper aims to create an artificial immune system (AIS) to provide adversarial defense for face recognition. The proposed defense model incorporates the principles of antibody cloning, mutation, selection, and memory mechanisms to generate a distinct “antibody” for each input sample, where in the term “antibody” refers to a specialized noise removal manner. Furthermore,we introduce a self-supervised adversarial training mechanism that serves as a simulated rehearsal of immune system invasions. Extensive experimental results demonstrate the efficacy of the proposed method, surpassing state-of-the-art adversarial defense methods. The source code is available here, or you can visit this website: 
-&lt;a href=&#34;https://github.com/RenMin1991/SIDE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/RenMin1991/SIDE&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ijcv-2024-pic1.png&#34; alt=&#34;ijcv-2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Deep learning-based face recognition models are vulnerable to adversarial attacks.In contrast to general noises, the presence of imperceptible adversarial noises can lead to catastrophic errors in deep face recognition models. The primary difference between adversarial noise and general noise lies in its specificity. Adversarial attack methods give rise to noises tailored to the characteristics of the individual image and recognition model at hand. Diverse samples and recognition models can engender specific adversarial noise patterns, which pose significant challenges for adversarial defense. Addressing this challenge in the realm of face recognition presents a more formidable endeavor due to the inherent nature of face recognition as an open set task. In order to tackle this challenge, it is imperative to employ customized processing for each individual input sample. Drawing inspiration from the biological immune system, which can identify and respond to various threats, this paper aims to create an artificial immune system (AIS) to provide adversarial defense for face recognition. The proposed defense model incorporates the principles of antibody cloning, mutation, selection, and memory mechanisms to generate a distinct “antibody” for each input sample, where in the term “antibody” refers to a specialized noise removal manner. Furthermore,we introduce a self-supervised adversarial training mechanism that serves as a simulated rehearsal of immune system invasions. Extensive experimental results demonstrate the efficacy of the proposed method, surpassing state-of-the-art adversarial defense methods. The source code is available here, or you can visit this website: &lt;a href=&#34;https://github.com/RenMin1991/SIDE&#34;&gt;https://github.com/RenMin1991/SIDE&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -90,26 +86,23 @@
       <description>&lt;h2 id=&#34;1-boosting-multi-modal-ocular-recognition-via-spatial-feature-reconstruction-and-unsupervised-image-quality-estimation&#34;&gt;1. Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Zihui Yan, Lingxiao He, Yunlong Wang, Kunbo Zhang, Zhenan Sun, Tieniu Tan. &amp;ldquo;Boosting multi-modal ocular recognition via spatial feature reconstruction and unsupervised image quality estimation&amp;rdquo;. Machine Intelligence Research (Volume: 21).&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1007/s11633-023-1415-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11633-023-1415-y&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1007/s11633-023-1415-y&#34;&gt;https://doi.org/10.1007/s11633-023-1415-y&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-24/MIR-2024-01-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;MIR-2024-01-pic1.png&#34; alt=&#34;MIR-2024-01&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the daily application of an iris-recognition-at-a-distance (IAAD) system, many ocular images of low quality are acquired. As the iris part of these images is often not qualified for the recognition requirements, the more accessible periocular regions are a good complement for recognition. To further boost the performance of IAAD systems, a novel end-to-end framework for multi-modal ocular recognition is proposed. The proposed framework mainly consists of iris/periocular feature extraction and matching, unsupervised iris quality assessment, and a score-level adaptive weighted fusion strategy. First, ocular feature reconstruction (OFR) is proposed to sparsely reconstruct each probe image by high-quality gallery images based on proper feature maps. Next, a brand new unsupervised iris quality assessment method based on random multiscale embedding robustness is proposed. Different from the existing iris quality assessment methods, the quality of an iris image is measured by its robustness in the embedding space. At last, the fusion strategy exploits the iris quality score as the fusion weight to coalesce the complementary information from the iris and periocular regions. Extensive experimental results on ocular datasets prove that the proposed method is obviously better than unimodal biometrics, and the fusion strategy can significantly improve the recognition performance.&lt;/p&gt;
 &lt;h2 id=&#34;2-casia-iris-africa-a-large-scale-african-iris-image-database&#34;&gt;2. CASIA-Iris-Africa: A Large-scale African Iris Image Database&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Jawad Muhammad, Yunlong Wang, Junxing Hu, Kunbo Zhang, Zhenan Sun. &amp;ldquo;CASIA-Iris-Africa: A Large-scale African Iris Image Database&amp;rdquo;. Machine Intelligence Research (Volume: 21).&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1007/s11633-022-1402-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11633-022-1402-8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1007/s11633-022-1402-8&#34;&gt;https://doi.org/10.1007/s11633-022-1402-8&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;MIR-2024-01&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-24/MIR-2024-01-pic2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;MIR-2024-01-pic2.png&#34; alt=&#34;MIR-2024-01&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Iris biometrics is a phenotypic biometric trait that has proven to be agnostic to human natural physiological changes. Research on iris biometrics has progressed tremendously, partly due to publicly available iris databases. Various databases have been available to researchers that address pressing iris biometric challenges such as constraint, mobile, multispectral, synthetics, long-distance, contact lenses, liveness detection, etc. However, these databases mostly contain subjects of Caucasian and Asian docents with very few Africans. Despite many investigative studies on racial bias in face biometrics, very few studies on iris biometrics have been published, mainly due to the lack of racially diverse large-scale databases containing sufficient iris samples of Africans in the public domain. Furthermore, most of these databases contain a relatively small number of subjects and labelled images. This paper proposes a large-scale African database named Chinese Academy of Sciences Institute of Automation (CASIA)-Iris-Africa that can be used as a complementary database for the iris recognition community to mediate the effect of racial biases on Africans. The database contains 28 717 images of 1 023 African subjects (2 046 iris classes) with age, gender, and ethnicity attributes that can be useful in demographically sensitive studies of Africans. Sets of specific application protocols are incorporated with the database to ensure the database’s variability and scalability. Performance results of some open-source state-of-the-art (SOTA) algorithms on the database are presented, which will serve as baseline performances. The relatively poor performances of the baseline algorithms on the proposed database despite better performance on other databases prove that racial biases exist in these iris recognition algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;3-multi-faceted-knowledge-driven-graph-neural-network-for-iris-segmentation&#34;&gt;3. Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Jianze Wei, Yunlong Wang, Xingyu Gao, Ran He, Zhenan Sun. &amp;ldquo;Multi-Faceted Knowledge-Driven Graph Neural Network for Iris Segmentation&amp;rdquo;. IEEE Transactions on Information Forensics and Security ( Volume: 19).&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://doi.org/10.1109/TIFS.2024.3407508&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1109/TIFS.2024.3407508&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1109/TIFS.2024.3407508&#34;&gt;https://doi.org/10.1109/TIFS.2024.3407508&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;TIFS-2024-06&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-24/TIFS-2024-06-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;TIFS-2024-06-pic1.png&#34; alt=&#34;TIFS-2024-06&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Accurate iris segmentation, especially around the iris inner and outer boundaries, is still a formidable challenge. Pixels within these areas are difficult to semantically distinguish since they have similar visual characteristics and close spatial positions. To tackle this problem, the paper proposes an iris segmentation graph neural network (ISeGraph) for accurate segmentation. ISeGraph regards individual pixels as nodes within the graph and constructs self-adaptive edges according to multi-faceted knowledge, including visual similarity, positional correlation, and semantic consistency for feature aggregation. Specifically, visual similarity strengthens the connections between nodes sharing similar visual characteristics, while positional correlation assigns weights according to the spatial distance between nodes. In contrast to the above knowledge, semantic consistency maps nodes into a semantic space and learns pseudo-labels to define relationships based on label consistency. ISeGraph leverages multi-faceted knowledge to generate self-adaptive relationships for accurate iris segmentation. Furthermore, a pixel-wise adaptive normalization module is developed to increase the feature discriminability. It takes informative features in the shallow layer as a reference to improve the segmentation features from a statistical perspective. Experimental results on three iris datasets illustrate that the proposed method achieves superior performance in iris segmentation, increasing the segmentation accuracy in areas near the iris boundaries.&lt;/p&gt;
 </description>
     </item>
@@ -130,10 +123,9 @@
       <description>&lt;h2 id=&#34;1-open-vocabulary-text-driven-human-image-generation&#34;&gt;1. Open-Vocabulary Text-Driven Human Image Generation&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Kaiduo Zhang, Muyi Sun, Jianxin Sun, Kunbo Zhang, Zhenan Sun, Tieniu Tan. &amp;ldquo;Open-Vocabulary Text-Driven Human Image Generation&amp;rdquo;. 2024 International Journal of Computer Vision.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://link.springer.com/article/10.1007/s11263-024-02079-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://link.springer.com/article/10.1007/s11263-024-02079-7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s11263-024-02079-7&#34;&gt;https://link.springer.com/article/10.1007/s11263-024-02079-7&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;IJCV-2024-05&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2401/IJCV-2024-05-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;IJCV-2024-05-pic1.png&#34; alt=&#34;IJCV-2024-05&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Generating human images from open-vocabulary text descriptions is an exciting but challenging task. Previous methods (i.e., Text2Human) face two challenging problems: (1) they cannot well handle the open-vocabulary setting by arbitrary text inputs (i.e., unseen clothing appearances) and heavily rely on limited preset words (i.e., pattern styles of clothing appearances); (2) the generated human image is inaccuracy in open-vocabulary settings. To alleviate these drawbacks, we propose a flexible diffusion-based framework, namely HumanDiffusion, for open-vocabulary text-driven human image generation (HIG). The proposed framework mainly consists of two novel modules: the Stylized Memory Retrieval (SMR) module and the Multi-scale Feature Mapping (MFM) module. Encoded by the vision-language pretrained CLIP model, we obtain coarse features of the local human appearance. Then, the SMR module utilizes an external database that contains clothing texture details to refine the initial coarse features. Through SMR refreshing, we can achieve the HIG task with arbitrary text inputs, and the range of expression styles is greatly expanded. Later, the MFM module embedding in the diffusion backbone can learn fine-grained appearance features, which effectively achieves precise semantic-coherence alignment of different body parts with appearance features and realizes the accurate expression of desired human appearance. The seamless combination of the proposed novel modules in HumanDiffusion realizes the freestyle and high accuracy of text-guided HIG and editing tasks. Extensive experiments demonstrate that the proposed method can achieve state-of-the-art (SOTA) performance, especially in the open-vocabulary setting.&lt;/p&gt;
 </description>
     </item>
@@ -170,12 +162,10 @@
       <description>&lt;h2 id=&#34;1-learning-explicit-contact-for-implicit-reconstruction-of-hand-held-objects-from-monocular-images&#34;&gt;1. Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Junxing Hu,Hongwen Zhang,Zerui Chen,Mengcheng Li,Yunlong Wang,Yebin Liu,Zhenan Sun. Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images. The Association for the Advancement of Artificial Intelligence.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://arxiv.org/abs/2305.20089&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/abs/2305.20089&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2305.20089&#34;&gt;https://arxiv.org/abs/2305.20089&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;AAAI-2024&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2402/AAAI-2024-pic1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Reconstructing hand-held objects from monocular RGB images is an appealing yet challenging task. In this task, contacts between hands and objects provide important cues for recovering the 3D geometry of the hand-held objects. Though recent works have employed implicit functions to achieve impressive progress, they ignore formulating contacts in their frameworks, which results in producing less realistic object meshes. In this work, we explore how to model contacts in an explicit way to benefit the implicit reconstruction of hand-held objects. Our method consists of two components: explicit contact prediction and implicit shape reconstruction. In the first part, we propose a new subtask of directly estimating 3D hand-object contacts from a single image. The part-level and vertex-level graph-based transformers are cascaded and jointly learned in a coarse-to-fine manner for more accurate contact probabilities. In the second part, we introduce a novel method to diffuse estimated contact states from the hand mesh surface to nearby 3D space and leverage diffused contact probabilities to construct the implicit neural representation for the manipulated object. Benefiting from estimating the interaction patterns between the hand and the object, our method can reconstruct more realistic object meshes, especially for object parts that are in contact with hands. Extensive experiments on challenging benchmarks show that the proposed method outperforms the current state of the arts by a great margin. Our code is publicly available at 
-&lt;a href=&#34;https://junxinghu.github.io/projects/hoi.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://junxinghu.github.io/projects/hoi.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;AAAI-2024-pic1.png&#34; alt=&#34;AAAI-2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Reconstructing hand-held objects from monocular RGB images is an appealing yet challenging task. In this task, contacts between hands and objects provide important cues for recovering the 3D geometry of the hand-held objects. Though recent works have employed implicit functions to achieve impressive progress, they ignore formulating contacts in their frameworks, which results in producing less realistic object meshes. In this work, we explore how to model contacts in an explicit way to benefit the implicit reconstruction of hand-held objects. Our method consists of two components: explicit contact prediction and implicit shape reconstruction. In the first part, we propose a new subtask of directly estimating 3D hand-object contacts from a single image. The part-level and vertex-level graph-based transformers are cascaded and jointly learned in a coarse-to-fine manner for more accurate contact probabilities. In the second part, we introduce a novel method to diffuse estimated contact states from the hand mesh surface to nearby 3D space and leverage diffused contact probabilities to construct the implicit neural representation for the manipulated object. Benefiting from estimating the interaction patterns between the hand and the object, our method can reconstruct more realistic object meshes, especially for object parts that are in contact with hands. Extensive experiments on challenging benchmarks show that the proposed method outperforms the current state of the arts by a great margin. Our code is publicly available at &lt;a href=&#34;https://junxinghu.github.io/projects/hoi.html&#34;&gt;https://junxinghu.github.io/projects/hoi.html&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -202,12 +192,10 @@
       <guid>https://nlpr-sir.github.io/post/recent-published-papers-2301/</guid>
       <description>&lt;h2 id=&#34;1-sclera-transfuse-fusing-swin-transformer-and-cnn-for-accurate-sclera-segmentation&#34;&gt;1. Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation&lt;/h2&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Li Haiqing, Wang Caiyong, Zhao Guangzhe, He Zhaofeng, Wang Yunlong,Zhenan Sun. Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation. seventh International Joint Conference on Biometrics (IJCB), 2023. 
-&lt;a href=&#34;https://ijcb2023.ieee-biometrics.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ijcb2023.ieee-biometrics.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Li Haiqing, Wang Caiyong, Zhao Guangzhe, He Zhaofeng, Wang Yunlong,Zhenan Sun. Sclera-TransFuse: Fusing Swin Transformer and CNN for Accurate Sclera Segmentation. seventh International Joint Conference on Biometrics (IJCB), 2023. &lt;a href=&#34;https://ijcb2023.ieee-biometrics.org/&#34;&gt;https://ijcb2023.ieee-biometrics.org/&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;IJCB 2023&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2301/IJCB2023-pic1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Sclera segmentation is a crucial step in sclera recognition, which has been greatly advanced by Convolutional Neural Networks (CNNs). However, when dealing with non-ideal eye images, many existing CNN-based approaches are still prone to failure. One major reason is that due to the limited range of receptive fields, CNNs are difficult to effectively model global semantic relevance and thus robustly resist noise interference. To solve this problem, this paper proposes a novel two-stream hybrid model, named Sclera-TransFuse, to integrate classical ResNet-34 and recently emerging Swin Transformer encoders. Specially, the self-attentive Swin Transformer has shown a strong ability in capturing long-range spatial dependencies and has a hierarchical structure similar to CNNs. The dual encoders firstly extract coarse- and fine-grained feature representations at hierarchical stages, separately. Then a novel Cross-Domain Fusion (CDF) module based on information interaction and self-attention mechanism is introduced to efficiently fuse the multi-scale features extracted from dual encoders. Finally, the fused features are progressively upsampled and aggregated to predict the sclera masks in the decoder meanwhile deep supervision strategies are employed to learn intermediate feature representations better and faster. Experimental results show that Sclera-TransFuse achieves state-of-the-art performance on various sclera segmentation benchmarks. Additionally, a UBIRIS.v2 subset of 683 eye images with manually labeled sclera masks, and our codes are publicly available to the community through 
-&lt;a href=&#34;https://github.com/Ihqqq/Sclera-TransFuse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Ihqqq/Sclera-TransFuse&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;IJCB2023-pic1.png&#34; alt=&#34;IJCB 2023&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Sclera segmentation is a crucial step in sclera recognition, which has been greatly advanced by Convolutional Neural Networks (CNNs). However, when dealing with non-ideal eye images, many existing CNN-based approaches are still prone to failure. One major reason is that due to the limited range of receptive fields, CNNs are difficult to effectively model global semantic relevance and thus robustly resist noise interference. To solve this problem, this paper proposes a novel two-stream hybrid model, named Sclera-TransFuse, to integrate classical ResNet-34 and recently emerging Swin Transformer encoders. Specially, the self-attentive Swin Transformer has shown a strong ability in capturing long-range spatial dependencies and has a hierarchical structure similar to CNNs. The dual encoders firstly extract coarse- and fine-grained feature representations at hierarchical stages, separately. Then a novel Cross-Domain Fusion (CDF) module based on information interaction and self-attention mechanism is introduced to efficiently fuse the multi-scale features extracted from dual encoders. Finally, the fused features are progressively upsampled and aggregated to predict the sclera masks in the decoder meanwhile deep supervision strategies are employed to learn intermediate feature representations better and faster. Experimental results show that Sclera-TransFuse achieves state-of-the-art performance on various sclera segmentation benchmarks. Additionally, a UBIRIS.v2 subset of 683 eye images with manually labeled sclera masks, and our codes are publicly available to the community through &lt;a href=&#34;https://github.com/Ihqqq/Sclera-TransFuse&#34;&gt;https://github.com/Ihqqq/Sclera-TransFuse&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -235,20 +223,17 @@
       <description>&lt;h2 id=&#34;1-multiscale-dynamic-graph-representation-for-biometric-recognition-with-occlusions&#34;&gt;1. Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Min Ren, Yunlong Wang, Yuhao Zhu, Kunbo Zhang, Zhenan Sun. &amp;ldquo;Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions&amp;rdquo;. IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) (Volume: 45)&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://doi.org/10.1109/TPAMI.2023.3298836&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1109/TPAMI.2023.3298836&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://doi.org/10.1109/TPAMI.2023.3298836&#34;&gt;http://doi.org/10.1109/TPAMI.2023.3298836&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;TPAMI-2023-07&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-23/TPAMI-2023-07-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;TPAMI-2023-07-pic1.png&#34; alt=&#34;TPAMI-2023-07&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Occlusion is a common problem with biometric recognition in the wild. The generalization ability of CNNs greatly decreases due to the adverse effects of various occlusions. To this end, we propose a novel unified framework integrating the merits of both CNNs and graph models to overcome occlusion problems in biometric recognition, called multiscale dynamic graph representation (MS-DGR). More specifically, a group of deep features reflected on certain subregions is recrafted into a feature graph (FG). Each node inside the FG is deemed to characterize a specific local region of the input sample, and the edges imply the co-occurrence of non-occluded regions. By analyzing the similarities of the node representations and measuring the topological structures stored in the adjacent matrix, the proposed framework leverages dynamic graph matching to judiciously discard the nodes corresponding to the occluded parts. The multiscale strategy is further incorporated to attain more diverse nodes representing regions of various sizes. Furthermore, the proposed framework exhibits a more illustrative and reasonable inference by showing the paired nodes. Extensive experiments demonstrate the superiority of the proposed framework, which boosts the accuracy in both natural and occlusion-simulated cases by a large margin compared with that of baseline methods.&lt;/p&gt;
 &lt;h2 id=&#34;2-iris-guidenet-guided-localisation-and-segmentation-network-for-unconstrained-iris-biometrics&#34;&gt;2. Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Jawad Muhammad, Caiyong Wang, Yunlong Wang, Kunbo Zhang, Zhenan Sun. &amp;ldquo;Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics&amp;rdquo;. IEEE Transactions on Information Forensics and Security(Volume:18).&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://doi.org/10.1109/TIFS.2023.3268504&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1109/TIFS.2023.3268504&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://doi.org/10.1109/TIFS.2023.3268504&#34;&gt;http://doi.org/10.1109/TIFS.2023.3268504&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;TIFS-2023-04&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-23/TIFS-2023-04-pic1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;In recent years, unconstrained iris biometrics has become more prevalent due to its wide range of user applications. However, it also presents numerous challenges to the Iris pre-processing task of Localization and Segmentation (ILS). Many ILS techniques have been proposed to address these challenges, among which the most effective is the CNN-based methods. Training the CNN is data-intensive, and most of the existing CNN-based ILS approaches do not incorporate iris-specific features that can reduce their data dependence, despite the limited labelled iris data in the available databases. These trained CNN models built upon these databases can be sub-optimal. Hence, this paper proposes a guided CNN-based ILS approach IrisGuideNet. IrisGuideNet involves incorporating novel iris-specific heuristics named Iris Regularization Term (IRT), deep supervision technique, and hybrid loss functions in the training pipeline, which guides the network and reduces the model data dependence. A novel Iris Infusion Module (IIM) that utilizes the geometrical relationships between the ILS outputs to refine the predicted outputs is introduced at network inference. The proposed model is trained and evaluated with various datasets. Experimental results show that IrisGuideNet has outperformed most models across all the database categories. The codes implementation of the proposed IrisGuideNet will be available at: 
-&lt;a href=&#34;https://github.com/mohdjawadi/IrisGuidenet&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/mohdjawadi/IrisGuidenet&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;TIFS-2023-04-pic1.png&#34; alt=&#34;TIFS-2023-04&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In recent years, unconstrained iris biometrics has become more prevalent due to its wide range of user applications. However, it also presents numerous challenges to the Iris pre-processing task of Localization and Segmentation (ILS). Many ILS techniques have been proposed to address these challenges, among which the most effective is the CNN-based methods. Training the CNN is data-intensive, and most of the existing CNN-based ILS approaches do not incorporate iris-specific features that can reduce their data dependence, despite the limited labelled iris data in the available databases. These trained CNN models built upon these databases can be sub-optimal. Hence, this paper proposes a guided CNN-based ILS approach IrisGuideNet. IrisGuideNet involves incorporating novel iris-specific heuristics named Iris Regularization Term (IRT), deep supervision technique, and hybrid loss functions in the training pipeline, which guides the network and reduces the model data dependence. A novel Iris Infusion Module (IIM) that utilizes the geometrical relationships between the ILS outputs to refine the predicted outputs is introduced at network inference. The proposed model is trained and evaluated with various datasets. Experimental results show that IrisGuideNet has outperformed most models across all the database categories. The codes implementation of the proposed IrisGuideNet will be available at: &lt;a href=&#34;https://github.com/mohdjawadi/IrisGuidenet&#34;&gt;https://github.com/mohdjawadi/IrisGuidenet&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -269,7 +254,7 @@
 &lt;p&gt;Various forms of iris databases had been published that address some specific research problems and are made available to the biometrics research community such as: constraint databases; mobile iris; multispectral; synthetics; iris at a distance; contact lenses; liveness detection; Aging, etc. However, even though these databases have addressed many of the problems mentioned above, most of them contain subjects of primarily Caucasian and Asian docents with very few Africans and many times zero Africans. It is particularly challenging as this has created a research blind spot for African cohorts in these databases. Despite many of the reported investigative studies on racial bias in face biometrics, very few iris racial bias-related studies have been published, which can be due to the insufficient number of other races databases such as the Africans. Recently, face recognition algorithms have been reported to be biased toward specific demographics. Most prominently, many investigative studies have reported higher false-positive rates in African subject cohorts than in other cohorts. Due to the unavailability of the required quantity of African cohorts in the publicly available iris databases, similar studies would be difficult to replicate on iris biometrics. We presents a mainly African dataset that can be useful in addressing some of these challenges.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;The iris images were captured in Nigeria, Africa. The capturing exercise was conducted across various locations in multiple sessions over three months. Due to logistical constraints, the capturing exercise was limited to the northern part of Nigeria. Each subject volunteer was asked to sign a consent form authorizing the data to be used for only research purposes. The iris sensor device for capturing the images is the IKUSBE30 iris sensor from IrisKing. The setup for the capturing exercise is shown in Fig. 1. Each volunteer was asked to hold the device, standing or sitting, based on their preference. As such, the iris images were captured at various degrees of head postures.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/1.png&#34; title=&#34;Iris Capturing set-ups (indoor and outdoor)&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/1.png&#34; alt=&#34;Figure 1&#34; title=&#34;Iris Capturing set-ups (indoor and outdoor)&#34;&gt;
 Fig. 1: Iris Capturing set-ups (indoor and outdoor)&lt;/p&gt;
 &lt;p&gt;The procedure for image capturing is in two steps:&lt;/p&gt;
 &lt;ul&gt;
@@ -284,16 +269,16 @@ Fig. 1: Iris Capturing set-ups (indoor and outdoor)&lt;/p&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/2.png&#34; title=&#34;Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/2.png&#34; alt=&#34;Figure 2&#34; title=&#34;Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&#34;&gt;
 Fig. 2: Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)&lt;/p&gt;
 &lt;p&gt;After the capturing sessions, the stored images were processed. The processing steps comprise automatic image selection to discard images with duplicate content, followed by manual image selection that guarantees the selected images&amp;rsquo; reliability. In the automatic selection, all the images from a single eye of one subject were organized into a matrix, with each column representing an image. The images of the subject&amp;rsquo;s eyes were then processed, and duplicates were removed using this procedure. The remaining images were then manually processed. The manual selection involves one-by-one human inspection of each image to identify damaged images and those images with no irises captured in them. Some sample images of one subject from the generated dataset are shown in Fig. 3, the labelled sampled images in Fig. 4, the summary of the database is presented in Table 1 and the database subjects&amp;rsquo; age distribution is shown in Fig. 5.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/3.png&#34; title=&#34;Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/3.png&#34; alt=&#34;Figure 3&#34; title=&#34;Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
 Fig. 3: Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/4.png&#34; title=&#34;Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/4.png&#34; alt=&#34;Figure 4&#34; title=&#34;Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&#34;&gt;
 Fig. 4: Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)&lt;/p&gt;
 &lt;p&gt;Tab. 1: Summary of the generated database
-&lt;img alt=&#34;Figure 5&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/table.png&#34; title=&#34;Summary of the generated database&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 6&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-africa/figures/5.png&#34; title=&#34;Age distribution of the generated database&#34;&gt;
+&lt;img src=&#34;figures/table.png&#34; alt=&#34;Figure 5&#34; title=&#34;Summary of the generated database&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;figures/5.png&#34; alt=&#34;Figure 6&#34; title=&#34;Age distribution of the generated database&#34;&gt;
 Fig. 5: Age distribution of the generated database&lt;/p&gt;
 &lt;h2 id=&#34;database-organization&#34;&gt;Database Organization&lt;/h2&gt;
 &lt;p&gt;The database package comprises of the following components organised in multiple directories:&lt;/p&gt;
@@ -332,7 +317,7 @@ Fig. 5: Age distribution of the generated database&lt;/p&gt;
       <link>https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/</link>
       <pubDate>Mon, 16 Jan 2023 16:12:05 +0800</pubDate>
       <guid>https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;1.png&#34; alt=&#34;Figure 1&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -344,10 +329,9 @@ Fig. 5: Age distribution of the generated database&lt;/p&gt;
       <description>&lt;h2 id=&#34;1-aif-lfnet-all-in-focus-light-field-super-resolution-method-considering-the-depth-varying-defocus&#34;&gt;1. AIF-LFNet: All-in-Focus Light Field Super-Resolution Method Considering the Depth-Varying Defocus&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Shubo Zhou, Liang Hu, Yunlong Wang, Zhenan Sun, Kunbo Zhang, Xue-qin Jiang. &amp;ldquo;AIF-LFNet: All-in-Focus Light Field Super-Resolution Method Considering the Depth-Varying Defocus&amp;rdquo;. Transactions on Circuits and Systems for Video Technology&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=10018388&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=10018388&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=10018388&#34;&gt;https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;amp;arnumber=10018388&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;TCSVT-2023&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2302/TCSVT-2023-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;TCSVT-2023-pic1.png&#34; alt=&#34;TCSVT-2023&#34;&gt;&lt;/p&gt;
 &lt;p&gt;As an aperture-divided computational imaging system, microlens array (MLA) -based light field (LF) imaging is playing an increasingly important role in computer vision. As the trade-off between the spatial and angular resolutions, deep learning (DL) -based image super-resolution (SR) methods have been applied to enhance the spatial resolution. However, in existing DL-based methods, the depth-varying defocus is not considered both in dataset development and algorithm design, which restricts many applications such as depth estimation and object recognition. To overcome this shortcoming, a super-resolution task that reconstructs all-in-focus high-resolution (HR) LF images from low-resolution (LR) LF images is proposed by designing a large dataset and proposing a convolutional neural network (CNN) -based SR method. The dataset is constructed by using Blender software, consisting of 150 light field images used as training data, and 15 light field images used as validation and testing data. The proposed network is designed by proposing the dilated deformable convolutional network (DCN) -based feature extraction block and the LF subaperture image (SAI) Deblur-SR block. The experimental results demonstrate that the proposed method achieves more appealing results both quantitatively and qualitatively.&lt;/p&gt;
 </description>
     </item>
@@ -402,19 +386,18 @@ Fig. 5: Age distribution of the generated database&lt;/p&gt;
 &lt;h2 id=&#34;setup-of-dataset-collection&#34;&gt;Setup of dataset collection&lt;/h2&gt;
 &lt;p&gt;The hardware system used to collect this dataset is shown in Fig.1, consists of a Lucid Phoenix PHX050S-P polarized camera equipped with Sony’s polarization sensor and a Mindvision MVGE501GC-T RGB camera.&lt;/p&gt;
 &lt;p&gt;Types of spoofing attacks include printed paper, printed glossy photographs, electronic displays, silicone masks, rubber masks, and customized silicone prosthetic heads. High-quality face samples are first captured by the MVGE501GC-T RGB camera and these high-quality samples are then printed on paper and photographs or displayed on a computer screen to produce artifacts. At the same time, both genuine and spoofing attack face samples were captured when the subjects and presentation attack were standing at or be placed at six distances, i.e. 1m, 1.5m, 2m, 3m, 4m, and 5m.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-polar/figures/1_1.png&#34;&gt;
-&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-polar/figures/1_2.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/1_1.png&#34; alt=&#34;Figure 1&#34; title=&#34;&#34;&gt;
+&lt;img src=&#34;figures/1_2.png&#34; alt=&#34;Figure 2&#34; title=&#34;Setup of dataset collection.&#34;&gt;
 Fig. 1: Setup of dataset collection&lt;/p&gt;
 &lt;p&gt;The types of presentation attacks include printed papers, printed glossy photos, and electronic displays. The high-quality iris samples were first captured by IKUSB-E30, and then these high-quality samples were printed on papers and photos, or displayed on the screen of iPad mini 4 to generate the artefacts. The main lens of the lab-produced LF camera was tuned to be in focus at a position of 1.6 meters. Simultaneously, both bona fide and presentation attack iris samples were captured when the subjects and PAIs were standing at or be placed at three distances, i.e. 1.5 meters, 1.6 meters, 1.7 meters.&lt;/p&gt;
 &lt;h2 id=&#34;statistics-of-the-dataset&#34;&gt;Statistics of the Dataset&lt;/h2&gt;
 &lt;p&gt;The dataset includes 22,174 samples from 121 subjects. All subjects had visible light and polarized images taken. The genuine face has 14,698 samples, while the spoofing attack has about 7,476 samples.&lt;/p&gt;
 &lt;p&gt;Figure 2 shows an example of the face images collected in the dataset, with the first row being the visible image and the second row is the corresponding DoLP image.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-polar/figures/2.png&#34; title=&#34;The attacks present in CASIA-Polar&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/2.png&#34; alt=&#34;Figure 2&#34; title=&#34;The attacks present in CASIA-Polar&#34;&gt;
 Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
 &lt;h2 id=&#34;copyright-and-contacts&#34;&gt;Copyright and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the database are reserved.&lt;/p&gt;
-&lt;p&gt;E-mail: 
-&lt;a href=&#34;mailto:sir@cripac.ia.ac.cn&#34;&gt;sir@cripac.ia.ac.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;E-mail: &lt;a href=&#34;mailto:sir@cripac.ia.ac.cn&#34;&gt;sir@cripac.ia.ac.cn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -440,13 +423,12 @@ Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://nlpr-sir.github.io/post/recent-published-papers-2207/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;Zhengquan Luo, Yunlong Wang*, Zilei Wang, Zhenan Sun, Tieniu Tan. Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring. Thirty-ninth International Conference on Machine Learning (ICML), 2022. 
-&lt;a href=&#34;https://icml.cc/Conferences/2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://icml.cc/Conferences/2022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Zhengquan Luo, Yunlong Wang*, Zilei Wang, Zhenan Sun, Tieniu Tan. Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring. Thirty-ninth International Conference on Machine Learning (ICML), 2022. &lt;a href=&#34;https://icml.cc/Conferences/2022&#34;&gt;https://icml.cc/Conferences/2022&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Attributes skew hinders the current federated learning (FL) frameworks from consistent optimization directions among the clients, which inevitably leads to performance reduction and unstable convergence. The core problems lie in that: 1) Domain-specific attributes, which are non-causal and only locally valid, are indeliberately mixed into global aggregation. 2) The one-stage optimizations of entangled attributes cannot simultaneously satisfy two conflicting objectives, i.e., generalization and personalization. To cope with these, we proposed disentangled federated learning (DFL) to disentangle the domain-specific and cross-invariant attributes into two complementary branches, which are trained by the proposed alternating local-global optimization independently. Importantly, convergence analysis proves that the FL system can be stably converged even if incomplete client models participate in the global aggregation, which greatly expands the application scope of FL. Extensive experiments verify that DFL facilitates FL with higher performance, better interpretability, and faster convergence rate, compared with SOTA FL methods on both manually synthesized and realistic attributes skew datasets.&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://mp.weixin.qq.com/s/xU_Rvbofvwveekq41SCpZA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;人工智能前沿讲习公众号：【源头活水】ICML 2022 | 共识表征提取和多样性传播的解构联邦学习框架&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;ICML2022&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2207/ICML2022-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ICML2022-pic1.png&#34; alt=&#34;ICML2022&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -485,20 +467,20 @@ Fig.2: The attacks present in CASIA-Polar&lt;/p&gt;
 &lt;p&gt;The dataset was captured using a 
 &lt;a href=&#34;http://cripac.ia.ac.cn/CN/column/item105.shtml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;lab-produced microlens based LF camera&lt;/a&gt; and a commercial device 
 &lt;a href=&#34;http://www.irisking.com/pron.php?id=523&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IKUSB-E30&lt;/a&gt; under near-infrared (NIR) illumination. The setup of dataset collection was shown in Fig.1.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/capture_setup.png&#34; title=&#34;Setup of dataset collection.&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/capture_setup.png&#34; alt=&#34;Figure 1&#34; title=&#34;Setup of dataset collection.&#34;&gt;
 Fig. 1: Setup of dataset collection&lt;/p&gt;
 &lt;p&gt;The types of presentation attacks include printed papers, printed glossy photos, and electronic displays. The high-quality iris samples were first captured by IKUSB-E30, and then these high-quality samples were printed on papers and photos, or displayed on the screen of iPad mini 4 to generate the artefacts. The main lens of the lab-produced LF camera was tuned to be in focus at a position of 1.6 meters. Simultaneously, both bona fide and presentation attack iris samples were captured when the subjects and PAIs were standing at or be placed at three distances, i.e. 1.5 meters, 1.6 meters, 1.7 meters.&lt;/p&gt;
 &lt;h2 id=&#34;statistics-of-the-dataset&#34;&gt;Statistics of the Dataset&lt;/h2&gt;
 &lt;p&gt;The dataset contains 504 samples from 14 subjects, consisting of 230 LF images of bona fide iris and 274 LF images of spoofing iris. The respective sample number of the PAIs, i.e. printed papers, printed photos, and electronic display are 18, 122, 134.&lt;/p&gt;
 &lt;p&gt;An example of raw LF image containing both eyes printed on photos is shown in Fig.2. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/lf_raw_sample.png&#34; title=&#34;An example of raw LF image containing both eyes printed on photos.&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/lf_raw_sample.png&#34; alt=&#34;Figure 2&#34; title=&#34;An example of raw LF image containing both eyes printed on photos.&#34;&gt;
 Fig.2: An example of raw LF image containing both eyes printed on photos. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.&lt;/p&gt;
 &lt;p&gt;The LF toolbox released by [2] was utilized to decode raw LF images into 4D LF data. The eye regions were cropped from the same location of each sub-aperture image (SAI). The spatial resolution of each SAI after cropping is $128 \times 96$, and the angular resolution is $7 \times 7$. Examples from the same subject&amp;rsquo;s right eye in the dataset are shown in Fig.3.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/dataset_samples.png&#34; title=&#34;Examples from the same subject&amp;#39;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;figures/dataset_samples.png&#34; alt=&#34;Figure 3&#34; title=&#34;Examples from the same subject&#39;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&#34;&gt;
 Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.&lt;/p&gt;
 &lt;p&gt;The rendered focal stack via digital refocusing has 145 slices around the best focus plane.&lt;/p&gt;
 &lt;p&gt;The details of the adopted database is listed in Table 1.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Table 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-lfld/figures/details.png&#34; title=&#34;Details of the adopted database&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;figures/details.png&#34; alt=&#34;Table 1&#34; title=&#34;Details of the adopted database&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;copyright-and-contacts&#34;&gt;Copyright and Contacts&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the  database are reserved.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, you can apply for it on our 
@@ -529,18 +511,16 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
       <description>&lt;h2 id=&#34;1-towards-interpretable-defense-against-adversarial-attacks-via-causal-inference&#34;&gt;1. Towards Interpretable Defense Against Adversarial Attacks via Causal Inference&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Min Ren, Yunlong Wang*, Zhaofeng He. Towards interpretable defense against adversarial attacks via causal inference. Machine Intelligence Research.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://doi.org/10.1007/s11633-022-1330-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.1007/s11633-022-1330-7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://doi.org/10.1007/s11633-022-1330-7&#34;&gt;http://doi.org/10.1007/s11633-022-1330-7&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;MIR-2022-05&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2204/MIR-2022-05-pic1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;MIR-2022-05-pic1.jpg&#34; alt=&#34;MIR-2022-05&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Deep learning-based models are vulnerable to adversarial attacks. Defense against adversarial attacks is essential for sensitive and safety-critical scenarios. However, deep learning methods still lack effective and efficient defense mechanisms against adversari-al attacks. Most of the existing methods are just stopgaps for specific adversarial samples. The main obstacle is that how adversarial samples fool the deep learning models is still unclear. The underlying working mechanism of adversarial samples has not been well explored, and it is the bottleneck of adversarial attack defense. In this paper, we build a causal model to interpret the generation and performance of adversarial samples. The self-attention/transformer is adopted as a powerful tool in this causal model. Compared to existing methods, causality enables us to analyze adversarial samples more naturally and intrinsically. Based on this causal model, the working mechanism of adversarial samples is revealed, and instructive analysis is provided. Then, we propose simple and effective adversarial sample detection and recognition methods according to the revealed working mechanism. The causal insights enable us to detect and recognize adversarial samples without any extra model or training. Extensive experiments are conducted to demonstrate the effectiveness of the proposed methods. Our methods outperform the state-of-the-art defense methods under various adversarial attacks.&lt;/p&gt;
 &lt;h2 id=&#34;2-fediris-towards-more-accurate-and-privacy-preserving-iris-recognition-via-federated-template-communication&#34;&gt;2. FedIris: Towards More Accurate and Privacy-preserving Iris Recognition via Federated Template Communication&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Zhengquan Luo, Yunlong Wang*, Zilei Wang, Zhenan Sun,Tieniu Tan. IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022, International Workshop on Federated Learning for Computer Vision.&lt;/p&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://sites.google.com/view/fedvision/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/fedvision/home?authuser=0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sites.google.com/view/fedvision/home?authuser=0&#34;&gt;https://sites.google.com/view/fedvision/home?authuser=0&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img alt=&#34;CVPRW-2022-05&#34; src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2204/CVPRW-2022-05-pic1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;CVPRW-2022-05-pic1.png&#34; alt=&#34;CVPRW-2022-05&#34;&gt;&lt;/p&gt;
 &lt;p&gt;As biometric data undergo rapidly growing privacy concerns, building large-scale datasets has become more difficult. Unfortunately, current iris databases are mostly in small scale, e.g., thousands of iris images from hundreds of identities. What&amp;rsquo;s worse, the heterogeneity among decentralized iris datasets hinders the current deep learning (DL) frameworks from obtaining recognition performance with robust generalization. It motivates us to leverage the merits of federated learning (FL) to solve these problems. However, traditional FL algorithms often employ model sharing for knowledge transfer, wherein the simple averaging aggregation lacks interpretability, and divergent optimization directions of clients lead to performance degradation. To overcome this interference, we propose FedIris with solid theoretical foundations, which attempts to employ the iris template as the communication carrier and formulate federated triplet (Fed-Triplet) for knowledge transfer. Furthermore, the massive heterogeneity among iris datasets may induce negative transfer and unstable optimization. The modified Wasserstein distance is embedded into the FedTriplet loss to reweight global aggregation, which drives the clients with similar data distributions to contribute more mutually. Extensive experimental results demonstrate that the proposed FedIris outperforms SOLO training, model-sharing-based FL training, and even centralized training.&lt;/p&gt;
 </description>
     </item>
@@ -559,7 +539,7 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://nlpr-sir.github.io/post/recent-published-papers-2203/</guid>
       <description>&lt;h2 id=&#34;towards-more-discriminative-and-robust-iris-recognition-by-learning-uncertain-factors&#34;&gt;Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://nlpr-sir.github.io/post/recent-published-papers-2203/uncertainty.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;uncertainty.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Jianze Wei, Huaibo Huang, Yunlong Wang, Ran He and Zhenan Sun, &amp;ldquo;Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors,&amp;rdquo; in IEEE Transactions on Information Forensics and Security, doi: 10.1109/TIFS.2022.3154240.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -628,8 +608,7 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
 &lt;p&gt;&lt;strong&gt;Sun Z N, He R, Wang L, Kan M N, Feng J J, Zheng F, Zheng W S, Zuo W M, Kang W X, Deng W H, Zhang J, Han H, Shan SG, Wang Y L, Ru Y W, Zhu Y H, Liu Y F and He Y. 2021. Overview of biometrics research. Journal of Image and Graphics,26(06):1254-1329.&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Luo Z., Li H., Wang Y., Wang Z., Sun Z. (2021) Iris Normalization Beyond Appr-Circular Parameter Estimation. In: Feng J., Zhang J., Liu M., Fang Y. (eds) Biometric Recognition. CCBR 2021. Lecture Notes in Computer Science, vol 12878. Springer, Cham. 
-&lt;a href=&#34;https://doi.org/10.1007/978-3-030-86608-2_35&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/978-3-030-86608-2_35&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Luo Z., Li H., Wang Y., Wang Z., Sun Z. (2021) Iris Normalization Beyond Appr-Circular Parameter Estimation. In: Feng J., Zhang J., Liu M., Fang Y. (eds) Biometric Recognition. CCBR 2021. Lecture Notes in Computer Science, vol 12878. Springer, Cham. &lt;a href=&#34;https://doi.org/10.1007/978-3-030-86608-2_35&#34;&gt;https://doi.org/10.1007/978-3-030-86608-2_35&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -700,13 +679,13 @@ Fig. 3: Examples from the same subject&amp;rsquo;s right eye in the dataset. (a)
 &lt;p&gt;Since the outbreak of the COVID-19 pandemic, iris recognition has been used increasingly as contactless and unaffected by face masks. Although less user cooperation is an urgent demand for existing systems, corresponding manually annotated databases could hardly be obtained. This work presents a large-scale database of near-infrared iris images named CASIA-Iris-Degradation Version 1.0 (DV1), which consists of 15 subsets of various degraded images, simulating less cooperative situations such as illumination, off-angle, occlusion, and nonideal eye state. A lot of open-source segmentation and recognition methods are compared comprehensively on the DV1 using multiple evaluations, and the best among them are exploited to conduct ablation studies on each subset. Experimental results show that even the best deep learning frameworks are not robust enough on the database, and further improvements are recommended for challenging factors such as half-open eyes, off-angle, and pupil dilation. Therefore, we publish the DV1 with manual annotations online to promote iris recognition.&lt;/p&gt;
 &lt;h2 id=&#34;description-of-casia-iris-degradation&#34;&gt;Description of CASIA-Iris-Degradation&lt;/h2&gt;
 &lt;p&gt;CASIA-Iris-Degradation contains 36,539 images from 255 Asian people. All images were collected under NIR illumination and two eyes were captured simultaneously. Details of the proposed database are shown in the table below.
-&lt;img alt=&#34;Details of the proposed database&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-degradation/Statistics.png&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;./Statistics.png&#34; alt=&#34;Details of the proposed database&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;setup-of-image-collection&#34;&gt;Setup of image collection&lt;/h3&gt;
 &lt;p&gt;As shown in the figure below, we built a collection room using black-out cloth. The curtain on one side of the room can be opened and closed artificially to control the natural light.
 Inside, there were camera (A), light sources (B, C), volunteer (D), and four directional markers (1-4).
 Each volunteer was asked to sit down, put their chin on the holder (0.75 m from the camera), keep their head as still as possible, and move their eyes according to instructions.
 To simulate the off-angle situation, the subject was required to look along a set of directions indicated by four markers in the visual field, while in other cases look straight ahead (i.e., the midpoint of marker 1 and 4).
-&lt;img alt=&#34;environment and equipment&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-degradation/newcx1camera.png&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;./newcx1camera.png&#34; alt=&#34;environment and equipment&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;statistics-of-the-proposed-database&#34;&gt;Statistics of the proposed database&lt;/h3&gt;
 &lt;p&gt;To simulate real image degradation, the proposed database is divided into four categories, and each of them is separated into three to five subsets as follows:&lt;/p&gt;
 &lt;h4 id=&#34;illumination&#34;&gt;Illumination&lt;/h4&gt;
@@ -723,9 +702,9 @@ Although most images of the former two classes have no effective iris region and
 &lt;p&gt;For occlusion, volunteers were required to wear glasses, masks and using a hand to cover the mouth and nose. During this section, the NIR light source was randomly moved slightly to generate light spots. Meanwhile, some glasses also had stains on the surface to occlude the iris.
 An unexpected observation is that for some elderly volunteers, their eyelids droop naturally, resulting in severe occlusion, which should arouse more attention.&lt;/p&gt;
 &lt;p&gt;More samples and annotations are presented below.
-&lt;img alt=&#34;More samples&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-iris-degradation/supp_images.png&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;./supp_images.png&#34; alt=&#34;More samples&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;copyright-note-and-contacts&#34;&gt;Copyright Note and Contacts&lt;/h2&gt;
-&lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA-Iris-Degradation database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as &amp;ldquo;Portions of the research in this paper use the CASIA-Iris-Degradation-V1.0 collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA-Iris-Degradation database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as &amp;ldquo;Portions of the research in this paper use the CASIA-Iris-Degradation-V1.0 collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)&amp;quot;.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, you can apply for it on our 
 &lt;a href=&#34;http://www.idealtest.org/#/datasetDetail/26&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIT website&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -766,7 +745,7 @@ An unexpected observation is that for some elderly volunteers, their eyelids dro
 &lt;h3 id=&#34;image-collection&#34;&gt;&lt;strong&gt;Image collection&lt;/strong&gt;&lt;/h3&gt;
 &lt;!-- &lt;iframe height=498 width=510 src=&#34;collection_glasses.mp4&#34;&gt; --&gt;
 &lt;p&gt;The schematic and setup of blur-varying iris image collection of this database at a distance are shown as following.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Schematic and setup of NIR iris image collection at a distance and in less cooperative environments.&#34; src=&#34;https://nlpr-sir.github.io/dataset/blurred_iris_benchmark/capture_setting.png&#34; title=&#34;Image Collection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./capture_setting.png&#34; alt=&#34;Schematic and setup of NIR iris image collection at a distance and in less cooperative environments.&#34; title=&#34;Image Collection&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The next generation of CASIA-LR-Cam bundled with NIR illumination at a wavelength of 830 nm was employed as the capturing device. Its standoff distance is approximately 1.2 meters with a DoF of over 20 centimeters. The field of view (FoV) is approximately 20 degrees. The device was placed in an indoor environment under no extra lighting sources. During the process of image collection, the subjects were obliged to move freely in the restricted square area 1.0~1.4 meters away from the device. Specifically, they could casually step forward and backward, left and right.&lt;/p&gt;
 &lt;p&gt;While moving inside the restricted area, the subjects were guided by the indication signal on the GUI screen to look at different directions for approximately 30 seconds in a single session. Two separate sessions were launched in the daytime under the same conditions, and the interval was one week. If the subject was wearing glasses, he or she needed to take them off in either of the two sessions (&lt;code&gt;play the video and see&lt;/code&gt;).&lt;/p&gt;
 &lt;blockquote&gt;
@@ -783,71 +762,71 @@ An unexpected observation is that for some elderly volunteers, their eyelids dro
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Attributes&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;The database&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;The database&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Camera Type&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;CASIA-LR-Cam II&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;CASIA-LR-Cam II&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Illumination&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;NIR and natural lighting sources&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;NIR and natural lighting sources&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Total pixel&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;3840x2748&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3840x2748&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Cropped eye region&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;640x480&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;640x480&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Sessions&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Two separate sessions&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Two separate sessions&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Institution of subjects&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Graduate students and staff of CASIA and TAfIRT&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Graduate students and staff of CASIA and TAfIRT&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Standoff distance&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;1.0~1.4m&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;1.0~1.4m&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Working mode&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;Step freely within a moderate square area&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;Step freely within a moderate square area&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Depth of field&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;ca. 20cm&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;ca. 20cm&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;No. of subjects&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;98&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;98&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;No. of Classes&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;195&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;195&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;No. of Images&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;3,765&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;3,765&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Images per class&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;ca. 19&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;ca. 19&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Pairs of Images&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;39,418 intraclass and 7,406,312 interclass&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;39,418 intraclass and 7,406,312 interclass&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3 id=&#34;mannual-annotations&#34;&gt;&lt;strong&gt;Mannual Annotations&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;Each image in the dataset is manually annotated with binary maps of iris masks, inner and outer iris boundaries, upper and lower eyelids, and sclera masks shown as below.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Two annotated instances in the dataset.&#34; src=&#34;https://nlpr-sir.github.io/dataset/blurred_iris_benchmark/annotations.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./annotations.png&#34; alt=&#34;Two annotated instances in the dataset.&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;evaluation-toolkit&#34;&gt;&lt;strong&gt;Evaluation Toolkit&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
 &lt;a href=&#34;IrisStat_V3.0.rar&#34;&gt;IrisStat_V3.0.rar&lt;/a&gt;&lt;/p&gt;
@@ -1006,8 +985,7 @@ imgList.txt
 &lt;h2 id=&#34;copyright-note-and-contacts&#34;&gt;&lt;strong&gt;Copyright Note and Contacts&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as “Portions of the research in this paper use the dataset collected by Smart Iris Recognition (SIR) group from the Chinese Academy of Sciences, Institute of Automation (CASIA)”.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, a non-student researcher must manually sign the 
-&lt;a href=&#34;license_agreement.pdf&#34;&gt;License Agreement&lt;/a&gt; and agree to observe the restrictions. The signed document should be digitized and sent through email to: 
-&lt;a href=&#34;mailto:sir@cripac.ia.ac.cn&#34;&gt;sir@cripac.ia.ac.cn&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;license_agreement.pdf&#34;&gt;License Agreement&lt;/a&gt; and agree to observe the restrictions. The signed document should be digitized and sent through email to: &lt;a href=&#34;mailto:sir@cripac.ia.ac.cn&#34;&gt;sir@cripac.ia.ac.cn&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1060,7 +1038,7 @@ Results announcement: April 30, 2021
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Congratulations to them!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Following are the team details and results. More details can be found in the future IJCB 2021 summary paper.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;details&#34; src=&#34;https://nlpr-sir.github.io/post/nir-isl2021/result.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;result.png&#34; alt=&#34;details&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1105,17 +1083,17 @@ Results announcement: April 30, 2021
 &lt;p&gt;Over the years, numerous face databases have been published that brought about exciting breakthrough in the facial biometric research field, most especially from the recent trend of deep learning contributions. However, as investigated by researchers, most of these databases are demographically imbalanced and often contain few number of African cohorts. Of those with relatively large number of the Africans, the databases are usually wild (downloaded from the internet or digitalised from printed photographs). Methods that adopt these skewed databases often exhibits some form of performance bias that can result to unintended consequences for real time applications. As such, there is need for more demographically inclusive datasets. CASIA-Face-Africa is developed to provide solution to this problem. It is an all-African database that is made to be used as a complementary database with the existing databases to balance the number of the African cohorts in the published datasets and improve their demographic inclusiveness.&lt;/p&gt;
 &lt;h2 id=&#34;description&#34;&gt;DESCRIPTION&lt;/h2&gt;
 &lt;p&gt;The database images were captured at various locations in Nigeria, Africa. About 1150 volunteers participated in the capturing exercise. The images of each subject were captured concurrently using 3 cameras. Two visible wavelength (VW) cameras and one near-infrared (NIR) camera. The capturing was done in various sessions over a period of 3 months. Some of the subjects have images captured in multiple sessions while majority of the subjects have their images captured in a single session.
-&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/1.png&#34;&gt;
+&lt;img src=&#34;1.png&#34; alt=&#34;Figure 1&#34;&gt;
 &lt;em&gt;Figure 1: The cameras arrangement set-up was made to be same in all the capturing sessions&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;For each capturing instance, 3 to 10 still images were captured by each camera at a fixed time interval of 1 to 3 seconds. For some subjects, an external illumination light source was used for capturing additional images of that subjects. Also, some subjects were asked to use face accessory such as eye glasses for multiple capturing. The captured images were then organized and their land mark labelled. The organized database comprises a total of 38,546 images from 1,183 subjects. Specifically, 12,063 images captured by VW camera 1 at the resolution of 1332×1080, 13,232 images are captured by VW camera 2 at the resolution of 787 × 962, and 13,251 images are captured by NIR camera at the resolution of 983 × 877. Some samples of the captured images are shown in Figure 2, Figure 3 and Figure 4.
-&lt;img alt=&#34;Figure 2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/2.png&#34;&gt;
+&lt;img src=&#34;2.png&#34; alt=&#34;Figure 2&#34;&gt;
 &lt;em&gt;Figure 2: Sample of a single subject images&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/3.png&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;3.png&#34; alt=&#34;Figure 3&#34;&gt;
 &lt;em&gt;Figure 3: Sample of subject Expressions&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;img alt=&#34;Figure 4&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-face-africa/4.png&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;4.png&#34; alt=&#34;Figure 4&#34;&gt;
 &lt;em&gt;Figure 4: Sample of labelled face images&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;database-organization&#34;&gt;Database Organization&lt;/h2&gt;
@@ -1128,7 +1106,7 @@ Results announcement: April 30, 2021
 &lt;li&gt;Codes folder: These are evaluation codes in multiple programming languages that can be used to easily adopt the database for various applications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;copyright-note-and-contacts&#34;&gt;Copyright Note and Contacts&lt;/h2&gt;
-&lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as &amp;ldquo;Portions of the research in this paper use the CASIA-Face-Africa collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as &amp;ldquo;Portions of the research in this paper use the CASIA-Face-Africa collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)&amp;quot;.&lt;/p&gt;
 &lt;p&gt;To receive a copy of the database, you can apply for it on our 
 &lt;a href=&#34;http://www.idealtest.org/#/datasetDetail/24&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIT website&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
@@ -1146,10 +1124,10 @@ Results announcement: April 30, 2021
       <description>&lt;p&gt;Zhang published paper, 
 &lt;a href=&#34;../../publication/zhang-ijcb2020&#34;&gt;All-in-Focus Iris Camera With a Great Capture Volume&lt;/a&gt;, wins the PC chairs choice best paper award runner-Up at 
 &lt;a href=&#34;https://ieee-biometrics.org/ijcb2020/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the 2020 International Joint Conference on Biometrics (IJCB 2020)&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;All-in-Focus Iris Camera With a Great Capture Volume&#34; src=&#34;https://nlpr-sir.github.io/post/ijcb2020award/paper.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;paper.png&#34; alt=&#34;All-in-Focus Iris Camera With a Great Capture Volume&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The 2020 International Joint Conference on Biometrics (IJCB 2020) combines two major biometrics research conferences, the Biometrics Theory, Applications and Systems (BTAS) conference and the International Conference on Biometrics (ICB). The blending of these two conferences in 2020 is through a special agreement between the IEEE Biometrics Council and the IAPR TC-4, and should present an exciting event for the entire worldwide biometrics research community.&lt;/p&gt;
 &lt;p&gt;In this work, a novel all-in-focus iris imaging system is developed. It using a focus-tunable lens and a 2D steering mirror to greatly extend capture volume by spatiotemporal multiplexing method. Our iris imaging depth offield extension system requires no mechanical motion and is capable to adjust the focal plane at extremely high speed.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;all-in-focus iris imaging system&#34; src=&#34;https://nlpr-sir.github.io/post/ijcb2020award/camera.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;camera.png&#34; alt=&#34;all-in-focus iris imaging system&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1166,8 +1144,7 @@ Results announcement: April 30, 2021
       <link>https://nlpr-sir.github.io/post/welcome/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://nlpr-sir.github.io/post/welcome/</guid>
-      <description>&lt;h2 id=&#34;smart-iris-recognition-sir-group-is-affiliated-tocenter-for-research-on-intelligent-perception-and-computing-cripacinstitute-of-automation-chinese-academy-of-sciences-casia-led-by-proftieniu-tanand-profzhenan-sun-sir-group-concentrates-on-cutting-edge-research-of-ocular-biometrics-wherein-the-main-focus-is-the-whole-pipeline-of-iris-recognition-the-topics-basically-include-the-trial-manufacture-of-iris-imaging-device-the-control-of-iris-image-acquisition-iris-image-preprocessing-iris-feature-encoding-and-matching-sclera-recognition-periocular-recognition-and-multi-modal-fusion-are-also-covered-in-the-research-topics-for-developing-more-advanced-sir-systems-over-the-years-the-members-of-sir-group-are-striving-to-conquer-the-key-and-difficult-problems-in-non-cooperative-iris-recognition-at-a-distance-under-complex-scenarios-promoting-the-applications-of-sir-systems-in-surveillance-robotics-and-uavs-we-are-open-for-academic-communication-and-feel-free-to-contact-us-1047450724qqcom&#34;&gt;Smart Iris Recognition (SIR) group is affiliated to Center for Research on Intelligent Perception and Computing (CRIPAC), Institute of Automation, Chinese Academy of Sciences (CASIA), led by Prof. Tieniu Tan and Prof. Zhenan Sun. SIR group concentrates on cutting-edge research of ocular biometrics, wherein the main focus is the whole pipeline of iris recognition. The topics basically include the trial-manufacture of iris imaging device, the control of iris image acquisition, iris image preprocessing, iris feature encoding and matching. Sclera recognition, periocular recognition and multi-modal fusion are also covered in the research topics for developing more advanced SIR systems. Over the years, the members of SIR group are striving to conquer the key and difficult problems in non-cooperative iris recognition at a distance under complex scenarios, promoting the applications of SIR systems in surveillance, robotics and UAVs. We are open for academic communication and feel free to contact us: 
-&lt;a href=&#34;mailto:1047450724@qq.com&#34;&gt;1047450724@qq.com&lt;/a&gt;&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;smart-iris-recognition-sir-group-is-affiliated-tocenter-for-research-on-intelligent-perception-and-computing-cripacinstitute-of-automation-chinese-academy-of-sciences-casia-led-by-proftieniu-tanand-profzhenan-sun-sir-group-concentrates-on-cutting-edge-research-of-ocular-biometrics-wherein-the-main-focus-is-the-whole-pipeline-of-iris-recognition-the-topics-basically-include-the-trial-manufacture-of-iris-imaging-device-the-control-of-iris-image-acquisition-iris-image-preprocessing-iris-feature-encoding-and-matching-sclera-recognition-periocular-recognition-and-multi-modal-fusion-are-also-covered-in-the-research-topics-for-developing-more-advanced-sir-systems-over-the-years-the-members-of-sir-group-are-striving-to-conquer-the-key-and-difficult-problems-in-non-cooperative-iris-recognition-at-a-distance-under-complex-scenarios-promoting-the-applications-of-sir-systems-in-surveillance-robotics-and-uavs-we-are-open-for-academic-communication-and-feel-free-to-contact-us-1047450724qqcom&#34;&gt;Smart Iris Recognition (SIR) group is affiliated to Center for Research on Intelligent Perception and Computing (CRIPAC), Institute of Automation, Chinese Academy of Sciences (CASIA), led by Prof. Tieniu Tan and Prof. Zhenan Sun. SIR group concentrates on cutting-edge research of ocular biometrics, wherein the main focus is the whole pipeline of iris recognition. The topics basically include the trial-manufacture of iris imaging device, the control of iris image acquisition, iris image preprocessing, iris feature encoding and matching. Sclera recognition, periocular recognition and multi-modal fusion are also covered in the research topics for developing more advanced SIR systems. Over the years, the members of SIR group are striving to conquer the key and difficult problems in non-cooperative iris recognition at a distance under complex scenarios, promoting the applications of SIR systems in surveillance, robotics and UAVs. We are open for academic communication and feel free to contact us: &lt;a href=&#34;mailto:1047450724@qq.com&#34;&gt;1047450724@qq.com&lt;/a&gt;&lt;/h2&gt;
 </description>
     </item>
     
@@ -1374,38 +1351,38 @@ Download the separated subsets below&lt;/p&gt;
 &lt;p&gt;CASIA-IrisV4 contains a total of 54,601 iris images from more than 1,800 genuine subjects and 1,000 virtual subjects. All iris images are 8 bit gray-level JPEG files, collected under near infrared illumination or synthesized. Some statistics and features of each subset are given in Table 1. The six data sets were collected or synthesized at different times and CASIA-Iris-Interval, CASIA-Iris-Lamp, CASIA-Iris-Distance, CASIA-Iris-Thousand may have a small inter-subset overlap in subjects.&lt;/p&gt;
 &lt;h3 id=&#34;21--casia-iris-interval&#34;&gt;2.1  CASIA-Iris-Interval&lt;/h3&gt;
 &lt;p&gt;Iris images of CASIA-Iris-Interval were captured with our self-developed close-up iris camera (Fig.1). The most compelling feature of our iris camera is that we have designed a circular NIR LED array, with suitable luminous flux for iris imaging. Because of this novel design, our iris camera can capture very clear iris images (see Fig.2). CASIA-Iris-Interval is well-suited for studying the detailed texture features of iris images.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.1&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.1.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./V4Fig.1.jpg&#34; alt=&#34;Fig.1&#34;&gt;
 Fig.1 The self-developed iris camera used for collection of CASIA-Iris-Interval
-&lt;img alt=&#34;Fig.2&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.2.jpg&#34;&gt;
+&lt;img src=&#34;./V4Fig.2.jpg&#34; alt=&#34;Fig.2&#34;&gt;
 Fig.2 Example iris images in CASIA-Iris-Interval&lt;/p&gt;
 &lt;h3 id=&#34;22--casia-iris-lamp&#34;&gt;2.2  CASIA-Iris-Lamp&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Lamp was collected using a hand-held iris sensor produced by OKI (Fig.3). A lamp was turned on/off close to the subject to introduce more intra-class variations when we collected CASIA-Iris-Lamp. Elastic deformation of iris texture (Fig.4) due to pupil expansion and contraction under different illumination conditions is one of the most common and challenging issues in iris recognition. So CASIA-Iris-Lamp is good for studying problems of non-linear iris normalization and robust iris feature representation.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.3&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.3.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./V4Fig.3.jpg&#34; alt=&#34;Fig.3&#34;&gt;
 Fig.3 The hand-held iris camera used for collection of CASIA-Iris-Lamp
-&lt;img alt=&#34;Fig.4&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.4.jpg&#34;&gt;
+&lt;img src=&#34;./V4Fig.4.jpg&#34; alt=&#34;Fig.4&#34;&gt;
 Fig.4 Example iris images in CASIA-Iris-Lamp&lt;/p&gt;
 &lt;h3 id=&#34;23--casia-iris-twins&#34;&gt;2.3  CASIA-Iris-Twins&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Twins contains iris images of 100 pairs of twins, which were collected during Annual Twins Festival in Beijing using OKI&amp;rsquo;s IRISPASS-h camera (Fig.5). Although iris is usually regarded as a kind of phenotypic biometric characteristics and even twins have their unique iris patterns, it is interesting to study the dissimilarity and similarity between iris images of twins.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.5&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.5.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./V4Fig.5.jpg&#34; alt=&#34;Fig.5&#34;&gt;
 Fig.5 Example iris images in CASIA-Iris-Twins&lt;/p&gt;
 &lt;h3 id=&#34;24--casia-iris-distance&#34;&gt;2.4  CASIA-Iris-Distance&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Distance contains iris images captured using our self-developed long-range multi-modal biometric image acquisition and recognition system (LMBS, Fig.6). The advanced biometric sensor can recognize users from 3 meters away by actively searching iris, face or palmprint patterns in the visual field via an intelligent multi-camera imaging system. The LMBS is human-oriented by fusing computer vision, human computer interaction and multi-camera coordination technologies and improves greatly the usability of current biometric systems. The iris images of CASIA-Iris-Distance were captured by a high resolution camera so both dual-eye iris and face patterns are included in the image region of interest (Fig. 7). And detailed facial features such as skin pattern are also visible for multi-modal biometric information fusion.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.6&#34; src=&#34;./V4Fig.6.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./V4Fig.6.jpg&#34; alt=&#34;Fig.6&#34;&gt;
 Fig.6  The biometric sensor used for collection of CASIA-Iris-Distance
-&lt;img alt=&#34;Fig.7&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.7.jpg&#34;&gt;
+&lt;img src=&#34;./V4Fig.7.jpg&#34; alt=&#34;Fig.7&#34;&gt;
 Fig.7  An example image in CASIA-Iris-Distance&lt;/p&gt;
 &lt;h3 id=&#34;25--casia-iris-thousand&#34;&gt;2.5  CASIA-Iris-Thousand&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Thousand contains 20,000 iris images from 1,000 subjects, which were collected using IKEMB-100 camera (Fig. 8) produced by 
 &lt;a href=&#34;Http://www.irisking.com&#34;&gt;IrisKing&lt;/a&gt;. IKEMB-100 is a dual-eye iris camera with friendly visual feedback, realizing the effect of “What You See Is What You Get”. The bounding boxes shown in the frontal LCD help users adjust their pose for high-quality iris image acquisition. The main sources of intra-class variations in CASIA-Iris-Thousand are eyeglasses and specular reflections. Since CASIA-Iris-Thousand is the first publicly available iris dataset with one thousand subjects, it is well-suited for studying the uniqueness of iris features and develop novel iris classification and indexing methods.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.8&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.8.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./V4Fig.8.jpg&#34; alt=&#34;Fig.8&#34;&gt;
 Fig.8 The iris camera used for collection of CASIA-Iris-Thousand
-&lt;img alt=&#34;Fig.9&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.9.jpg&#34;&gt;
+&lt;img src=&#34;./V4Fig.9.jpg&#34; alt=&#34;Fig.9&#34;&gt;
 Fig.9  An example image in CASIA-Iris-Thousand&lt;/p&gt;
 &lt;h3 id=&#34;26--casia-iris-syn&#34;&gt;2.6  CASIA-Iris-Syn&lt;/h3&gt;
 &lt;p&gt;CASIA-Iris-Syn contains 10,000 synthesized iris images of 1,000 classes. The iris textures of these images are synthesized automatically from a subset of CASIA-IrisV1 with the approach described in [1] (Fig. 10). Then the iris ring regions were embedded into the real iris images, which makes the artificial iris images more realistic. The intra-class variations introduced into the synthesized iris dataset include deformation, blurring, and rotation, which raise a challenge problem for iris feature representation and matching. We have demonstrated in [1] that the synthesized iris images are visually realistic and most subjects can not distinguish genuine and artificial iris images. More importantly, the performance results tested on the synthesized iris image database have similar statistical characteristics to genuine iris database. So users of CASIA-IrisV4 are encouraged to use CASIA-Iris-Syn for iris recognition research and any suggestions are welcome. If CASIA-Iris-Syn proves to be successful for most researchers of iris recognition, we will provide more and more synthesized iris images in the future.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Fig.10&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.10.jpg&#34;&gt;
+&lt;p&gt;&lt;img src=&#34;./V4Fig.10.jpg&#34; alt=&#34;Fig.10&#34;&gt;
 Fig. 10  Flowchart of the iris texture synthesis method for generation of CASIA-Iris-Syn
-&lt;img alt=&#34;Fig.11&#34; src=&#34;https://nlpr-sir.github.io/dataset/casia-irisv4/V4Fig.11.jpg&#34;&gt;
+&lt;img src=&#34;./V4Fig.11.jpg&#34; alt=&#34;Fig.11&#34;&gt;
 Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;h2 id=&#34;3-database-organization&#34;&gt;3. Database Organization&lt;/h2&gt;
 &lt;p&gt;The file name of each image in CASIA-IrisV4 is unique to each other and denotes some useful properties associated with the image such as subset category, left/right/double, subject ID, class ID, image ID etc. The file naming rules of all six subsets are listed as follows:&lt;/p&gt;
@@ -1455,8 +1432,7 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;4-copyright-note-and-contacts&#34;&gt;4. Copyright Note and Contacts&lt;/h2&gt;
-&lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as “Portions of the research in this paper use the CASIA-IrisV4 collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)” and a reference to “CASIA Iris Image Database, 
-&lt;a href=&#34;http://biometrics.idealtest.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://biometrics.idealtest.org/&lt;/a&gt;” should be included. A copy of all reports and papers that are for public or general release that use the CASIA-IrisV4 should be forwarded upon release or publication to:&lt;/p&gt;
+&lt;p&gt;The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the CASIA database are reserved. Any person or organization is not permitted to distribute, publish, copy, or disseminate this database. In all documents and papers that report experimental results based on this database, our efforts in constructing the database should be acknowledged such as “Portions of the research in this paper use the CASIA-IrisV4 collected by the Chinese Academy of Sciences&amp;rsquo; Institute of Automation (CASIA)” and a reference to “CASIA Iris Image Database, &lt;a href=&#34;http://biometrics.idealtest.org/&#34;&gt;http://biometrics.idealtest.org/&lt;/a&gt;” should be included. A copy of all reports and papers that are for public or general release that use the CASIA-IrisV4 should be forwarded upon release or publication to:&lt;/p&gt;
 &lt;p&gt;Professor Tieniu Tan&lt;/p&gt;
 &lt;p&gt;Center for Biometrics and Security Research&lt;/p&gt;
 &lt;p&gt;National Laboratory of Pattern Recognition&lt;/p&gt;
@@ -1464,8 +1440,7 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;p&gt;P.O.Box 2728&lt;/p&gt;
 &lt;p&gt;Beijing 100190&lt;/p&gt;
 &lt;p&gt;China&lt;/p&gt;
-&lt;p&gt;or send electronic copies to 
-&lt;a href=&#34;mailto:znsun@nlpr.ia.ac.cn&#34;&gt;znsun@nlpr.ia.ac.cn&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;or send electronic copies to &lt;a href=&#34;mailto:znsun@nlpr.ia.ac.cn&#34;&gt;znsun@nlpr.ia.ac.cn&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Questions regarding this database can be addressed to Dr. Zhenan Sun at&lt;/p&gt;
 &lt;p&gt;Dr. Zhenan Sun&lt;/p&gt;
 &lt;p&gt;Center for Biometrics and Security Research&lt;/p&gt;
@@ -1476,8 +1451,7 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;p&gt;China&lt;/p&gt;
 &lt;p&gt;Tel: +86 10 8261 0278&lt;/p&gt;
 &lt;p&gt;Fax: +86 10 6255 1993&lt;/p&gt;
-&lt;p&gt;Email: 
-&lt;a href=&#34;mailto:znsun@nlpr.ia.ac.cn&#34;&gt;znsun@nlpr.ia.ac.cn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:znsun@nlpr.ia.ac.cn&#34;&gt;znsun@nlpr.ia.ac.cn&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Tieniu Tan, Zhaofeng He, Zhenan Sun, &amp;ldquo;Efficient and robust segmentation of noisy iris images for non-cooperative iris recognition&amp;rdquo;, Image and Vision Computing, Vol.28, No. 2, 2010, pp.223-230.&lt;/li&gt;
@@ -1514,7 +1488,7 @@ Fig. 11  Example iris images in CASIA-Iris-Syn&lt;/p&gt;
 &lt;li&gt;Zhuoshi Wei, Yufei Han, Zhenan Sun and Tieniu Tan, Palmprint Image Synthesis: A Preliminary Study, Proc. of IEEE International Conference on Image Processing, 2008.&lt;/li&gt;
 &lt;li&gt;Zhuoshi Wei, Tieniu Tan and Zhenan Sun, Synthesis of Large Realistic Iris Databases Using Patch-based Sampling, Proc. of IEEE International Conference on Pattern Recognition (ICPR), 2008.&lt;/li&gt;
 &lt;li&gt;Zhuoshi Wei, Xianchao Qiu, Zhenan Sun and Tieniu Tan, Counterfeit Iris Detection Based on Texture Analysis, Proc. of IEEE International Conference on Pattern Recognition (ICPR), 2008.&lt;/li&gt;
-&lt;li&gt;Zhaofeng He, Tieniu Tan and Zhenan Sun, “Iris Localization via Pulling and Pushing”, Proc. of the 18th IEEE International Conference on Pattern Recognition (ICPR&#39;06), Vol.4, pp. 366-369, 2006, Hongkong.&lt;/li&gt;
+&lt;li&gt;Zhaofeng He, Tieniu Tan and Zhenan Sun, “Iris Localization via Pulling and Pushing”, Proc. of the 18th IEEE International Conference on Pattern Recognition (ICPR&amp;rsquo;06), Vol.4, pp. 366-369, 2006, Hongkong.&lt;/li&gt;
 &lt;li&gt;Zhaofeng He, Tieniu Tan, Zhenan Sun, Xianchao Qiu, Cheng Zhong and Wenbo Dong, Boosting Ordinal Features for Iris Recognition, Proc. of the 26th IEEE International Conference on Computer Vision and Pattern Recognition (CVPR’08) , pp. 1-8, June 23-28, Alaska, USA&lt;/li&gt;
 &lt;li&gt;Zhaofeng He, Zhenan Sun, Tieniu Tan and Xianchao Qiu, Enhanced Usability of Iris Recognition via Efficient User Interface and Iris Image Restoration, Proc. of the 15th IEEE International Conference on Image Processing (ICIP’08), 2008, San Diego, California Accepted.&lt;/li&gt;
 &lt;li&gt;Zhaofeng He, Tieniu Tan, Zhenan Sun and Xianchao Qiu, Robust Eyelid, Eyelash and Shadow Localization for Iris Recognition”, Proc. of the 15th IEEE International Conference on Image Processing (ICIP’08), 2008, San Diego, California, Accepted.&lt;/li&gt;

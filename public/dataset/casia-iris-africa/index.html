@@ -225,8 +225,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nlpr-sir.github.io/dataset/casia-iris-africa/">
 
@@ -243,11 +243,11 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Smart Individual Recognition">
+  <meta property="og:site_name" content="Smart Identity Recognition">
   <meta property="og:url" content="https://nlpr-sir.github.io/dataset/casia-iris-africa/">
-  <meta property="og:title" content="CASIA-Iris-Africa | Smart Individual Recognition">
-  <meta property="og:description" content="A mainly African dataset for iris recognition."><meta property="og:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="CASIA-Iris-Africa | Smart Identity Recognition">
+  <meta property="og:description" content="A mainly African dataset for iris recognition."><meta property="og:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-02-13T00:00:00&#43;00:00">
@@ -271,7 +271,7 @@
 
 
 
-  <title>CASIA-Iris-Africa | Smart Individual Recognition</title>
+  <title>CASIA-Iris-Africa | Smart Identity Recognition</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -323,7 +323,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Smart Individual Recognition</a>
+      <a class="navbar-brand" href="/">Smart Identity Recognition</a>
     </div>
     
 
@@ -336,7 +336,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Smart Individual Recognition</a>
+      <a class="navbar-brand" href="/">Smart Identity Recognition</a>
     </div>
     
 
@@ -717,7 +717,7 @@
 <p>Various forms of iris databases had been published that address some specific research problems and are made available to the biometrics research community such as: constraint databases; mobile iris; multispectral; synthetics; iris at a distance; contact lenses; liveness detection; Aging, etc. However, even though these databases have addressed many of the problems mentioned above, most of them contain subjects of primarily Caucasian and Asian docents with very few Africans and many times zero Africans. It is particularly challenging as this has created a research blind spot for African cohorts in these databases. Despite many of the reported investigative studies on racial bias in face biometrics, very few iris racial bias-related studies have been published, which can be due to the insufficient number of other races databases such as the Africans. Recently, face recognition algorithms have been reported to be biased toward specific demographics. Most prominently, many investigative studies have reported higher false-positive rates in African subject cohorts than in other cohorts. Due to the unavailability of the required quantity of African cohorts in the publicly available iris databases, similar studies would be difficult to replicate on iris biometrics. We presents a mainly African dataset that can be useful in addressing some of these challenges.</p>
 <h2 id="description">Description</h2>
 <p>The iris images were captured in Nigeria, Africa. The capturing exercise was conducted across various locations in multiple sessions over three months. Due to logistical constraints, the capturing exercise was limited to the northern part of Nigeria. Each subject volunteer was asked to sign a consent form authorizing the data to be used for only research purposes. The iris sensor device for capturing the images is the IKUSBE30 iris sensor from IrisKing. The setup for the capturing exercise is shown in Fig. 1. Each volunteer was asked to hold the device, standing or sitting, based on their preference. As such, the iris images were captured at various degrees of head postures.</p>
-<p><img alt="Figure 1" src="/dataset/casia-iris-africa/figures/1.png" title="Iris Capturing set-ups (indoor and outdoor)">
+<p><img src="figures/1.png" alt="Figure 1" title="Iris Capturing set-ups (indoor and outdoor)">
 Fig. 1: Iris Capturing set-ups (indoor and outdoor)</p>
 <p>The procedure for image capturing is in two steps:</p>
 <ul>
@@ -732,16 +732,16 @@ Fig. 1: Iris Capturing set-ups (indoor and outdoor)</p>
 </ol>
 </li>
 </ul>
-<p><img alt="Figure 2" src="/dataset/casia-iris-africa/figures/2.png" title="Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)">
+<p><img src="figures/2.png" alt="Figure 2" title="Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)">
 Fig. 2: Exemplary samples of captured images in Step 1 (left image) and Step 2 (right image)</p>
 <p>After the capturing sessions, the stored images were processed. The processing steps comprise automatic image selection to discard images with duplicate content, followed by manual image selection that guarantees the selected images&rsquo; reliability. In the automatic selection, all the images from a single eye of one subject were organized into a matrix, with each column representing an image. The images of the subject&rsquo;s eyes were then processed, and duplicates were removed using this procedure. The remaining images were then manually processed. The manual selection involves one-by-one human inspection of each image to identify damaged images and those images with no irises captured in them. Some sample images of one subject from the generated dataset are shown in Fig. 3, the labelled sampled images in Fig. 4, the summary of the database is presented in Table 1 and the database subjects&rsquo; age distribution is shown in Fig. 5.</p>
-<p><img alt="Figure 3" src="/dataset/casia-iris-africa/figures/3.png" title="Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)">
+<p><img src="figures/3.png" alt="Figure 3" title="Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)">
 Fig. 3: Samples of one subject left iris (upper two rows) and (b) right iris (lower two rows)</p>
-<p><img alt="Figure 4" src="/dataset/casia-iris-africa/figures/4.png" title="Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)">
+<p><img src="figures/4.png" alt="Figure 4" title="Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)">
 Fig. 4: Labelled iris mask, inner and outer circle superimposed on respective samples in Fig. 3 for (a) left iris (upper two rows) and (b) right iris (lower two rows)</p>
 <p>Tab. 1: Summary of the generated database
-<img alt="Figure 5" src="/dataset/casia-iris-africa/figures/table.png" title="Summary of the generated database"></p>
-<p><img alt="Figure 6" src="/dataset/casia-iris-africa/figures/5.png" title="Age distribution of the generated database">
+<img src="figures/table.png" alt="Figure 5" title="Summary of the generated database"></p>
+<p><img src="figures/5.png" alt="Figure 6" title="Age distribution of the generated database">
 Fig. 5: Age distribution of the generated database</p>
 <h2 id="database-organization">Database Organization</h2>
 <p>The database package comprises of the following components organised in multiple directories:</p>
@@ -999,7 +999,7 @@ Fig. 5: Age distribution of the generated database</p>
     
     
     
-    <script src="/js/academic.min.401ba81ed535f2e599b326a63fb33682.js"></script>
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
 
     
 

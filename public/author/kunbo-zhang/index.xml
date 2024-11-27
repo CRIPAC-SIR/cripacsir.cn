@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kunbo Zhang | Smart Individual Recognition</title>
+    <title>Kunbo Zhang | Smart Identity Recognition</title>
     <link>https://nlpr-sir.github.io/author/kunbo-zhang/</link>
       <atom:link href="https://nlpr-sir.github.io/author/kunbo-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Kunbo Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 May 2024 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Kunbo Zhang</title>
       <link>https://nlpr-sir.github.io/author/kunbo-zhang/</link>
     </image>
-    
-    <item>
-      <title>Kunbo Zhang</title>
-      <link>https://nlpr-sir.github.io/author/kunbo-zhang/</link>
-      <pubDate>Wed, 15 May 2024 16:12:05 +0800</pubDate>
-      <guid>https://nlpr-sir.github.io/author/kunbo-zhang/</guid>
-      <description>&lt;p&gt;Kunbo Zhang is currnetly an Associate Professor at NLPR, MAIS, CASIA, China. He received the B.E.
-degree in Automation from Beijing Institute of Technology in 2006, and the M.Sc. and Ph.D. degrees in Mechanical
-Engineering from State University of New York at Stony Brook, U.S., in 2008 and 2011, repectively. Between 2011 and 2016 he worked as a machine vision engineer of Advanced Manufacturing Engineering group in Nexteer Automotive, Michigan, U.S..
-His current resserch interests focus on light-field photography, biometric imaging, robot vision, human-robot interaction,
-and intelligent manufacturing.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Open-Vocabulary Text-Driven Human Image Generation</title>
@@ -70,7 +57,7 @@ and intelligent manufacturing.&lt;/p&gt;
       <link>https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/</link>
       <pubDate>Mon, 16 Jan 2023 16:12:05 +0800</pubDate>
       <guid>https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;Figure 1&#34; src=&#34;https://nlpr-sir.github.io/publication/zhow-tcsvt-2023/1.png&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img src=&#34;1.png&#34; alt=&#34;Figure 1&#34; title=&#34; The framework of AIF-LFNet&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     

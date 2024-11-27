@@ -225,8 +225,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_32x32_fill_lanczos_center_3.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_192x192_fill_lanczos_center_3.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://nlpr-sir.github.io/dataset/casia-iris-lfld/">
 
@@ -243,11 +243,11 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Smart Individual Recognition">
+  <meta property="og:site_name" content="Smart Identity Recognition">
   <meta property="og:url" content="https://nlpr-sir.github.io/dataset/casia-iris-lfld/">
-  <meta property="og:title" content="CASIA-Iris-LFLD | Smart Individual Recognition">
-  <meta property="og:description" content="Iris Liveness Detection Based on Light Field Imaging"><meta property="og:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png">
-  <meta property="twitter:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="CASIA-Iris-LFLD | Smart Identity Recognition">
+  <meta property="og:description" content="Iris Liveness Detection Based on Light Field Imaging"><meta property="og:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2022-06-05T00:00:00&#43;00:00">
@@ -271,7 +271,7 @@
 
 
 
-  <title>CASIA-Iris-LFLD | Smart Individual Recognition</title>
+  <title>CASIA-Iris-LFLD | Smart Identity Recognition</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -323,7 +323,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Smart Individual Recognition</a>
+      <a class="navbar-brand" href="/">Smart Identity Recognition</a>
     </div>
     
 
@@ -336,7 +336,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Smart Individual Recognition</a>
+      <a class="navbar-brand" href="/">Smart Identity Recognition</a>
     </div>
     
 
@@ -719,20 +719,20 @@
 <p>The dataset was captured using a 
 <a href="http://cripac.ia.ac.cn/CN/column/item105.shtml" target="_blank" rel="noopener">lab-produced microlens based LF camera</a> and a commercial device 
 <a href="http://www.irisking.com/pron.php?id=523" target="_blank" rel="noopener">IKUSB-E30</a> under near-infrared (NIR) illumination. The setup of dataset collection was shown in Fig.1.</p>
-<p><img alt="Figure 1" src="/dataset/casia-iris-lfld/figures/capture_setup.png" title="Setup of dataset collection.">
+<p><img src="figures/capture_setup.png" alt="Figure 1" title="Setup of dataset collection.">
 Fig. 1: Setup of dataset collection</p>
 <p>The types of presentation attacks include printed papers, printed glossy photos, and electronic displays. The high-quality iris samples were first captured by IKUSB-E30, and then these high-quality samples were printed on papers and photos, or displayed on the screen of iPad mini 4 to generate the artefacts. The main lens of the lab-produced LF camera was tuned to be in focus at a position of 1.6 meters. Simultaneously, both bona fide and presentation attack iris samples were captured when the subjects and PAIs were standing at or be placed at three distances, i.e. 1.5 meters, 1.6 meters, 1.7 meters.</p>
 <h2 id="statistics-of-the-dataset">Statistics of the Dataset</h2>
 <p>The dataset contains 504 samples from 14 subjects, consisting of 230 LF images of bona fide iris and 274 LF images of spoofing iris. The respective sample number of the PAIs, i.e. printed papers, printed photos, and electronic display are 18, 122, 134.</p>
 <p>An example of raw LF image containing both eyes printed on photos is shown in Fig.2. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.</p>
-<p><img alt="Figure 2" src="/dataset/casia-iris-lfld/figures/lf_raw_sample.png" title="An example of raw LF image containing both eyes printed on photos.">
+<p><img src="figures/lf_raw_sample.png" alt="Figure 2" title="An example of raw LF image containing both eyes printed on photos.">
 Fig.2: An example of raw LF image containing both eyes printed on photos. Hexagonal microlens images can be observed from the close-up of iris in the raw LF image.</p>
 <p>The LF toolbox released by [2] was utilized to decode raw LF images into 4D LF data. The eye regions were cropped from the same location of each sub-aperture image (SAI). The spatial resolution of each SAI after cropping is $128 \times 96$, and the angular resolution is $7 \times 7$. Examples from the same subject&rsquo;s right eye in the dataset are shown in Fig.3.</p>
-<p><img alt="Figure 3" src="/dataset/casia-iris-lfld/figures/dataset_samples.png" title="Examples from the same subject&#39;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.">
+<p><img src="figures/dataset_samples.png" alt="Figure 3" title="Examples from the same subject's right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.">
 Fig. 3: Examples from the same subject&rsquo;s right eye in the dataset. (a) Bona fide iris sample. (b) A4 paper printed iris sample. (c) Glossy photo printed iris sample. (d) Electronically displayed iris sample.</p>
 <p>The rendered focal stack via digital refocusing has 145 slices around the best focus plane.</p>
 <p>The details of the adopted database is listed in Table 1.</p>
-<p><img alt="Table 1" src="/dataset/casia-iris-lfld/figures/details.png" title="Details of the adopted database"></p>
+<p><img src="figures/details.png" alt="Table 1" title="Details of the adopted database"></p>
 <h2 id="copyright-and-contacts">Copyright and Contacts</h2>
 <p>The database is released for research and educational purposes. We hold no liability for any undesirable consequences of using the database. All rights of the  database are reserved.</p>
 <p>To receive a copy of the database, you can apply for it on our 
@@ -979,7 +979,7 @@ Fig. 3: Examples from the same subject&rsquo;s right eye in the dataset. (a) Bon
     
     
     
-    <script src="/js/academic.min.401ba81ed535f2e599b326a63fb33682.js"></script>
+    <script src="/js/academic.min.66c553246b0f279a03be6e5597f72b52.js"></script>
 
     
 

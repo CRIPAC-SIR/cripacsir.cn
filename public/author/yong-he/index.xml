@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yong He | Smart Individual Recognition</title>
+    <title>Yong He | Smart Identity Recognition</title>
     <link>https://nlpr-sir.github.io/author/yong-he/</link>
       <atom:link href="https://nlpr-sir.github.io/author/yong-he/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong He</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jun 2022 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Yong He</title>
       <link>https://nlpr-sir.github.io/author/yong-he/</link>
     </image>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 17 Jun 2022 16:12:05 +0800</pubDate>
       <guid>https://nlpr-sir.github.io/publication/he-cas-2022/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Yong He</title>
-      <link>https://nlpr-sir.github.io/author/yong-he/</link>
-      <pubDate>Fri, 17 Jun 2022 16:12:05 +0800</pubDate>
-      <guid>https://nlpr-sir.github.io/author/yong-he/</guid>
-      <description>&lt;p&gt;Yong He is currently an Engineer with Artificial Intelligence, University of Chinese Academy of Sciences, China, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA). He received his M.S. degree in Computer Architect from Hunan University of Technology, China, in 2020. His research focuses on pattern recognition and biometrics.&lt;/p&gt;
-</description>
     </item>
     
     <item>

@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Min Ren | Smart Individual Recognition</title>
+    <title>Min Ren | Smart Identity Recognition</title>
     <link>https://nlpr-sir.github.io/author/min-ren/</link>
       <atom:link href="https://nlpr-sir.github.io/author/min-ren/index.xml" rel="self" type="application/rss+xml" />
     <description>Min Ren</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2024 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Min Ren</title>
       <link>https://nlpr-sir.github.io/author/min-ren/</link>
     </image>
-    
-    <item>
-      <title>Min Ren</title>
-      <link>https://nlpr-sir.github.io/author/min-ren/</link>
-      <pubDate>Mon, 08 Jul 2024 16:12:05 +0800</pubDate>
-      <guid>https://nlpr-sir.github.io/author/min-ren/</guid>
-      <description>&lt;p&gt;Min Ren received the Ph.D. degree from School of Artificial Intelligence, University of Chinese Academy of Sciences, and the New Laboratory of Pattern Recognition (NLPR), State Key Laboratory of Multimodal Artificial Intelligence Systems (MAIS), Institute of Automation, Chinese Academy of Sciences (CASIA), China. He received his B.E. degree in mechanical engineering and automation from National University of Defense Technology, China, in 2013. His research focuses on pattern recognition and biometrics.&lt;/p&gt;
-&lt;p&gt;He is working as a post doc at Beijing Normal University(BNU).&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Understanding Deep Face Representation via Attribute Recovery</title>
