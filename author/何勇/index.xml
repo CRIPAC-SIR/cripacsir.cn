@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>何勇 | Smart Identity Recognition</title>
+    <link>https://nlpr-sir.github.io/author/%E4%BD%95%E5%8B%87/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/%E4%BD%95%E5%8B%87/index.xml" rel="self" type="application/rss+xml" />
+    <description>何勇</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2022 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>何勇</title>
+      <link>https://nlpr-sir.github.io/author/%E4%BD%95%E5%8B%87/</link>
+    </image>
+    
+    <item>
+      <title>基于关键点的眼睛定位和状态估计</title>
+      <link>https://nlpr-sir.github.io/publication/heyong-caas-2022-new/</link>
+      <pubDate>Fri, 01 Apr 2022 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/heyong-caas-2022-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生物特征识别学科发展报告</title>
+      <link>https://nlpr-sir.github.io/publication/zhenan-joiag-2021/</link>
+      <pubDate>Tue, 15 Jun 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/zhenan-joiag-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

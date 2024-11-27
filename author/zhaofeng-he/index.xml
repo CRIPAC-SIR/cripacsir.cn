@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhaofeng He | Smart Identity Recognition</title>
+    <link>https://nlpr-sir.github.io/author/zhaofeng-he/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/zhaofeng-he/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhaofeng He</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhaofeng He</title>
+      <link>https://nlpr-sir.github.io/author/zhaofeng-he/</link>
+    </image>
+    
+    <item>
+      <title>Towards Interpretable Defense Against Adversarial Attacks via Causal Inference</title>
+      <link>https://nlpr-sir.github.io/publication/ren-mir-2022/</link>
+      <pubDate>Sat, 28 May 2022 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-mir-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
+      <link>https://nlpr-sir.github.io/publication/caiyong-ijcb-2021/</link>
+      <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/caiyong-ijcb-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
+      <link>https://nlpr-sir.github.io/publication/kunbo-itifs-2023-ne/</link>
+      <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/kunbo-itifs-2023-ne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/wang-tifs-2020/</link>
+      <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-tifs-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/wang-tifs-2021/</link>
+      <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-tifs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScleraSegNet: An Attention Assisted U-Net Model for Accurate Sclera Segmentation</title>
+      <link>https://nlpr-sir.github.io/publication/wang-tbiom-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-tbiom-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seg-Edge Bilateral Constraint Network for Iris Segmentation</title>
+      <link>https://nlpr-sir.github.io/publication/hu-2019-icb/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/hu-2019-icb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sensor iris recognition using adversarial strategy and sensor-specific information</title>
+      <link>https://nlpr-sir.github.io/publication/csin-btas-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/csin-btas-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zerui Chen | Smart Identity Recognition</title>
+    <link>https://nlpr-sir.github.io/author/zerui-chen/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/zerui-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zerui Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Dec 2023 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>Zerui Chen</title>
+      <link>https://nlpr-sir.github.io/author/zerui-chen/</link>
+    </image>
+    
+    <item>
+      <title>Learning Explicit Contact for Implicit Reconstruction of Hand-held Objects from Monocular Images</title>
+      <link>https://nlpr-sir.github.io/publication/hu-aaai-2024/</link>
+      <pubDate>Wed, 13 Dec 2023 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/hu-aaai-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

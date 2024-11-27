@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qichuan Tian | Smart Identity Recognition</title>
+    <link>https://nlpr-sir.github.io/author/qichuan-tian/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/qichuan-tian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qichuan Tian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jul 2021 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>Qichuan Tian</title>
+      <link>https://nlpr-sir.github.io/author/qichuan-tian/</link>
+    </image>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
+      <link>https://nlpr-sir.github.io/publication/caiyong-ijcb-2021/</link>
+      <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/caiyong-ijcb-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
+      <link>https://nlpr-sir.github.io/publication/kunbo-itifs-2023-ne/</link>
+      <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/kunbo-itifs-2023-ne/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

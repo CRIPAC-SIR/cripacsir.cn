@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>federated learning | Smart Identity Recognition</title>
+    <link>https://nlpr-sir.github.io/tag/federated-learning/</link>
+      <atom:link href="https://nlpr-sir.github.io/tag/federated-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>federated learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jun 2022 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>federated learning</title>
+      <link>https://nlpr-sir.github.io/tag/federated-learning/</link>
+    </image>
+    
+    <item>
+      <title>FedIris: Towards More Accurate and Privacy-Preserving Iris Recognition via Federated Template Communication</title>
+      <link>https://nlpr-sir.github.io/publication/luo-cvprw-2022/</link>
+      <pubDate>Mon, 20 Jun 2022 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/luo-cvprw-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangled Federated Learning for Tackling Attributes Skew via Invariant Aggregation and Diversity Transferring</title>
+      <link>https://nlpr-sir.github.io/publication/luo-icml-2022/</link>
+      <pubDate>Tue, 14 Jun 2022 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/luo-icml-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

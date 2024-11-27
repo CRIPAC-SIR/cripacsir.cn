@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min Ren | Smart Identity Recognition</title>
+    <link>https://nlpr-sir.github.io/author/min-ren/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/min-ren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min Ren</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2024 16:12:05 +0800</lastBuildDate>
+    <image>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>Min Ren</title>
+      <link>https://nlpr-sir.github.io/author/min-ren/</link>
+    </image>
+    
+    <item>
+      <title>Understanding Deep Face Representation via Attribute Recovery</title>
+      <link>https://nlpr-sir.github.io/publication/ren-tifs-2024/</link>
+      <pubDate>Mon, 08 Jul 2024 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-tifs-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Immune System of Secure Face Recognition Against Adversarial Attacks</title>
+      <link>https://nlpr-sir.github.io/publication/ren-ijcv-2024/</link>
+      <pubDate>Wed, 26 Jun 2024 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-ijcv-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized Graph Generation for Monocular 3D Human Pose and Shape Estimation</title>
+      <link>https://nlpr-sir.github.io/publication/hu-tcsvt-2023-2/</link>
+      <pubDate>Thu, 31 Aug 2023 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/hu-tcsvt-2023-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale Dynamic Graph Representation for Biometric Recognition with Occlusions</title>
+      <link>https://nlpr-sir.github.io/publication/ren-tpami-2023/</link>
+      <pubDate>Thu, 20 Jul 2023 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-tpami-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perturbation Inactivation Based Adversarial Defense for Face Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/ren-tifs-2022/</link>
+      <pubDate>Mon, 01 Aug 2022 08:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-tifs-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Interpretable Defense Against Adversarial Attacks via Causal Inference</title>
+      <link>https://nlpr-sir.github.io/publication/ren-mir-2022/</link>
+      <pubDate>Sat, 28 May 2022 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-mir-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Instance-level Spatial-Temporal Patterns for Person Re-identification</title>
+      <link>https://nlpr-sir.github.io/publication/ren-iccv-2021/</link>
+      <pubDate>Fri, 15 Oct 2021 08:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-iccv-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alignment Free and Distortion Robust Iris Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</link>
+      <pubDate>Thu, 20 Aug 2020 07:42:58 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/# academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recognition Oriented Iris Image Quality Assessment in the Feature Space</title>
+      <link>https://nlpr-sir.github.io/publication/wang-ijcb-2020/</link>
+      <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-ijcb-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Graph Representation for Occlusion Handling in Biometrics</title>
+      <link>https://nlpr-sir.github.io/publication/ren-2020-dynamic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-2020-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alignment Free and Distortion Robust Iris Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/ren-2019-alignment/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-2019-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Partial Person Re-Identification Based on Similarity-Guided Sparse Representation</title>
+      <link>https://nlpr-sir.github.io/publication/ren-ccbr-2017/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-ccbr-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

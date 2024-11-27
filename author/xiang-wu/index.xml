@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiang Wu | Smart Identity Recognition</title>
+    <link>https://nlpr-sir.github.io/author/xiang-wu/</link>
+      <atom:link href="https://nlpr-sir.github.io/author/xiang-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiang Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiang Wu</title>
+      <link>https://nlpr-sir.github.io/author/xiang-wu/</link>
+    </image>
+    
+    <item>
+      <title>Cross-sensor iris recognition using adversarial strategy and sensor-specific information</title>
+      <link>https://nlpr-sir.github.io/publication/csin-btas-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/csin-btas-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
