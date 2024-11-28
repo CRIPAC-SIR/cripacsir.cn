@@ -5,12 +5,30 @@
     <link>https://nlpr-sir.github.io/</link>
       <atom:link href="https://nlpr-sir.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Smart Identity Recognition</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jul 2024 16:12:05 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Smart Identity Recognition</title>
       <link>https://nlpr-sir.github.io/</link>
     </image>
+    
+    <item>
+      <title>One paper was accepted to IET Computer Vision</title>
+      <link>https://nlpr-sir.github.io/post/recent-published-papers-2411/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/post/recent-published-papers-2411/</guid>
+      <description>&lt;h2 id=&#34;1-a-comprehensive-research-on-light-field-imaging-theory-and-application&#34;&gt;1. A comprehensive research on light field imaging: Theory and application&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fei Liu, Yunlong Wang, Qing Yang, Shubo Zhou, Kunbo Zhang. A comprehensive research on light field imaging: Theory and application. IET Computer Vision&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12321&#34;&gt;https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12321&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;IET-2024-pic1.png&#34; alt=&#34;IET-2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Computational photography is a combination of novel optical designs and processing methods to capture high‐dimensional visual information. As an emerged promising technique, light field (LF) imaging measures the lighting, reflectance, focus, geometry and viewpoint in the free space, which has been widely explored for depth estimation, view synthesis, refocus, rendering, 3D displays, microscopy and other applications in computer vision in the past decades. In this paper, the authors present a comprehensive research survey on the LF imaging theory, technology and application. Firstly, the LF imaging process based on a MicroLens Array structure is derived, that is MLA‐LF. Subsequently, the innovations of LF imaging technology are presented in terms of the imaging pro-
+totype, consumer LF camera and LF displays in Virtual Reality (VR) and Augmented Reality (AR). Finally the applications and challenges of LF imaging integrating with deep learning models are analysed, which consist of depth estimation, saliency detection, semantic segmentation, de‐occlusion and defocus deblurring in recent years. It is believed that this paper will be a good reference for the future research on LF imaging technology in Artificial Intelligence era.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Understanding Deep Face Representation via Attribute Recovery</title>
@@ -57,7 +75,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href=&#34;https://arxiv.org/pdf/2406.18144&#34;&gt;https://arxiv.org/pdf/2406.18144&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;ijcv-2024-pic1.png&#34; alt=&#34;ijcv-2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;IJCV-2024-pic1.png&#34; alt=&#34;ijcv-2024&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Deep learning-based face recognition models are vulnerable to adversarial attacks.In contrast to general noises, the presence of imperceptible adversarial noises can lead to catastrophic errors in deep face recognition models. The primary difference between adversarial noise and general noise lies in its specificity. Adversarial attack methods give rise to noises tailored to the characteristics of the individual image and recognition model at hand. Diverse samples and recognition models can engender specific adversarial noise patterns, which pose significant challenges for adversarial defense. Addressing this challenge in the realm of face recognition presents a more formidable endeavor due to the inherent nature of face recognition as an open set task. In order to tackle this challenge, it is imperative to employ customized processing for each individual input sample. Drawing inspiration from the biological immune system, which can identify and respond to various threats, this paper aims to create an artificial immune system (AIS) to provide adversarial defense for face recognition. The proposed defense model incorporates the principles of antibody cloning, mutation, selection, and memory mechanisms to generate a distinct “antibody” for each input sample, where in the term “antibody” refers to a specialized noise removal manner. Furthermore,we introduce a self-supervised adversarial training mechanism that serves as a simulated rehearsal of immune system invasions. Extensive experimental results demonstrate the efficacy of the proposed method, surpassing state-of-the-art adversarial defense methods. The source code is available here, or you can visit this website: &lt;a href=&#34;https://github.com/RenMin1991/SIDE&#34;&gt;https://github.com/RenMin1991/SIDE&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
