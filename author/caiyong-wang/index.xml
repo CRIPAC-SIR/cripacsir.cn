@@ -5,12 +5,116 @@
     <link>https://nlpr-sir.github.io/author/caiyong-wang/</link>
       <atom:link href="https://nlpr-sir.github.io/author/caiyong-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Caiyong Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nlpr-sir.github.io/author/caiyong-wang/avatar_hucae8922fb42d7fba31e265b7d3e6cb2f_106869_270x270_fill_lanczos_center_2.png</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Caiyong Wang</title>
       <link>https://nlpr-sir.github.io/author/caiyong-wang/</link>
     </image>
+    
+    <item>
+      <title>Sclera-TransFuse: Fusing Vision Transformer and CNN for Accurate Sclera Segmentation and Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/wang-tbiom-2024-1/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-tbiom-2024-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iris-GuideNet: Guided Localisation and Segmentation Network for Unconstrained Iris Biometrics</title>
+      <link>https://nlpr-sir.github.io/publication/jawad-tifs-2023-1/</link>
+      <pubDate>Wed, 19 Apr 2023 08:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/jawad-tifs-2023-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D-ESRGAN: A Dual-Encoder GAN with Residual CNN and Vision Transformer for Iris Image Super-Resolution</title>
+      <link>https://nlpr-sir.github.io/publication/caiyong-ijcb-2022/</link>
+      <pubDate>Tue, 17 Jan 2023 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/caiyong-ijcb-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EYE LOCATION AND STATE ESTIMATION BASED ON LANDMARKS</title>
+      <link>https://nlpr-sir.github.io/publication/he-cas-2022/</link>
+      <pubDate>Fri, 17 Jun 2022 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/he-cas-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multitask deep active contour-based iris segmentation for off-angle iris images</title>
+      <link>https://nlpr-sir.github.io/publication/lu-jei-2022/</link>
+      <pubDate>Thu, 17 Feb 2022 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/lu-jei-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
+      <link>https://nlpr-sir.github.io/publication/caiyong-ijcb-2021/</link>
+      <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/caiyong-ijcb-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NIR Iris Challenge Evaluation in Non-cooperative Environments: Segmentation and Localization</title>
+      <link>https://nlpr-sir.github.io/publication/kunbo-itifs-2023-ne/</link>
+      <pubDate>Tue, 20 Jul 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/kunbo-itifs-2023-ne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CASIA-Face-Africa: A Large-Scale African Face Image Database</title>
+      <link>https://nlpr-sir.github.io/publication/jawad-tifs-2021/</link>
+      <pubDate>Wed, 16 Jun 2021 08:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/jawad-tifs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Lightweight Multi-Label Segmentation Network for Mobile Iris Biometrics</title>
+      <link>https://nlpr-sir.github.io/publication/wang-icassp-2020/</link>
+      <pubDate>Thu, 09 Apr 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-icassp-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/wang-tifs-2020/</link>
+      <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-tifs-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Complete and Accurate Iris Segmentation Using Deep Multi-Task Attention Network for Non-Cooperative Iris Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/wang-tifs-2021/</link>
+      <pubDate>Mon, 16 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-tifs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScleraSegNet: An Attention Assisted U-Net Model for Accurate Sclera Segmentation</title>
+      <link>https://nlpr-sir.github.io/publication/wang-tbiom-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/wang-tbiom-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alignment Free and Distortion Robust Iris Recognition</title>
+      <link>https://nlpr-sir.github.io/publication/ren-2019-alignment/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/ren-2019-alignment/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
