@@ -5,12 +5,20 @@
     <link>https://nlpr-sir.github.io/author/shubo-zhou/</link>
       <atom:link href="https://nlpr-sir.github.io/author/shubo-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Shubo Zhou</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Jan 2023 16:12:05 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0800</lastBuildDate>
     <image>
       <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Shubo Zhou</title>
       <link>https://nlpr-sir.github.io/author/shubo-zhou/</link>
     </image>
+    
+    <item>
+      <title>A comprehensive research on light field imaging: Theory and application</title>
+      <link>https://nlpr-sir.github.io/publication/liu-iet-2024/</link>
+      <pubDate>Sat, 02 Nov 2024 00:00:00 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/liu-iet-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AIF-LFNet: All-in-Focus Light Field Super-Resolution Method Considering the Depth-Varying Defocus</title>

@@ -5,12 +5,28 @@
     <link>https://nlpr-sir.github.io/author/yu-tian/</link>
       <atom:link href="https://nlpr-sir.github.io/author/yu-tian/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu Tian</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Apr 2021 16:12:05 +0800</lastBuildDate>
     <image>
-      <url>https://nlpr-sir.github.io/author/yu-tian/avatar_hua9265952c5ddbd5ad6a416312f22d3d3_2586288_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://nlpr-sir.github.io/images/icon_hu42e11727b1bd363727a38d52796c9ff5_15822_512x512_fill_lanczos_center_2.png</url>
       <title>Yu Tian</title>
       <link>https://nlpr-sir.github.io/author/yu-tian/</link>
     </image>
+    
+    <item>
+      <title>Avoiding Spectacles Reflections on Iris Images Using A Ray-tracing Method</title>
+      <link>https://nlpr-sir.github.io/publication/yu-tian-ijcb-2021/</link>
+      <pubDate>Wed, 07 Apr 2021 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/yu-tian-ijcb-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Anti-Spoofing by Learning Polarization Cues in a Real-World Scenario</title>
+      <link>https://nlpr-sir.github.io/publication/kunbo-cvpr-2020/</link>
+      <pubDate>Wed, 18 Mar 2020 16:12:05 +0800</pubDate>
+      <guid>https://nlpr-sir.github.io/publication/kunbo-cvpr-2020/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

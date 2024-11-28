@@ -22,7 +22,7 @@
 &lt;p&gt;Fei Liu, Yunlong Wang, Qing Yang, Shubo Zhou, Kunbo Zhang. A comprehensive research on light field imaging: Theory and application. IET Computer Vision&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12321&#34;&gt;https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12321&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://doi.org/10.1049/cvi2.12321&#34;&gt;https://doi.org/10.1049/cvi2.12321&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;IET-2024-pic1.png&#34; alt=&#34;IET-2024&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Computational photography is a combination of novel optical designs and processing methods to capture high‐dimensional visual information. As an emerged promising technique, light field (LF) imaging measures the lighting, reflectance, focus, geometry and viewpoint in the free space, which has been widely explored for depth estimation, view synthesis, refocus, rendering, 3D displays, microscopy and other applications in computer vision in the past decades. In this paper, the authors present a comprehensive research survey on the LF imaging theory, technology and application. Firstly, the LF imaging process based on a MicroLens Array structure is derived, that is MLA‐LF. Subsequently, the innovations of LF imaging technology are presented in terms of the imaging pro-
