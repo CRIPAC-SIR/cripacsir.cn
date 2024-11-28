@@ -19,7 +19,7 @@ external_link: ""
 > Fei Liu, Yunlong Wang, Qing Yang, Shubo Zhou, Kunbo Zhang. A comprehensive research on light field imaging: Theory and application. IET Computer Vision
 
 > 
-> <https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cvi2.12321>
+> <https://doi.org/10.1049/cvi2.12321>
 
 ![IET-2024](IET-2024-pic1.png)
 
